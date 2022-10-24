@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac077"
+  },
+  "titulo": "Matemáticas"
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac078"
+  },
+  "titulo": "Competencia digital "
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac079"
+  },
+  "titulo": "Medio Natural y Social "
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac07a"
+  },
+  "titulo": "Comunicación y lenguaje"
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac07b"
+  },
+  "titulo": "Autonomía,Sensomotricidad y Habilidades Sociales"
+}]

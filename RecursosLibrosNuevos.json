@@ -1,0 +1,451 @@
+[{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0ad"
+  },
+  "titulo": "¡Canta, ratoncito!",
+  "edad": "3",
+  "autor": "ANTJE VOGEL",
+  "año": "",
+  "resumen": "Un ratoncito muy divertido que es una marioneta de peluche acompañará al niño por las páginas del cuento. Este libro es ideal tanto para los niños, que jugar con el libro, como para los padres, que podrán utilizarlo para llamar la atención de los más pequeños cuando comienzan a contarles cuentos."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0ae"
+  },
+  "titulo": "El Pez Arcoíris",
+  "edad": "3",
+  "autor": "Marcus Pfister",
+  "año": "2021",
+  "resumen": "Nuestro héroe, el pez arco iris, vuelve al rescate. En esta ocasión debe lograr encontrar un alga curativa para un pez enfermo de la espalda y se ofrece voluntario para entrar en la temida cueva de los monstruos marinos, el lugar más peligroso del océano. Advertido por sus amigos sobre los terribles habitantes de las profundidades -los monstruos de las rocas, el pez esfera, con cinco ojos, y la horrible criatura de mil brazos- el pez arco iris se arma de valor e inicia su arriesgada búsqueda en compañía del pececito azul."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0af"
+  },
+  "titulo": "El pollo Pepe va al colegio",
+  "edad": "2",
+  "autor": "Nick Denchfield",
+  "año": "2015",
+  "resumen": "Hoy es el primer día de colegio del pollo Pepe, pero se ha quedado dormido y esta mañana tiene mucha prisa. ¿Llegará a tiempo?"
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0b0"
+  },
+  "titulo": "El pollo Pepe y los números",
+  "edad": "2",
+  "autor": "Nick Denchfield",
+  "año": "2018",
+  "resumen": "¿Se hará un lío el pollo Pepe con los números, o se le dará bien contar?"
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0b1"
+  },
+  "titulo": "Cierra los Ojos, Ona",
+  "edad": "0",
+  "autor": "Raquel Piñero Ferrete",
+  "año": "2018",
+  "resumen": "Ona es una pequeña rana que salta sin parar en su charca, pero que, cuando llega la hora de irse a la cama, nunca quiere dormir. Su mamá tiene una herramienta estupenda para ayudar a Ona a dormirse y superar el miedo a la oscuridad. ¿Cuál será? La mamá de Ona, además, sabe el verdadero secreto para descubrir la belleza de las cosas más sencillas. ¿Quieres conocerlo? Acompaña a Ona y a su mamá a vivir una preciosa aventura, mientras aprendes y enseñas a realizar divertidas posturas de Yoga, te relajas y respiras."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0b2"
+  },
+  "titulo": "Encuéntrame en la nieve",
+  "edad": "1",
+  "autor": "Natalie Marshall",
+  "año": "2017",
+  "resumen": "¿Quién nada bajo los icebergs? ¿Quién da esas pisadas tan fuertes? ¿Y quién se cuelga de esa rama? ¿Quién está detrás de las algas? Tira de las resistentes solapas y descubre las fabulosas criaturas que viven en la nieve, en la selva, en el mar y el bosque."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0b3"
+  },
+  "titulo": "El mago Martín",
+  "edad": "0",
+  "autor": "Xavier Deneux",
+  "año": "2017",
+  "resumen": "En este libro Martín es mago y se puede convertir en lo que quiera."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0b4"
+  },
+  "titulo": "¡Feliz Navidad, Lobo Feroz!",
+  "edad": "2",
+  "autor": "Jean Leroy",
+  "año": "2021",
+  "resumen": "Es Nochebuena y el lobo feroz está enfadado porque nunca le traen regalos. Por eso, decide ir al Polo Norte, a casa de Papa Noel, a reclamar el suyo."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0b5"
+  },
+  "titulo": "Robin de los bosques",
+  "edad": "5",
+  "autor": "Coralie Vallageas",
+  "año": "2016",
+  "resumen": "Érase una vez el mejor arquero del mundo, un rey honesto y un príncipe malvado…"
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0b6"
+  },
+  "titulo": "El gran libro de las emociones",
+  "edad": "6",
+  "autor": "María Menéndez Ponte",
+  "año": "2020",
+  "resumen": "Reconocer y saber expresar emociones y sentimientos es fundamental en el desarrollo de los más pequeños. En ocasiones, los adultos entendemos qué sienten pero no sabemos cómo explicárselo para que sean capaces de comprenderse mejor. Sin embargo, hacerlo es un paso necesario para madurar y crecer felices. Los 30 cuentos de María Menéndez-Ponte ayudarán a reconocer y gestionar todo tipo de emociones. Las aventuras de sus simpáticos protagonistas conseguirán que la difícil tarea de entender nuestras propias emociones sea más divertida que nunca. Todo ello, acompañado de las fichas elaboradas por La Nau Espacial, centro especializado en educación emocional."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0b7"
+  },
+  "titulo": "Clan del talisman",
+  "edad": "5",
+  "autor": "Begoña Ibarrola",
+  "año": "2016",
+  "resumen": "Cuando Miguel decide solicitar la entrada en el Clan de los guerreros, no sabe la dura prueba a la que tendrá que enfrentarse. Intenta superarla pero descubre que algo en su interior se lo impide. Su relación con Noa, una de sus compañeras de clase, y el encuentro con unas misteriosas luciérnagas, le ayudarán a formar un nuevo clan y a descubrir lo que significa la verdadera amistad. Este cuento trata del valor de la AMISTAD."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0b8"
+  },
+  "titulo": "Emocuentos. Un corazón repleto de emociones",
+  "edad": "3",
+  "autor": "Mercè Conangla, Jaume Soler y Ester Llorens.",
+  "año": "2020",
+  "resumen": "¿Imaginas viajar al planeta Calma, al de la Alegría o al de la Tristeza? ¿E ir a la Casa de las Emociones? Junto con Zulma, Joana y Aniol, los lectores descubrirán el mundo de las emociones a través de 10 cuentos dedicados cada uno a una emoción en particular. También se sorprenderán con dragones, tortugas, peces o ratones, al mismo tiempo que viven aventuras y recorren diferentes paisajes."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0b9"
+  },
+  "titulo": "¿Dónde está Papá Noel?",
+  "edad": "3",
+  "autor": "Mandy Archer",
+  "año": "2019",
+  "resumen": "Es Nochebuena y Ratoncito lleva todo el día esperando sus regalos, pero ¡Papá Noel no ha aparecido! ¿Qué habrá pasado? Tal vez deba irse tranquilo a dormir para encontrar sus regalos. Ayuda a Ratoncito a buscar por la casa y descubre las sorpresas que esconden las solapas."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0ba"
+  },
+  "titulo": "Hotel Bruce",
+  "edad": "3",
+  "autor": "Ryan T. Higgins",
+  "año": "2019",
+  "resumen": "El oso gruñón más querido por los lectores. ¡Te divertirá la historia y te encantarán las tiernas ilustraciones de Ryan T. Higgins!. Bruce ha vuelto, pero esta vez encuentra algo más que unos gansos en el plato. Una gran cantidad de animales del bosque se ha apoderado de su guarida, y no va a haber quien los eche."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0bb"
+  },
+  "titulo": "Juego de letras",
+  "edad": "4",
+  "autor": "Antonio Rubio Herrero",
+  "año": "2020",
+  "resumen": "\"CON UNA A LA TIENDA DE LOS INDIOS ABIERTA ESTÁ.\" Las 27 letras del abecedario son las protagonistas de una propuesta poética y lúdica para pre-lectores y primeros lectores, de la mano de los artífices de la colección De la cuna a la luna. Esta obra supone un paso más con respecto a los conocidos poegramas. Antonio Rubio presenta textos rimados de tres versos en los que, de la A a la Z, cada signo gráfico se define con una cualidad o semejanza a objetos diversos. Óscar Villán le da forma a cada definición, con ilustraciones reconocibles sobre fondos claros: personas, frutas, animales, objetos cotidianos…"
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0bc"
+  },
+  "titulo": "Ángela",
+  "edad": "3",
+  "autor": "José Francisco",
+  "año": "2019",
+  "resumen": "Ángela acaba de nacer entre los matorrales de la selva. Su madre, una jirafa tan grande como un rascacielos, la acaricia con su lengua cálida. Después, con un ligero empujón la anima a levantarse. Pero las patas de Ángela no la sostienen y, aunque lo intenta, tras solo dos pasos torpes de bebé grandote vuelve a caer al suelo... Un precioso y emocionante cuento con espectaculares ilustraciones, dedicado a todos aquellos que tienen alguna dificultad para encontrar su lugar en el mundo."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0bd"
+  },
+  "titulo": "Lupas y Nanai. Un misterio de aire",
+  "edad": "7",
+  "autor": "Diego Arboleda",
+  "año": "2020",
+  "resumen": "Acompaña a Lupas y Nanai en este libro repleto de humor y disparatadas sorpresas. El lobo cuenta con su imaginación y sus extrañas lupas; la jirafa, con su inteligencia y su audacia. Juntos desentrañarán este misterio de aire, un misterio muy especial, muy celestial y muy oriental. Un emperador desaparecido y una ciudad prohibida, un unicornio chino, una muralla interminable, nubes dibujadas con tinta..."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0be"
+  },
+  "titulo": "Tú eres un cielo azul",
+  "edad": "6",
+  "autor": "Antonio Adánez",
+  "año": "2019",
+  "resumen": "Vera, una niña inquieta y curiosa, comienza a preguntarse sobre su relación con lo que le rodea y su mundo interior, lo que le lleva a buscar una respuesta. Tú eres un cielo azul es un cuento para todas las edades que aborda de manera sencilla, poética e intuitiva los fundamentos filosóficos de la meditación. Posee una inusual fuerza pedagógica y rebosa sabiduría."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0bf"
+  },
+  "titulo": "El espacio (Mundo animado)",
+  "edad": "7",
+  "autor": "Christophe Chaffardon",
+  "año": "2018",
+  "resumen": "Un libro sobre el espacio con muchas solapas y ruedas con el que aprenderás a distinguir las estrellas de los planetas, descubrirás las constelaciones, los planetas del sistema solar, y por qué en la Tierra hay día y noche, y aprenderás sobre las distintas misiones espaciales, la vida de los astronautas en el espacio, la llegada del hombre a la Luna y las posibles expediciones futuras."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0c0"
+  },
+  "titulo": "Pequeña & Grande Carmen Amaya",
+  "edad": "7",
+  "autor": "María Isabel Sánchez Vegara",
+  "año": "2018",
+  "resumen": "Carmen Amaya es la bailaora más universal del flamenco, toda fuerza y compás, poder y alma pura. Artista libre, autodidacta y revolucionaria, firmó contratos fabulosos y elevó el flamenco a la categoría de arte en escenarios de todo el mundo. Inclasificable, única e inmortal, nadie ha bailado como La Capitana y nadie volverá a hacerlo."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0c1"
+  },
+  "titulo": "Yo iré a la escuela por ti",
+  "edad": "7",
+  "autor": "Martina y Anitram",
+  "año": "2018",
+  "resumen": "¿A ti también te cuesta levantarte por la mañana para ir al cole? ¿Te gustaría ir a una clase de magia o aprender a hablar con las plantas? ¿Y viajar a mundos fantásticos a través de un árbol mágico? ¿Sabes lo que es un libro monstruoso? ¡Descubre con Martina y Anitram lo divertido que puede ser ir a la escuela!"
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0c2"
+  },
+  "titulo": "El traje nuevo del emperador",
+  "edad": "8",
+  "autor": "Hans Christian Andersen",
+  "año": "2011",
+  "resumen": "Hace muchos años vivía un emperador al que tanto complacían los trajes nuevos y hermosos que gastaba todo su dinero en ir debidamente acicalado. No pasaba revista a sus soldados, no le interesaba el teatro ni los paseos por el bosque a no ser con el fin de lucir sus nuevas ropas. Tenía un traje para cada hora del día y, lo mismo que de un rey se dice que está en el gabinete, de él siempre decían: -¡El emperador está en el guardarropa!"
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0c3"
+  },
+  "titulo": "El cerdito de Navidad",
+  "edad": "6",
+  "autor": "J.K. Rowling",
+  "año": "2021",
+  "resumen": "Dito es el juguete preferido de Jack. Siempre ha estado a su lado, en los buenos y malos momentos. Hasta que el día de Nochebuena sucede algo terrible: Dito se pierde. Pero es una noche especial, una noche para los milagros y los casos perdidos, una noche en la que los objetos, incluidos los juguetes, pueden cobrar vida. Y el juguete que le han regalado a Jack, el nuevo cerdito de Navidad (el frustrante sustituto de Dito), tramará un plan muy arriesgado. Juntos se embarcarán en un viaje mágico para intentar recuperar y salvar al que hasta ahora ha sido el mejor amigo de Jack."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0c4"
+  },
+  "titulo": "El robot Del Bosque",
+  "edad": "6",
+  "autor": "Jaume Copons Ramon",
+  "año": "2020",
+  "resumen": "Mus y Wagner, una rata y un oso, encuentran un robot en medio de la carretera. Deciden llevárselo a casa y arreglarlo. Su nombre es Bitmax y tiene una extraña profesión: ¡es ayudador! Junto a los habitantes del Bosque Azul vivirán aventuras y ayudarán a todo aquel que lo necesite."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0c5"
+  },
+  "titulo": "Iluminasaurios",
+  "edad": "9",
+  "autor": "Lucy Brownridge",
+  "año": "2020",
+  "resumen": "¿Has soñado alguna vez con viajar a la época de los dinosaurios? Pues despierta y descubre un caleidoscopio de colores con las criaturas prehistóricas más fascinantes del mundo.Gracias a los filtros mágicos podrás ver de cerca todos los secretos de la flora y la fauna del pasado, en una apasionante aventura por el Triásico, el Jurásico y el Cretácico."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0c6"
+  },
+  "titulo": "El Pequeño Manipulador",
+  "edad": "8",
+  "autor": "Maciej Lazowski",
+  "año": "2021",
+  "resumen": "La manipulación está en todas partes hoy en día, en la política, la televisión, los periódicos y en la calle, entre nosotros... Es difícil de evitar y es fácil darse por vencido. A veces cuesta encontrar al pequeño manipulador, pero está ahí, en la escuela, en la tienda del barrio y en la oficina. Habla, insiste, persuade y es tan listo que cada uno de nosotros hace exactamente lo que quiere el pequeño manipulador. Porque esa es su intención: convertirte en una marioneta."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0c7"
+  },
+  "titulo": "EL DESEO DE MAR",
+  "edad": "8",
+  "autor": "Raquel Pulido Gómez",
+  "año": "2018",
+  "resumen": "Esta historia comienza con una decepción. Mar llevaba un año soñando con pasear a su perro por el paseo marítimo la mañana del 6 de enero. Ella había pedido un perrito de carne y hueso. Sin embargo, lo que le trajeron los Reyes Magos fue un robot de plástico. El día de Reyes pasó así sin pena ni gloria. Mar se fue a la cama y se tapó con el edredón hasta la nariz sin siquiera abrir la caja del perrito robot."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0c8"
+  },
+  "titulo": "Jim el Pecas",
+  "edad": "9",
+  "autor": "María Menéndez Ponte",
+  "año": "2020",
+  "resumen": "Antonio tiene ocho años y sueña con ser un auténtico cowboy del Oeste americano, y que John Wayne, su héroe de las películas, vaya a buscarlo a Santiago de Compostela para irse con él. Un día, encuentra la foto de Jim el Pecas, un vaquero de su misma edad, y decide apropiarse de su identidad. Pero esta misión no le resultará nada fácil, aunque luchar por los sueños siempre tiene grandes recompensas… Un homenaje a la infancia, a la familia, a los amigos, a la imaginación y a los juegos de siempre. Un llamamiento tierno y divertido a disfrutar de las pequeñas cosas, y a saber ser feliz con lo que cada uno tiene."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0c9"
+  },
+  "titulo": "La isla del tesoro",
+  "edad": "8",
+  "autor": "Robert Louis Stevenson",
+  "año": "2020",
+  "resumen": "En la taberna del Almirante Benbow se esconde un viejo lobo de mar que muere inesperadamente. Jim Hawkins, el hijo del tabernero, descubre por casualidad un extraño mapa en el baúl del viejo pirata. Ese mapa será la razón por la que nuestros protagonistas emprenderan una emocionante expedición a una isla desconocida en busca de un mítico tesoro. El joven Jim, el sr. Trelawney y el doctor Livesey se embarcan junto al capitán Smollett en la goleta La Hispaniola rumbo a una fascinante aventura. Pronto descubrirán que la tripulación está a las órdenes de John Silver, cocinero de abordo y auténtico pirata con una sola pierna, quien también codicia el tesoro y no piensa compartirlo. La Isla del Tesoro es una de las más grandes novelas de aventuras de todos los tiempos que sin duda emocionará a los lectores de cualquier edad. Atrévete a embarcarte en esta emocionante aventura que hemos enriquecido con las nuevas técnologías y encuentra tú el preciado tesoro que todos persiguen. ¡A la caza del tesoro, queridos grumetes!"
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0ca"
+  },
+  "titulo": "Ñam. Sobre lo que comemos",
+  "edad": "8",
+  "autor": "Diana Oliver",
+  "año": "2020",
+  "resumen": "¿Por qué tenemos que compartir este libro con los jóvenes lectores? Este álbum ofrece datos útiles y atractivos sobre la importancia de la alimentación, para ayudar a los jóvenes lectores, y a las familias, a tomar conciencia sobre lo que comemos para poder elegir con argumentos. En los últimos años, la sociedad ha tomado conciencia de la importancia de la alimentación como factor clave para disfrutar de una buena salud y evitar las enfermedades. Cada día nos interesa más saber qué comemos, de dónde viene, cómo se ha preparado, qué elementos contiene y cómo afectará a nuestro organismo. Queremos comer sano. Pero ¿Qué es comer sano? Hoy es difícil saberlo."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0cb"
+  },
+  "titulo": "Sito Kesito y su robot gigantesco",
+  "edad": "8",
+  "autor": "Dav Pilkey",
+  "año": "2005",
+  "resumen": "Sito Kesito es una ratón pequeño y en su colegio todos se meten con él. Un día encuentra un robot gigantesco y las cosas empiezan a cambiar. ¿Qué emocionantes aventuras le esperan a partir de ahora? Una fantástica historia que divierte y estimula la imaginación al mismo tiempo."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0cc"
+  },
+  "titulo": "LA UNIVERSIDAD DE TODOMÍO",
+  "edad": "9",
+  "autor": "Fabrizio Silei",
+  "año": "2018",
+  "resumen": "Los señores Smirth han probado todo tipo de métodos para transmitir a Primo los sanos valores de la vida: la codicia y el egoísmo. Al fin y al cabo, lo trajeron al mundo solo por eso: para ser su digno heredero. Sin embargo, Primo se revela un desastre: ¡presta dinero gratis! ¡Desbarata embrollos perfectos! En definitiva, es un niño bueno, más que bueno, ¡buenísimo! ¿Cómo remediarlo? Se precisaría una escuela adecuada, con un director rígido, educadores severos y compañeros terribles que sirvieran de modelo. ¿Pero existe una escuela así? Claro: es la Universidad de Todomío. Y una mañana gélida, Primo es abandonado frente a su portón. Si creéis que ese es su fin, os equivocáis de medio a medio. Nunca hay que infravalorar los cambios (y las carcajadas) que un niño de bondad incorregible es capaz de desencadenar en el mundo."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0cd"
+  },
+  "titulo": "El circo abominable",
+  "edad": "10",
+  "autor": "Llanos Campos Martínez",
+  "año": "2020",
+  "resumen": "El día en que el Circo de las Maravillas y las Abominaciones llega a Chassburgo, Valentina se las promete muy felices: ¡por fin una atracción en condiciones! Ahora, entre exploración y exploración del misterioso Teatro Barona, Héctor, Tashi y ella podrán asistir a una función... Pero, por desgracia unas veces y por suerte otras, Valentina casi siempre se equivoca en sus suposiciones. Y así, lo que debería ser una entretenida tarde de circo termina convirtiéndose en una aventura llena de de timos, peligros, secuestros, magia y huidas... ¡para que luego digan que en Chassburgo nunca pasa nada!"
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0ce"
+  },
+  "titulo": "El Club Del Fuego Secreto",
+  "edad": "10",
+  "autor": "Diego Blanco",
+  "año": "2020",
+  "resumen": "Tres misteriosos profesores reclutan a un grupo de chicos para que lleven a cabo una importante misión: encerrar los miedos en los libros y devolver el Fuego Secreto a la humanidad. Su elección se debe a dos características que todos ellos comparten: por un lado, les apasionan los libros y todo lo que tiene que ver con ellos. Por otro, sus vidas se encuentran condicionadas por miedos y amenazas. El museo de los cuentos, primera entrega de El club del Fuego Secreto, nos presenta a David, un chico inteligente y solitario, acosado y perseguido por los abusones de su colegio; a Oscar, su inseparable e hipocondriaco compañero de 3º de la ESO. A la valiente, pizpireta y atrevida Paula, la pequeña del grupo. Y también a Dany, la misteriosa chica de ojos verdes y mirada triste que ayuda a su abuelo con la librería en la que se suelen refugiar David y Óscar. Todos ellos darán vida a El club del Fuego Secreto. A partir de ese momento, su existencia cotidiana cambiará radicalmente y se verán inmersos en diversas tramas y aventuras."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0cf"
+  },
+  "titulo": "El secreto de Olga",
+  "edad": "10",
+  "autor": "Patricia García-Rojo",
+  "año": "2019",
+  "resumen": "Olga vive en un futuro no muy lejano, donde la Tierra es un enorme basurero en el que la vida apenas sobrevive y los espacios naturales son santuarios protegidos que no pueden tan siquiera visitarse. Quiere ayudar a su hermana, que sufre una enfermedad pulmonar a causa de la contaminación, y cree que el único que puede salvarla es el espíritu del bosque, que vive en la cima de la montaña. Con la ayuda de su amigo Marcos, y a escondidas de sus padres, emprenderá un viaje peligroso en busca de una solución para su hermana y para el mundo."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0d0"
+  },
+  "titulo": "Van Pelmi: cazador de vaguillos",
+  "edad": "10",
+  "autor": "Iñaki R. Díaz ",
+  "año": "2016",
+  "resumen": "El valiente y singular doctor Van Pelmi comienza una cruzada épica en busca de unas terribles criaturas que se están apoderando del mundo, convirtiéndolo en un lugar inhóspito y vacío de contenido: los vaguillos. Pero el jefe de estos seres tan holgazanes es un conde muy poderoso y Van Pelmi no lo va a tener tan fácil¿ Una crítica original y desternillante contra la falta de motivación hacia el aprendizaje."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0d1"
+  },
+  "titulo": "LAS AVENTURAS DE KANIDE",
+  "edad": "10",
+  "autor": "Iñaki Sainz De Murieta",
+  "año": "2016",
+  "resumen": "La presente obra busca entretener a los lectores más pequeños, aportando una visión personalista y dinámica de la Prehistoria a través de Kanide, principal protagonista de estos relatos, mientras se educa en valores universales que buscan el respeto a la vida y la naturaleza."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0d2"
+  },
+  "titulo": "MUNDO SUEÑO",
+  "edad": "11",
+  "autor": "Pilar Pascual Echalecu",
+  "año": "2016",
+  "resumen": "Los padres de Rebeca han desaparecido sin dejar rastro y ella ha tenido que ir a vivir con su abuelo, el profesor Balvatin. Se siente desorientada y perdida en la vieja y peculiar casa de este, un anciano distante y frío al que no ve desde que era muy pequeña. Rebeca descubrirá pronto que la desaparición de sus padres no es casual y que ella misma está en peligro. Su realidad se desmoronará para transportarla a una realidad oculta, a un secreto milenario que ha estado relacionado con sus ancestros desde el principio de los tiempos, y por el que será perseguida por inesperados y peligrosos enemigos. * * * «Mientras haya una sola persona que sueñe, sus sueños podrán germinar y echar brotes en ambos mundos. La imaginación es una gota de sueño que Morfeo dejó en cada uno de nosotros, y que de padres a hijos se va heredando, a veces con más fuerza, a veces con menos. Gracias a ella, lo que una vez estuvo unido podrá volver a estarlo.»"
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0d3"
+  },
+  "titulo": "La Historia Interminable",
+  "edad": "11",
+  "autor": "Michael Ende",
+  "año": "2016",
+  "resumen": "La Emperatriz Infantil está mortalmente enferma y su reino, Fantasia, corre un grave peligro. La salvación depende de Atreyu, un valiente guerrero de la tribu de los pieles verdes, y Bastian, un niño tímido que lee con pasión un libro mágico. Solo un ser humano puede salvar este lugar encantado. Juntos emprenderán un fascinante viaje a través de tierras de dragones, gigantes, monstruos y magia que no tiene vuelta atrás. A medida que se adentra en Fantasia, Bastian deberá resolver también los misterios de su propio corazón."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0d4"
+  },
+  "titulo": "El museo de los ladrones: Los guardianes",
+  "edad": "11",
+  "autor": "Lian Tanner",
+  "año": "2015",
+  "resumen": "Goldie Roth vive en la tiránica ciudad de Alhaja, donde la valentía es un pecado, y la audacia, un crimen. Solo hay una salida para alguien como ella, rebelde y atrevida: huir lejos de allí. En su huida, una figura misteriosa la guiará hacia el mágico y oculto Museo de Coz. Lleno de maravillosos secretos, pero también inquietante y oscuro: en sus estancias acecha la sombra de un monstruoso iracán, y solo alguien con el talento de los ladrones podría conducirse a través de sus extrañas y cambiantes salas."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0d5"
+  },
+  "titulo": "La niña que bebió luz de luna",
+  "edad": "11",
+  "autor": "Kelly Barnhill",
+  "año": "2018",
+  "resumen": "Esta es la historia de una niña que nació sin magia, y bebiendo luz de luna se convirtió en una persona enmagizada. De una bruja con un gran corazón y una misión imprevista. De un monstruo del pantano sabio y poeta. Y de un minúsculo dragón que espera crecer algún día. Esta es la historia de seres mágicos que se comportan como personas corrientes, y personas corrientes que se convierten en seres mágicos. Esta es la historia de cómo todos ellos salvaron a su mundo de la infelicidad y la tristeza."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0d6"
+  },
+  "titulo": "El caballo de Lord Byron",
+  "edad": "12",
+  "autor": "Vanesa Pérez-Sauquillo",
+  "año": "2018",
+  "resumen": "Desde su lámpara, un poderoso genio nos cuenta esta sorprendente historia donde la realidad se cruza con la magia. Marco está fascinado con el poeta que va a vivir en el palacio donde trabajan sus padres. Se llama Lord Byron ¡y trae una barca llena de animales! Monos, zorros, pájaros... ¡Qué alegría cuando Lord Byron le dice que su hija Allegra pasará allí unos meses, así no se aburrirá entre tantos adultos!. En un verano luminoso e inolvidable, Marco descubrirá con Allegra los pasadizos secretos del palacio veneciano; juntos buscarán tesoros y se asombrarán con los extraordinarios objetos que guarda el poeta en baúles y cajas. Pero las aventuras pueden traer también desventuras, y la magia puede resultar peligrosa. A veces el mayor de los tesoros está al alcance de nuestra mano. Solo hay que saber distinguirlo."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0d7"
+  },
+  "titulo": "El chico de la flecha",
+  "edad": "12",
+  "autor": "Espido Freire",
+  "año": "2016",
+  "resumen": "Marco es un chico como cualquier otro que podríamos encontrar hoy en día: inteligente, sensible, con muchas cualidades y también muchos miedos. Con doce años, se encuentra en esa edad en la que la vida cambia para siempre; en la que deja atrás al niño sin responsabilidades y comienza a dar pasos en el camino de los adultos. Su historia y sus preocupaciones podrían ser las de cualquier otro adolescente, y sus errores, muy parecidos. La única diferencia es que Marco vive en el siglo I d. C. en Emerita Augusta, la actual Mérida, una ciudad de la Hispania romana donde conviven ciudadanos libres con esclavos, donde las mujeres se encuentran tuteladas por sus familiares, y donde la sociedad, aunque sofisticada, disfruta de entretenimientos violentos. Marco, junto con su amigo Aselo, se equivocará, aprenderá a pedir ayuda y, en definitiva, hará lo que cualquier otro chico de su edad: crecer."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0d8"
+  },
+  "titulo": "El Club De Las Zapatillas Rojas",
+  "edad": "12",
+  "autor": "Ana Punset",
+  "año": "2013",
+  "resumen": "Lucía, Frida, Bea y Marta son inseparables, siempre lo han sido y siempre lo serán. Ahora deben enfrentarse a una difícil noticia: ¡Marta y su familia se va a vivir a Berlín! Parece que el mundo se acaba... pero pronto las cuatro amigas decidirán fundar un club que les permitirá estar siempre unidas."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0d9"
+  },
+  "titulo": "El premio de tu vida",
+  "edad": "12",
+  "autor": "Arnfinn Kolerud",
+  "año": "2019",
+  "resumen": "Todo empieza un día normal y corriente en el que Frank y su madre ganan el gordo de la lotería. A partir de ese momento, ya no habrán más días normales y corrientes para ellos. Todos en el pueblo se movilizan para rascar algo del premio. Entonces su madre lo complica más al proponer un gran pellizco para quien realice la mejor acción para la comunidad. Una historia superdivertida sobre lo difícil que resulta ser increíblemente rico y –a la vez- una buena persona."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0da"
+  },
+  "titulo": "El príncipe de la niebla",
+  "edad": "14",
+  "autor": "Carlos Ruiz Zafón",
+  "año": "2007",
+  "resumen": "El nuevo hogar de los Carver, que se han mudado a la costa huyendo de la ciudad y de la guerra, está rodeado de misterio. Todavía se respira el espíritu de Jacob, el hijo de los antiguos propietarios, que murió ahogado. Las extrañas circunstancias de esa muerte sólo se empiezan a aclarar con la aparición de un diabólico personaje: el Príncipe de la Niebla, capaz de conceder cualquier deseo a una persona; eso sí, a un alto precio."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0db"
+  },
+  "titulo": "La joven de las naranjas",
+  "edad": "13",
+  "autor": "Jostein Gaarder",
+  "año": "2021",
+  "resumen": "Georg, un joven apasionado por la astronomía, encuentra un día la carta que su padre le escribió al saber que iba a morir. En ella le habla del gran amor que sintió por la misteriosa Joven de las Naranjas para, finalmente, formularle una pregunta a la que Georg debe responder. Antes de contestar, escribirá un libro con su padre, un relato que va más allá del tiempo y de los límites de la muerte. Si pudiéramos escoger, ¿elegiríamos nacer y conocer la vida en toda su intensidad, sabiendo que solamente permaneceremos un instante en ella?, ¿o rechazaríamos la oferta?"
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0dc"
+  },
+  "titulo": "Las Lágrimas de Naraguyá",
+  "edad": "13",
+  "autor": "Catalina González Vilar",
+  "año": "2017",
+  "resumen": "Florencio Méndez acaba de cruzar el Atlántico para adentrarse en la selva en busca de la Flamigera carnivora, una planta tan interesante como letal. Allí conocerá a Antoninus Kürst, más conocido como Meteo, un buscador de meteoritos que persigue unos fragmentos de estrella llamados «las lágrimas de Naraguyá». Juntos descubrirán que ambas cosas tienen mucho que ver, y que a veces lo más sensato es creer en la magia."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0dd"
+  },
+  "titulo": "Las Lágrimas de Shiva",
+  "edad": "13",
+  "autor": "César Mallorquí del Corral",
+  "año": "2005",
+  "resumen": "En cierta ocasión, hace ya mucho tiempo, vi un fantasma. Sí, un espectro, una aparición, un espíritu; lo puedes llamar como quieras, el caso es que lo vi. Ocurrió el mismo año en que el hombre llegó a la Luna y, aunque hubo momentos en los que pasé mucho miedo, esta historia no es lo que suele llamarse una novela de terror. --Todo comenzó con un enigma: el misterio de un objeto muy valioso que estuvo perdido durante siete décadas. Las Lágrimas de Shiva, así se llamaba ese objeto extraviado. A su alrededor tuvieron lugar venganzas cruzadas, y amores prohibidos, y extrañas desapariciones.--Hubo un fantasma, sí, y un viejo secreto oculto en las sombras, pero también hubo mucho más."
+},{
+  "_id": {
+    "$oid": "632173f8f879bb01f583d0de"
+  },
+  "titulo": "Las pruebas de Apolo",
+  "edad": "14",
+  "autor": "Rick Riordan",
+  "año": "2016",
+  "resumen": "Tras enfurecer a Zeus, el dios Apolo es desterrado del Olimpo. Débil y desorientado, aterriza en la ciudad de Nueva York convertido en un chico normal. Sin sus poderes divinos y bajo la apariencia de un adolescente que disimula sus cuatro mil años de edad, Apolo deberá aprender a sobrevivir en el mundo moderno mientras busca la manera de recuperar la confianza de Zeus. Pero entre dioses, monstruos y mortales, Apolo tiene muchos enemigos a quienes no les interesa que recupere sus poderes y vuelva al Olimpo. Cuando Apolo se ve en apuros, solo le queda un lugar donde acudir: un refugio secreto de semidioses modernos conocido como el Campamento Mestizo."
+}]

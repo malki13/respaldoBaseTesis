@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "634c6fa01ae303ef2e4d308d"
+  },
+  "Habilidad": "reconoce las partes de la casa, pinta tu lugar favorito",
+  "capa_espe": false,
+  "indicadores": {
+    "$oid": "62c86f35de16653b288eee25"
+  }
+},{
+  "_id": {
+    "$oid": "6350a6133ac381c90b3465e0"
+  },
+  "Habilidad": "reconoce las partes del cuerpo humano y nombra cada una",
+  "capa_espe": false,
+  "indicadores": {
+    "$oid": "62c86f35de16653b288eee25"
+  }
+}]

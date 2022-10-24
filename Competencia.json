@@ -1,0 +1,1033 @@
+[{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac098"
+  },
+  "titulo": "Exponenciales y radicales ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac095"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac099"
+  },
+  "titulo": "Fracciones, decimales y porcentajes",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac095"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac09a"
+  },
+  "titulo": "Psicomotricidad, percepción, atención, funciones ejecutivas (nivel 1)",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac094"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac09b"
+  },
+  "titulo": "BIOLOGÍA ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08c"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac09c"
+  },
+  "titulo": "Estimulación táctil",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac082"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac09d"
+  },
+  "titulo": "Expresiones algebraicas. Ecuaciones. Funciones",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac095"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac09e"
+  },
+  "titulo": "Situaciones en el espacio y en el plano ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac081"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac09f"
+  },
+  "titulo": "Socialización (nivel 1)",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08e"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0a0"
+  },
+  "titulo": "Relaciones en grupo",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08e"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0a1"
+  },
+  "titulo": "Medidas de longitud ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac080"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0a2"
+  },
+  "titulo": "Geografía humana ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08b"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0a3"
+  },
+  "titulo": "Psicomotricidad, percepción, atención, funciones ejecutivas (nivel 3)",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac094"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0a4"
+  },
+  "titulo": "En el comedor",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07e"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0a5"
+  },
+  "titulo": "En el hogar",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07e"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0a6"
+  },
+  "titulo": "Elementos de la imagen: línea, color, textura",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac089"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0a7"
+  },
+  "titulo": "Música y tecnología ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac086"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0a8"
+  },
+  "titulo": "Medidas de superficie ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac080"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0a9"
+  },
+  "titulo": "Unidades monetarias",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac080"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0aa"
+  },
+  "titulo": "Circunferencias y círculos",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac081"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0ab"
+  },
+  "titulo": "Comparar y agrupar",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac092"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0ac"
+  },
+  "titulo": "Gráficos estadísticos ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac083"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0ad"
+  },
+  "titulo": "Expresión corporal y oral ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac093"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0ae"
+  },
+  "titulo": "Ordinales",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac092"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0af"
+  },
+  "titulo": "Juegos y deportes",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac096"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0b0"
+  },
+  "titulo": "El texto dramático: composición, análisis y valoración ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac093"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0b1"
+  },
+  "titulo": "Estimulación olfativa y respiratoria",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac082"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0b2"
+  },
+  "titulo": "Medidas de ángulos ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac080"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0b3"
+  },
+  "titulo": "4ª Etapa. Progreso en la lectura",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08f"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0b4"
+  },
+  "titulo": "Multiplicación y división",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac095"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0b5"
+  },
+  "titulo": "Medidas de capacidad",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac080"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0b6"
+  },
+  "titulo": "Dibujar con la computadora ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac085"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0b7"
+  },
+  "titulo": "Improvisación",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac093"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0b8"
+  },
+  "titulo": "Escritura al dictado",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07f"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0b9"
+  },
+  "titulo": "Estimulación psicomotora",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac082"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0ba"
+  },
+  "titulo": "Situaciones y señales de peligro ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07e"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0bb"
+  },
+  "titulo": "Aficiones",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac096"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0bc"
+  },
+  "titulo": "Geometría espacial y volúmenes",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac081"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0bd"
+  },
+  "titulo": "Sumas y restas ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac095"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0be"
+  },
+  "titulo": "Estimulación visual",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac082"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0bf"
+  },
+  "titulo": "Nivel1",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac084"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0c0"
+  },
+  "titulo": "Geometría plana y área ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac081"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0c1"
+  },
+  "titulo": "Triángulos ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac081"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0c2"
+  },
+  "titulo": "Ergonomía ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08d"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0c3"
+  },
+  "titulo": "Medidas de volumen ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac080"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0c4"
+  },
+  "titulo": "Teclado, ratón, tablet, pulsador",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08d"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0c5"
+  },
+  "titulo": "Memoria",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac094"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0c6"
+  },
+  "titulo": "La voz y las agrupaciones vocales",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac086"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0c7"
+  },
+  "titulo": "Relaciones interpersonales",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08e"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0c8"
+  },
+  "titulo": " Lexicología y semántica",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07d"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0c9"
+  },
+  "titulo": "Química",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac088"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0ca"
+  },
+  "titulo": "En los espacios públicos",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07e"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0cb"
+  },
+  "titulo": "1ª Etapa. Desarrollo perceptivodiscriminativo",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08f"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0cc"
+  },
+  "titulo": "La medida. Instrumentos de medida",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac080"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0cd"
+  },
+  "titulo": "Seguir instrucciones ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac087"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0ce"
+  },
+  "titulo": "Estimulación gustativa",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac082"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0cf"
+  },
+  "titulo": "Acoso escolar, seguridad en la red y adicciones",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08e"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0d0"
+  },
+  "titulo": "Población, muestra y variables",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac083"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0d1"
+  },
+  "titulo": "Valor posicional (unidades, decenas, centenas,etc.)",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac092"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0d2"
+  },
+  "titulo": "Socialización (nivel 2)",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08e"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0d3"
+  },
+  "titulo": "Escritura espontánea",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07f"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0d4"
+  },
+  "titulo": "Nivel 2",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac084"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0d5"
+  },
+  "titulo": "Hábitos de trabajo y estudio ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac096"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0d6"
+  },
+  "titulo": "El Sistema Internacional de Unidades. Equivalencias",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac080"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0d7"
+  },
+  "titulo": "Medidas de tiempo ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac080"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0d8"
+  },
+  "titulo": "Los instrumentos musicales y las agrupaciones instrumentales ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac086"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0d9"
+  },
+  "titulo": "Atención a la salud",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac090"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0da"
+  },
+  "titulo": "nivel 4",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac084"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0db"
+  },
+  "titulo": "Conversar ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac087"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0dc"
+  },
+  "titulo": "Estrategias de resolución de problemas. Juegos matemáticos",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac095"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0dd"
+  },
+  "titulo": "Operaciones combinadas",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac095"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0de"
+  },
+  "titulo": "Gestor de base de datos ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac085"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0df"
+  },
+  "titulo": "La composición",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac089"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0e0"
+  },
+  "titulo": "Expresar ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac087"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0e1"
+  },
+  "titulo": "Hablar: hacia las primeras palabras",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac087"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0e2"
+  },
+  "titulo": "Puntos, líneas, segmentos y planos ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac081"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0e3"
+  },
+  "titulo": "Uso de los servicios de la comunidad ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07e"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0e4"
+  },
+  "titulo": "Nivel 3",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac084"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0e5"
+  },
+  "titulo": "Estimulación auditiva",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac082"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0e6"
+  },
+  "titulo": "Géneros o familias musicales ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac086"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0e7"
+  },
+  "titulo": "Robótica ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08a"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0e8"
+  },
+  "titulo": "Polígonos",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac081"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0e9"
+  },
+  "titulo": "Ángulos",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac081"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0ea"
+  },
+  "titulo": "Aseo personal",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac090"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0eb"
+  },
+  "titulo": "Estimulación comunicativa",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac082"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0ec"
+  },
+  "titulo": "Probabilidad ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac083"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0ed"
+  },
+  "titulo": "Lenguaje musical",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac086"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0ee"
+  },
+  "titulo": "Técnicas artísticas bidimensionales y tridimensionales: nivel 1 ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac089"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0ef"
+  },
+  "titulo": "Geografía física ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08b"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0f0"
+  },
+  "titulo": "Contar, escribir y leer números",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac092"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0f1"
+  },
+  "titulo": "Ortografía",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07f"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0f2"
+  },
+  "titulo": "Forma y geometría",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac089"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0f3"
+  },
+  "titulo": "El lenguaje visual ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac089"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0f4"
+  },
+  "titulo": "Los números",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac092"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0f5"
+  },
+  "titulo": "Música, movimiento y danza ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac086"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0f6"
+  },
+  "titulo": "Comprender",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac087"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0f7"
+  },
+  "titulo": "El sonido y sus cualidades ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac086"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0f8"
+  },
+  "titulo": "Parámetros estadísticos",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac083"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0f9"
+  },
+  "titulo": "Educación en valores",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08e"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0fa"
+  },
+  "titulo": "Escritura copiada",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07f"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0fb"
+  },
+  "titulo": "Conociendo el entorno próximo ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac091"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0fc"
+  },
+  "titulo": "Fotografía, televisión y cine ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac089"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0fd"
+  },
+  "titulo": "Geologia ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08c"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0fe"
+  },
+  "titulo": "Preescritura",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07f"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac0ff"
+  },
+  "titulo": "2ª Etapa. Percepción global y reconocimiento de palabras escritas",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08f"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac100"
+  },
+  "titulo": "Relaciones afectivas y sexuales",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac090"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac101"
+  },
+  "titulo": "Física",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac088"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac102"
+  },
+  "titulo": "EDUCACIÓN LITERARIA",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07d"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac103"
+  },
+  "titulo": "Morfología",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07d"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac104"
+  },
+  "titulo": "Técnicas artísticas bidimensionales y tridimensionales: nivel 2",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac089"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac105"
+  },
+  "titulo": "Fonología",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07d"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac106"
+  },
+  "titulo": "Investigando el entorno ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac091"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac107"
+  },
+  "titulo": "Sintaxis",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07d"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac108"
+  },
+  "titulo": "Historia",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08b"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac109"
+  },
+  "titulo": "Programación con Scratch ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08a"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac10a"
+  },
+  "titulo": "Hacer series",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac092"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac10b"
+  },
+  "titulo": "Hoja o planilla de cálculo ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac085"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac10c"
+  },
+  "titulo": "Frecuencias y tablas",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac083"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac10d"
+  },
+  "titulo": "Hablar: inicio del desarrollo gramatical",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac087"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac10e"
+  },
+  "titulo": "En la escuela",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07e"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac10f"
+  },
+  "titulo": "3ª Etapa. Aprendizaje y reconocimiento de las sílabas",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08f"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac110"
+  },
+  "titulo": "Montajes ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac093"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac111"
+  },
+  "titulo": "Procesador de textos ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac085"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac112"
+  },
+  "titulo": "Operaciones con calculadora ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac095"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac113"
+  },
+  "titulo": "Nivel1 ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac084"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac114"
+  },
+  "titulo": "Medidas de masa",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac080"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac115"
+  },
+  "titulo": "Psicomotricidad, percepción, atención, funciones ejecutivas (nivel 2)",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac094"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac116"
+  },
+  "titulo": "Emociones",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac08e"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac117"
+  },
+  "titulo": "Economía doméstica",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07e"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac118"
+  },
+  "titulo": "Diseñar presentaciones ",
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac085"
+  }
+}]

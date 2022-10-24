@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "630009bb09cb739a4d72bd0c"
+  },
+  "cedula": "0123456789",
+  "nombre": "Alex",
+  "apellido": "Arevalo",
+  "unidadEducativa": "UPS",
+  "fechaNacimiento": {
+    "$date": "2016-08-08T00:00:00Z"
+  },
+  "capacidad_especial": false,
+  "rol": "usuario",
+  "username": "alex_arevalo",
+  "password": "sha256$fZNDGVUWJliuCWTK$01b46d4f6d0f4b6554053965a7dd6521e88f61e07567f9d30840c03135fdd3a8"
+},{
+  "_id": {
+    "$oid": "63000d479a9e7363833a8f99"
+  },
+  "cedula": "9876543210",
+  "nombre": "Juan",
+  "apellido": "Arevalo",
+  "unidadEducativa": "UPS",
+  "fechaNacimiento": {
+    "$date": {
+      "$numberLong": "-450489600000"
+    }
+  },
+  "capacidad_especial": true,
+  "diagnostico_medico": [
+    "ICD10CM:U07.1"
+  ],
+  "diagnostico_lenguaje": [
+    "ICD10CM:F80.9"
+  ],
+  "rol": "usuario",
+  "username": "juan_arevalo",
+  "password": "sha256$nz2VfDvENALLzCP7$76c81be3157e6d40df6d905065312af2a0a8cf865ce8a41065c61cc66d702180"
+},{
+  "_id": {
+    "$oid": "63000e41c905d7630cc75866"
+  },
+  "cedula": "0105662068",
+  "nombre": "Gabriel",
+  "apellido": "Chuchuca",
+  "username": "gavriellalx@hotmail.com",
+  "fechaNacimiento": "1997-09-24",
+  "rol": "admin",
+  "password": "sha256$7dJwwe9gxYlWiIl3$08f1c80e4d2896d0650ccd8358ed749714f51d99ef8b418ae3cdd24c6f777503"
+},{
+  "_id": {
+    "$oid": "6305d3f8e83d7ec7b912ada3"
+  },
+  "cedula": "2468975310",
+  "nombre": "aahhh",
+  "apellido": "aaahhhh",
+  "unidadEducativa": "UPS",
+  "fechaNacimiento": {
+    "$date": "1999-12-08T00:00:00Z"
+  },
+  "capacidad_especial": false,
+  "rol": "usuario",
+  "username": "aahhh_aaahhhh",
+  "password": "sha256$t8MOI5K46chxbaWX$4ec1863aab9ad5f0a6bda6e18715b2d33b846a412f8ed19e42cf0f9f959b9e65"
+},{
+  "_id": {
+    "$oid": "6307ce126a54ebb1d0b3ee36"
+  },
+  "cedula": "0100967652",
+  "nombre": "Jorge",
+  "apellido": "Abril",
+  "unidadEducativa": "UPS",
+  "fechaNacimiento": {
+    "$date": "2016-07-07T00:00:00Z"
+  },
+  "capacidad_especial": true,
+  "diagnostico_medico": [
+    "ICD10CM:Q90"
+  ],
+  "diagnostico_lenguaje": [
+    "ICD10CM:F80.9"
+  ],
+  "rol": "usuario",
+  "username": "jorge_abril",
+  "password": "sha256$i9ak1eqczusEG93K$fd19c134f14f26353f5c1c20fa6086e260f2e9fd4b1cddafcd3d878ee20143d6"
+},{
+  "_id": {
+    "$oid": "633dea433e9586da479a1b88"
+  },
+  "cedula": "1709262933",
+  "nombre": "Franklin",
+  "apellido": "Altamirano",
+  "unidadEducativa": "UPS",
+  "fechaNacimiento": {
+    "$date": "1999-09-25T00:00:00Z"
+  },
+  "capacidad_especial": true,
+  "diagnostico_medico": [
+    "ICD10CM:F84.0",
+    "ICD10CM:G80"
+  ],
+  "diagnostico_lenguaje": [
+    "ICD10CM:F80.1"
+  ],
+  "rol": "usuario",
+  "username": "franklin_altamirano",
+  "password": "sha256$lWj9vzF3dDQXPH34$8d894e6bbba207538ae0c377d3cef12c1e10277d07a4558bfc8d0e3293d28f6d"
+},{
+  "_id": {
+    "$oid": "634bb357ed2068faa9cdfc87"
+  },
+  "cedula": "0150350668",
+  "nombre": "malki",
+  "apellido": "yupanki",
+  "unidadEducativa": "UPS",
+  "fechaNacimiento": {
+    "$date": "1997-06-15T00:00:00Z"
+  },
+  "capacidad_especial": false,
+  "rol": "usuario",
+  "username": "malki_yupanki",
+  "password": "sha256$1x5qSkM0kcSKx3Z9$f87da5dc1663d3e72465b2fd26047a99b5bca631d9d3a07b6ee61890db805ac7"
+},{
+  "_id": {
+    "$oid": "63505064508b55dff51dd3fc"
+  },
+  "cedula": "0102250362",
+  "nombre": "Ruth",
+  "apellido": "Alvarez",
+  "unidadEducativa": "UNEDA",
+  "fechaNacimiento": {
+    "$date": "1995-09-23T00:00:00Z"
+  },
+  "rol": "docente",
+  "username": "gabrielchuchuca27@gmail.com",
+  "password": "sha256$iKptMkKFJmMFJhSy$d2fc979763af8a50f8ce2e5f76ffd324c3ffb6ed8db564220d1c5873818a9cd8"
+},{
+  "_id": {
+    "$oid": "635050ff508b55dff51dd3fd"
+  },
+  "cedula": "0104453949",
+  "nombre": "Paola",
+  "apellido": "Beltran",
+  "unidadEducativa": "Escuela Eugenio Espejo",
+  "fechaNacimiento": {
+    "$date": "1994-09-08T00:00:00Z"
+  },
+  "rol": "docente",
+  "username": "gazir.2409@gmail.com",
+  "password": "sha256$SoRqJxrB5ZEoRPt3$330ad13db02ade8f1ee457d9aae5665b9cd59d7253122b612cb59a7a571224f4"
+},{
+  "_id": {
+    "$oid": "6350a5ce3ac381c90b3465df"
+  },
+  "cedula": "0102079191",
+  "nombre": "Angel",
+  "apellido": "Lopez",
+  "unidadEducativa": "UNEDA",
+  "fechaNacimiento": {
+    "$date": "2016-08-08T00:00:00Z"
+  },
+  "capacidad_especial": true,
+  "diagnostico_medico": [
+    "ICD10CM:Q90"
+  ],
+  "diagnostico_lenguaje": [],
+  "rol": "usuario",
+  "username": "angel_lopez",
+  "password": "sha256$PGTJuY9yRuXsicoW$547050744ec60ed7e2abc3df5bc958feff7156641886ab296f3b2fa228621aec"
+}]

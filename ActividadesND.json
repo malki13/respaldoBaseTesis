@@ -1,0 +1,149 @@
+[{
+  "_id": {
+    "$oid": "631542373f83de3bd63927e3"
+  },
+  "Habilidad": "escucha los sonidos y repite el sonido que se escucha, identifica los sonidos",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07b"
+  },
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac082"
+  },
+  "Competencia": {
+    "$oid": "62c7b93ee862046e7f0ac0be"
+  },
+  "capa_espe": true,
+  "codigo": "ICD10CM:Q90"
+},{
+  "_id": {
+    "$oid": "63159269956542323211e45f"
+  },
+  "Habilidad": "sigue las lineas punteadas y manten el equilibrio sigue las instrucciones de tu tutor",
+  "capa_espe": true,
+  "codigo": "ICD10CM:Q90",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07b"
+  },
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac082"
+  },
+  "Competencia": {
+    "$oid": "62c7b93ee862046e7f0ac0b9"
+  }
+},{
+  "_id": {
+    "$oid": "63159355445b8e8cc17928d2"
+  },
+  "Habilidad": "actividad para estimular el reconocimiento de imagenes",
+  "capa_espe": true,
+  "codigo": "ICD10CM:Q90",
+  "indicadores": {
+    "$oid": "63159354445b8e8cc17928d1"
+  }
+},{
+  "_id": {
+    "$oid": "6316ab1ab1b4bf4975f949ad"
+  },
+  "Habilidad": "procesos de aprendizaje de fonemas, aprende los fonemas con la letra A",
+  "capa_espe": true,
+  "codigo": "ICD10CM:Q90",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07a"
+  },
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac087"
+  },
+  "Competencia": {
+    "$oid": "62c7b93ee862046e7f0ac0e0"
+  }
+},{
+  "_id": {
+    "$oid": "6316ac4e257d923e7bf22b04"
+  },
+  "Habilidad": "poner atención a las imágenes y reconocer los animales, pinta y colorea los contornos de las imágenes",
+  "capa_espe": true,
+  "codigo": "ICD10CM:F84.0",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07b"
+  },
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac082"
+  },
+  "Competencia": {
+    "$oid": "62c7b93ee862046e7f0ac0be"
+  }
+},{
+  "_id": {
+    "$oid": "6316b60d30d7af033b9ac88c"
+  },
+  "Habilidad": "reconoce los patrones, utiliza el tacto para identificar las siluetas de los objetos y juguetes. ",
+  "capa_espe": true,
+  "codigo": "ICD10CM:F84.0",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07b"
+  },
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac082"
+  },
+  "Competencia": {
+    "$oid": "62c7b93ee862046e7f0ac09c"
+  }
+},{
+  "_id": {
+    "$oid": "6323770ffd9bddd57fbd8fd5"
+  },
+  "Habilidad": "sigue la linea marcada en el suelo y mantén el equilibrio",
+  "capa_espe": true,
+  "codigo": "ICD10CM:Q90",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07b"
+  },
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac082"
+  },
+  "Competencia": {
+    "$oid": "62c7b93ee862046e7f0ac0b9"
+  }
+},{
+  "_id": {
+    "$oid": "63237dfa97fdbedbca6c70c0"
+  },
+  "Habilidad": "identifica las letras del abecedario, ordena y colorea las letras",
+  "capa_espe": true,
+  "codigo": "ICD10CM:Q90",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07a"
+  },
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac07f"
+  },
+  "Competencia": {
+    "$oid": "62c7b93ee862046e7f0ac0f1"
+  }
+},{
+  "_id": {
+    "$oid": "6350592e58def0639ec7d956"
+  },
+  "Habilidad": "reconoce los sonidos de la naturaleza y nombra a cada uno",
+  "capa_espe": true,
+  "codigo": "ICD10CM:Q90",
+  "indicadores": {
+    "$oid": "6350592d58def0639ec7d955"
+  }
+},{
+  "_id": {
+    "$oid": "6350a64d3ac381c90b3465e1"
+  },
+  "Habilidad": "reconoce los sonidos de los animales",
+  "capa_espe": true,
+  "codigo": "ICD10CM:Q90",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07a"
+  },
+  "Bloque": {
+    "$oid": "62c7b93ee862046e7f0ac087"
+  },
+  "Competencia": {
+    "$oid": "62c7b93ee862046e7f0ac0cd"
+  }
+}]

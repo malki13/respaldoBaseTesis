@@ -1,0 +1,2411 @@
+[{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b6f"
+  },
+  "pagina": 4,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Mi escuela, mi aula Completa las líneas punteadas para llegar al destino.",
+  "analisis": "escuela, aula, Completa, líneas, punteadas, llegar, destino",
+  "indicadores": "• Interpreta la silueta y los paratextos."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b70"
+  },
+  "pagina": 5,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Traza las líneas punteadas y pinta los útiles escolares. Conversa en clase sobre su utilidad y cuidado.",
+  "analisis": "Traza, líneas, punteadas, pinta, útiles, escolares, Conversa, clase, utilidad, cuidado",
+  "indicadores": "• Interpreta la silueta y los paratextos."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b71"
+  },
+  "pagina": 6,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Listen and repeat. book eraser chair teacher pencil backpack",
+  "analisis": "Listen, repeat, book, eraser, chair, teacher, pencil, backpack",
+  "indicadores": "• Understand familiar words about school."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b72"
+  },
+  "pagina": 7,
+  "N_Actividad": 1,
+  "titulo": "Recuerda los personajes del cuento El caso de las llaves perdidas. A continuación, observa la siguiente ilustración.",
+  "actividades": "Juega y nombra de uno en uno a los animales de la ilustración. Ganará quien, después de nombrar todos los animales, imite los sonidos que realizan al menos tres de ellos.",
+  "analisis": "Juega, nombra, animales, ilustración, Ganará, nombrar, animales, imite, sonidos, realizan",
+  "indicadores": "Completar Actividad"
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b73"
+  },
+  "pagina": 7,
+  "N_Actividad": 2,
+  "titulo": "Recuerda los personajes del cuento El caso de las llaves perdidas. A continuación, observa la siguiente ilustración.",
+  "actividades": "Identifica los sonidos que hacen estos animales. Pidan a su profesor que los escuche. Sssssssssssss s s s s s s Guauuuuu",
+  "analisis": "Identifica, sonidos, animales, Pidan, profesor, escuche, Sssssssssssss, Guauuuuu",
+  "indicadores": "Completar Actividad"
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b74"
+  },
+  "pagina": 8,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Escucha la frase que dirá tu profesor y aplaude por cada palabra que identifiques. Pinta los círculos que correspondan al número de aplausos que diste. Buenos días. Buenos días, profesor. Buenos días, mi escuelita. Saludo aplaudiendo con mis manos.",
+  "analisis": "Escucha, frase, dirá, profesor, aplaude, palabra, identifiques, Pinta, círculos, correspondan, número, aplausos, diste, profesor, escuelita, Saludo, aplaudiendo, manos",
+  "indicadores": "• Registra, expresa y comunica ideas mediante sus propios códigos: explora la formación de palabras y oraciones utilizando la conciencia léxica."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b75"
+  },
+  "pagina": 9,
+  "N_Actividad": 1,
+  "titulo": "COLORS Encierra dentro de un círculo las pelotas pequeñas y pinta las pelotas grandes de color «yellow», «blue» y «red».",
+  "actividades": "yellow blue red",
+  "analisis": "yellow, blue",
+  "indicadores": "• Recognize vocabulary related to colors."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b76"
+  },
+  "pagina": 10,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Reconocemos lugares y ubicaciones Pinta de color rojo las manzanas que están arriba del niño; y de amarillo, las que están abajo del niño.",
+  "analisis": "Reconocemos, lugares, ubicaciones, Pinta, color, rojo, manzanas, niño, amarillo, abajo, niño",
+  "indicadores": "• Reconoce los colores primarios. • Describe la ubicación de los objetos del entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b77"
+  },
+  "pagina": 11,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Llena con plastilina el árbol que está delante de la casa y pinta la casa que está detrás del árbol en la ilustración de abajo.",
+  "analisis": "Llena, plastilina, árbol, casa, pinta, casa, árbol, ilustración, abajo",
+  "indicadores": "• Reconoce los colores primarios. • Describe la ubicación de los objetos del entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b78"
+  },
+  "pagina": 12,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Observa la lámina y dibuja a un compañero subiendo la resbaladera más larga. Dibuja a tu profesor delante del árbol, luego pinta todo el dibujo.",
+  "analisis": "Observa, lámina, dibuja, compañero, subiendo, resbaladera, larga, Dibuja, profesor, árbol, pinta, dibujo",
+  "indicadores": "• Distingue la ubicación de los elementos del entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b79"
+  },
+  "pagina": 13,
+  "N_Actividad": 1,
+  "titulo": "Muchos, pocos",
+  "actividades": "Observa con atención y, luego, cubre el dibujo con un papel. Dibuja lo que observaste. muchos pocos",
+  "analisis": "Observa, atención, cubre, dibujo, papel, Dibuja, observaste",
+  "indicadores": "• Reconoce y recuerda siluetas y paratextos."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b7a"
+  },
+  "pagina": 13,
+  "N_Actividad": 2,
+  "titulo": "Muchos, pocos",
+  "actividades": "Observa con atención y luego cubre el dibujo con un papel. Jueguen en parejas a nombrar lo que vieron. Gana quien nombra acertadamente el mayor número de elementos.",
+  "analisis": "Observa, atención, cubre, dibujo, papel, Jueguen, parejas, nombrar, vieron, Gana, nombra, acertadamente, número, elementos",
+  "indicadores": "• Reconoce y recuerda siluetas y paratextos."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b7b"
+  },
+  "pagina": 14,
+  "N_Actividad": 1,
+  "titulo": "Largo y corto Encuentra las sombras que sean más largas que la ilustración y márcala con una ✗.",
+  "actividades": "Recorta y pega dos elementos del entorno que sean más largos que tus brazos y uno más corto que tu mano.",
+  "analisis": "Recorta, pega, elementos, entorno, largos, brazos, corto, mano",
+  "indicadores": "• Distingue objetos del entorno por su tamaño: largo, corto."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b7c"
+  },
+  "pagina": 15,
+  "N_Actividad": 1,
+  "titulo": "Identity",
+  "actividades": "Work with a partner. Listen to the teacher and practice. My name is John. ¿What is your name? My name is Susan.",
+  "analisis": "Work, with, partner, Listen, teacher, practice, name, John, What, your, name, name, Susan",
+  "indicadores": "• Recognize and follow simple instructions."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b7d"
+  },
+  "pagina": 16,
+  "N_Actividad": 1,
+  "titulo": "Todos tenemos un cuerpo",
+  "actividades": "Completa y pinta el gráfico que es similar a ti.",
+  "analisis": "Completa, pinta, gráfico, similar",
+  "indicadores": "• Relaciona las partes principales de su cuerpo y los órganos de los sentidos con su función y percepciones del mundo que lo rodea."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b7e"
+  },
+  "pagina": 16,
+  "N_Actividad": 2,
+  "titulo": "Todos tenemos un cuerpo",
+  "actividades": "Dibújate realizando la actividad que más te agrade.",
+  "analisis": "Dibújate, realizando, actividad, agrade",
+  "indicadores": "• Relaciona las partes principales de su cuerpo y los órganos de los sentidos con su función y percepciones del mundo que lo rodea."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b7f"
+  },
+  "pagina": 17,
+  "N_Actividad": 1,
+  "titulo": "Partes de nuestro cuerpo",
+  "actividades": "Escucha a tu profesor y ubica tu mano derecha sobre la parte del cuerpo que nombre. Por favor ilustrar cada una de las partes descritas y dejarlas para que el niño las pinte Toca tu piel, es suave y calentita. Con ella puedes darte cuenta si hace frío, calor, sentir las cosquillas y determinar si lo que tocas es duro, áspero o suave. Bajo la piel sientes que hay algo duro: son tus huesos. Ellos sirven para dar forma a tu cuerpo. Los huesos y los dientes son la parte más dura de ti. Respira profundo y te darás cuenta cómo han funcionado tus pulmones que son como unos globos que permiten la entrada y salida del aire. ¿Sabes qué pasa con la comida que ingieres? Tu estómago trabaja fuerte para deshacerla y convertirla en energía para todo tu cuerpo. Si sientes algún malestar, avisa a tus papás o a tu profesor para que te lleven a la enfermería o a un centro de salud.",
+  "analisis": "Escucha, profesor, ubica, mano, derecha, cuerpo, nombre, favor, ilustrar, partes, descritas, dejarlas, niño, pinte, Toca, piel, suave, calentita, puedes, darte, frío, calor, sentir, cosquillas, determinar, tocas, duro, áspero, suave, piel, sientes, duro, huesos, sirven, forma, cuerpo, huesos, dientes, dura, Respira, profundo, darás, funcionado, pulmones, globos, permiten, entrada, salida, aire, pasa, comida, ingieres, estómago, fuerte, deshacerla, convertirla, energía, cuerpo, sientes, malestar, avisa, papás, profesor, lleven, enfermería, centro, salud",
+  "indicadores": "• Relaciona las partes principales de su cuerpo y los órganos de los sentidos con su función y percepciones del mundo que lo rodea."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b80"
+  },
+  "pagina": 18,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "los sentidos Conversa sobre los órganos de los sentidos y su utilidad. Une con una línea los órganos de los sentidos con los objetos que se relacionan con cada uno de ellos.",
+  "analisis": "sentidos, Conversa, órganos, sentidos, utilidad, línea, órganos, sentidos, objetos, relacionan",
+  "indicadores": "• Relaciona las partes principales de su cuerpo y los órganos de los sentidos con su función y percepciones del mundo que lo rodea. • Comunica de forma oral la importancia de los órganos de los sentidos para obtener información sensorial."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b81"
+  },
+  "pagina": 18,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Piensa en un helado y explica con qué información aporta cada parte de tu cuerpo. oído ojos nariz lengua mano",
+  "analisis": "Piensa, helado, explica, información, aporta, cuerpo, oído, ojos, nariz, lengua, mano",
+  "indicadores": "• Relaciona las partes principales de su cuerpo y los órganos de los sentidos con su función y percepciones del mundo que lo rodea. • Comunica de forma oral la importancia de los órganos de los sentidos para obtener información sensorial."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b82"
+  },
+  "pagina": 19,
+  "N_Actividad": 1,
+  "titulo": "My body",
+  "actividades": "Identify the parts of the body. Listen and repeat. eyes nose mouth arms legs foot",
+  "analisis": "Identify, parts, body, Listen, repeat, eyes, nose, mouth, arms, legs, foot",
+  "indicadores": "• Understand familiar words about the body."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b83"
+  },
+  "pagina": 19,
+  "N_Actividad": 2,
+  "titulo": "My body",
+  "actividades": "How can you take care of your senses? Circle.",
+  "analisis": "take, care, your, senses, Circle",
+  "indicadores": "• Understand familiar words about the body."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b84"
+  },
+  "pagina": 20,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Una vida saludable Conversa con tu profesor sobre una correcta alimentación para crecer sano y fuerte. Da ritmo al poema que leerá tu profesor con aplausos o con golpes de los pies. Poema Ding, dong, ¡vamos, ya! Todos a desayunar. Un buen jugo de naranja, dos tostadas, leche y pan, mantequilla y mermelada y a la escuela a trabajar. Ding, dong. ¿Quién es? Es la hora de comer. Tallarines con tomate, de segundo, un buen bistec, y por último, de postre, una pera y un pastel. Ding, dong. ¿Quién es? Es la hora de cenar. Una sopa de fideos y tortitas de jamón y de leche con avena llenaremos el tazón. Poema infantil",
+  "analisis": "vida, saludable, Conversa, profesor, correcta, alimentación, crecer, sano, fuerte, ritmo, poema, leerá, profesor, aplausos, golpes, pies, Poema, Ding, dong, desayunar, jugo, naranja, tostadas, leche, mantequilla, mermelada, escuela, Ding, dong, hora, comer, Tallarines, tomate, bistec, postre, pera, pastel, Ding, dong, hora, cenar, sopa, fideos, tortitas, jamón, leche, avena, llenaremos, tazón, Poema, infantil",
+  "indicadores": "• Promueve hábitos de higiene corporal, alimentación sana, juego y descanso y medidas preventivas para una vida saludable. • Explora y representa corporal, musical, gráfica o verbalmente; ideas, sentimientos de forma libre y espontánea."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b85"
+  },
+  "pagina": 21,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Observa y describe la lámina. Encierra dentro de un círculo los hábitos que te ayudarán a crecer sano y fuerte.",
+  "analisis": "Observa, describe, lámina, Encierra, círculo, hábitos, ayudarán, crecer, sano, fuerte",
+  "indicadores": "• Practica con autonomía y responsabilidad actividades y tareas cotidianas como: hábitos de higiene, alimentación y cuidado personal."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b86"
+  },
+  "pagina": 22,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Marca con una ✗ los objetos que sirven para el aseo diario.",
+  "analisis": "Marca, objetos, sirven, aseo, diario",
+  "indicadores": "• Practica con autonomía y responsabilidad actividades y tareas cotidianas como: hábitos de higiene, alimentación y cuidado personal."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b87"
+  },
+  "pagina": 22,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Sigue el modelo y forma parejas con los objetos de limpieza personal que se relacionen entre sí.",
+  "analisis": "modelo, forma, parejas, objetos, limpieza, personal, relacionen",
+  "indicadores": "• Practica con autonomía y responsabilidad actividades y tareas cotidianas como: hábitos de higiene, alimentación y cuidado personal."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b88"
+  },
+  "pagina": 23,
+  "N_Actividad": 1,
+  "titulo": "jugando con las palabras",
+  "actividades": "Con ayuda de tu profesor, canta, danza o dramatiza el poema y pinta los crayones. Todas las mananas Todas las mañanas, cuando me despierto, quiero ir al colegio, porque me divierto. Allí tengo amigos y puedo jugar, aprendo canciones, y muchas cosas más. Todas las mañanas, cuando me despierto, le digo a mi mamá: «¡Quiero ir al colegio para trabajar!». Canto popular",
+  "analisis": "ayuda, profesor, canta, danza, dramatiza, poema, pinta, crayones, mananas, mañanas, despierto, quiero, colegio, divierto, amigos, jugar, aprendo, canciones, mañanas, despierto, digo, mamá, Quiero, colegio, Canto, popular",
+  "indicadores": "• Explora y representa gráfica y verbalmente ideas, sentimientos o emociones de forma libre y creativa."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b89"
+  },
+  "pagina": 24,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Dibuja y pinta el lugar que más te agrada de la escuela. Comenta en clase el nombre de la dependencia que dibujaste.",
+  "analisis": "Dibuja, pinta, agrada, escuela, Comenta, clase, nombre, dependencia, dibujaste",
+  "indicadores": "• Reconoce la organización y dependencias de la escuela. • Representa pasajes de textos escuchados. • Incrementa palabras nuevas a su vocabulario."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b8a"
+  },
+  "pagina": 25,
+  "N_Actividad": 1,
+  "titulo": "normas a cumplir en la escuela",
+  "actividades": "Dibuja y pinta dos compromisos más que con tus compañeros acordaron cumplir en la escuela. En mi clase: Escuchamos cuando la habla. Compartimos los de la mesa. Hacemos sin empujarnos.",
+  "analisis": "Dibuja, pinta, compromisos, compañeros, acordaron, cumplir, escuela, clase, Escuchamos, Compartimos, mesa, empujarnos",
+  "indicadores": "• Practica normas de respeto consigo mismo y con los demás. • Practica los acuerdos establecidos en el grupo. • Reconoce la importancia de asumir con responsabilidad sus compromisos; discrimina modelos positivos y negativos de comportamiento de su medio natural y social."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b8b"
+  },
+  "pagina": 26,
+  "N_Actividad": 1,
+  "titulo": "Escribimos y reconocemos los números",
+  "actividades": "En este laberinto se han perdido tres números. Emplea distintos colores para llegar a ellos y píntalos.",
+  "analisis": "laberinto, perdido, números, Emplea, distintos, colores, llegar, píntalos",
+  "indicadores": "• Identifica y cuenta cantidades en el círculo del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b8c"
+  },
+  "pagina": 27,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Traza el número uno con tu dedo índice siguiendo la dirección de la flecha. Decóralo utilizando papel picado.",
+  "analisis": "Traza, número, dedo, índice, siguiendo, dirección, flecha, Decóralo, utilizando, papel, picado",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b8d"
+  },
+  "pagina": 27,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Completa el trazo del número uno siguiendo la muestra.",
+  "analisis": "Completa, trazo, número, siguiendo, muestra",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b8e"
+  },
+  "pagina": 28,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Traza el número dos con tu dedo índice y, dentro del recuadro, dibuja dos elementos. Escribe el número dos.",
+  "analisis": "Traza, número, dedo, índice, recuadro, dibuja, elementos, Escribe, número",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b8f"
+  },
+  "pagina": 29,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Punza el contorno del número tres. Memoriza la rima y repítela con el ritmo que indique tu profesor. Los gallitos de San Andrés Tres gallitos de San Andrés con las patas al revés. Nos despiertan, otra vez. Quiquiriquí, quiquiriquí, quiquiriquí a la una, a las dos y a las tres. Todos a la vez. Canción popular",
+  "analisis": "Punza, contorno, número, Memoriza, rima, repítela, ritmo, indique, profesor, gallitos, Andrés, gallitos, Andrés, patas, revés, despiertan, Quiquiriquí, quiquiriquí, quiquiriquí, Canción, popular",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b90"
+  },
+  "pagina": 31,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Aprende el número cuatro. Sigue su forma con tu dedo y traza líneas verticales en su interior.. Dibuja cuatro elementos en el recuadro.",
+  "analisis": "Aprende, número, forma, dedo, traza, líneas, verticales, interior, Dibuja, elementos, recuadro",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b91"
+  },
+  "pagina": 32,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Sigue su forma con tu dedo índice y aplica la técnica del entorchado con papel crepé.",
+  "analisis": "forma, dedo, índice, aplica, técnica, entorchado, papel, crepé",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b92"
+  },
+  "pagina": 33,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Cuenta y nombra los elementos de cada grupo. A continuación, dibuja y pinta los mismos elementos al lado derecho, como se indica en el ejemplo. Reconoce figuras geométricas en cada conjunto.",
+  "analisis": "nombra, elementos, grupo, continuación, dibuja, pinta, elementos, derecho, indica, Reconoce, figuras, geométricas, conjunto",
+  "indicadores": "• Identifica y cuenta cantidades del al . • Reconoce figuras geométricas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b93"
+  },
+  "pagina": 34,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Escribe el número de elementos que hay en cada grupo.",
+  "analisis": "Escribe, número, elementos, grupo",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b94"
+  },
+  "pagina": 35,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Escribe el número que va a continuación y dibuja los elementos que representan dicho número a la derecha.",
+  "analisis": "Escribe, número, continuación, dibuja, elementos, representan, número, derecha",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b95"
+  },
+  "pagina": 36,
+  "N_Actividad": 1,
+  "titulo": "Realizo agrupaciones",
+  "actividades": "Forma grupos de mariposas según su color y cuéntalas.",
+  "analisis": "Forma, grupos, mariposas, color, cuéntalas",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b96"
+  },
+  "pagina": 36,
+  "N_Actividad": 2,
+  "titulo": "Realizo agrupaciones",
+  "actividades": "Encuentra a los intrusos de cada grupo. Marca con una ✗ al que no pertenece al grupo y cuenta cuántos son.",
+  "analisis": "intrusos, grupo, Marca, pertenece, grupo",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b97"
+  },
+  "pagina": 37,
+  "N_Actividad": 1,
+  "titulo": "Uno a uno",
+  "actividades": "A cada estudiante le corresponde un pupitre. Dibuja tantos lápices como estudiantes para que a cada estudiante le corresponda uno.",
+  "analisis": "estudiante, corresponde, pupitre, Dibuja, tantos, lápices, estudiantes, estudiante, corresponda",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b98"
+  },
+  "pagina": 38,
+  "N_Actividad": 1,
+  "titulo": "Tantos como",
+  "actividades": "Dibuja suficientes círculos para formar parejas.",
+  "analisis": "Dibuja, suficientes, círculos, formar, parejas",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b99"
+  },
+  "pagina": 38,
+  "N_Actividad": 2,
+  "titulo": "Tantos como",
+  "actividades": "Rodea: ¿Qué hay más: osos o platos? ¿Gallos o gallineros?",
+  "analisis": "Rodea, osos, platos, Gallos, gallineros",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b9a"
+  },
+  "pagina": 38,
+  "N_Actividad": 3,
+  "titulo": "Tantos como",
+  "actividades": "¿Cuántos regalos hay en cada caja? Escribe el número correspondiente.",
+  "analisis": "regalos, caja, Escribe, número, correspondiente",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b9b"
+  },
+  "pagina": 39,
+  "N_Actividad": 1,
+  "titulo": "Más y menos que",
+  "actividades": "Cuenta y contesta: ¿Hay más búhos o más pollitos?",
+  "analisis": "contesta, búhos, pollitos",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b9c"
+  },
+  "pagina": 39,
+  "N_Actividad": 2,
+  "titulo": "Más y menos que",
+  "actividades": "Ahora, dibuja más búhos que pollos.",
+  "analisis": "dibuja, búhos, pollos",
+  "indicadores": "• Identifica y cuenta cantidades del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b9d"
+  },
+  "pagina": 40,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Observa la ilustración y responde: • ¿En qué grupo hay más niños? Cuéntalos. • ¿Cuántos niños están cerca del profesor? • ¿Cuántas niñas están lejos del profesor? • ¿Cuántos niños juegan con bolas? • ¿Cuántos niños saltan la cuerda?",
+  "analisis": "Observa, ilustración, responde, grupo, niños, Cuéntalos, niños, profesor, niñas, profesor, niños, juegan, bolas, niños, saltan, cuerda",
+  "indicadores": "• Identifica y cuenta cantidades en el círculo del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b9e"
+  },
+  "pagina": 41,
+  "N_Actividad": 1,
+  "titulo": "reconozcamos palabras",
+  "actividades": "Escucha la frase y aplaude por cada palabra que diga tu profesor. Pinta los círculos de acuerdo con el número de aplausos que diste. Dibújala. Mi gatita enferma está. Me gusta mucho el pastel. Galo tiene tos. Gané dinero ayer. La granja está lejos.",
+  "analisis": "Escucha, frase, aplaude, palabra, diga, profesor, Pinta, círculos, número, aplausos, diste, Dibújala, gatita, enferma, gusta, pastel, Galo, Gané, dinero, granja",
+  "indicadores": "• Explora la formación de palabras y oraciones, utilizando la conciencia lingüística (léxica y semántica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9b9f"
+  },
+  "pagina": 42,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Sigue las instrucciones de tu profesor y: Pinta el casillero donde está la letra a. Encuentra la palabra más larga y encierra el dibujo. Encuentra la palabra más corta y marca con una x el dibujo. p a n p a t o m u r c i é l a g o r a n a g a t a t i g r e",
+  "analisis": "instrucciones, profesor, Pinta, casillero, letra, palabra, larga, encierra, dibujo, palabra, corta, marca, dibujo",
+  "indicadores": "• Explora la formación de palabras y oraciones, utilizando la conciencia lingüística (fonológica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9ba0"
+  },
+  "pagina": 43,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Encierra dentro de un círculo las ilustraciones que comiencen con el sonido /a/.",
+  "analisis": "Encierra, círculo, ilustraciones, comiencen, sonido, /a/.",
+  "indicadores": "• Explora la formación de palabras y oraciones, utilizando la conciencia lingüística (semántica y fonológica). • Discrimina sonidos iniciales."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9ba1"
+  },
+  "pagina": 44,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Encierra en una línea curva los dibujos cuyo nombre empiece con el sonido /e/.",
+  "analisis": "Encierra, línea, curva, dibujos, cuyo, nombre, empiece, sonido, /e/.",
+  "indicadores": "• Discrimina sonidos iniciales."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9ba2"
+  },
+  "pagina": 45,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Nombra los dibujos que ves. Encierra dentro de un círculo a los dibujos que tengan el sonido / i / al inicio, al medio o al final. Nombra más palabras con este sonido.",
+  "analisis": "Nombra, dibujos, Encierra, círculo, dibujos, tengan, sonido, inicio, Nombra, palabras, sonido",
+  "indicadores": "• Interpreta la silueta, los paratextos de diversos textos escritos. • Discrimina sonidos iniciales, intermedios y finales."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9ba3"
+  },
+  "pagina": 46,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Mira los dibujos y nómbralos uno a uno. Marca con una x los dibujos cuyos nombres empiecen con el sonido /o/, encierra en un círculo los que terminen con el sonido /o/.",
+  "analisis": "Mira, dibujos, nómbralos, Marca, dibujos, cuyos, nombres, empiecen, sonido, encierra, círculo, terminen, sonido, /o/.",
+  "indicadores": "• Interpreta la silueta, los paratextos de diversos textos escritos. • Discrimina sonidos iniciales y finales."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9ba4"
+  },
+  "pagina": 47,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Mira los dibujos y nómbralos uno a uno. Marca con una ✗ aquellos elementos que empiecen con el sonido /u/, encierra en un círculo los que terminen con el sonido /u/.",
+  "analisis": "Mira, dibujos, nómbralos, Marca, elementos, empiecen, sonido, encierra, círculo, terminen, sonido, /u/.",
+  "indicadores": "• Interpreta la silueta, los paratextos de diversos textos. • Desarrolla la expresión oral en contextos cotidianos usando la conciencia lingüística. • Discrimina sonidos iniciales y finales."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9ba5"
+  },
+  "pagina": 48,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Observa la lámina, nombra lo que ves y reconoce los sonidos que has practicado.",
+  "analisis": "Observa, lámina, nombra, reconoce, sonidos, practicado",
+  "indicadores": "• Interpreta la silueta, los paratextos de diversos textos escritos. • Explica la formación de palabras y oraciones, utilizando la conciencia lingüística (fonológica, léxica y semántica). • Discrimina sonidos iniciales."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9ba6"
+  },
+  "pagina": 49,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "tengo derechos y responsabilidades Observa la ilustración y marca cuáles son tus responsabilidades en la escuela.",
+  "analisis": "derechos, responsabilidades, Observa, ilustración, marca, responsabilidades, escuela",
+  "indicadores": "• Reconoce sus derechos y responsabilidades."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9ba7"
+  },
+  "pagina": 50,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "seguridad en la escuela En grupo recorran la escuela y ubiquen si existe algún lugar de peligro. Dibujen en el recuadro la situación de peligro y en el otro cómo evitarlo.",
+  "analisis": "seguridad, escuela, grupo, recorran, escuela, ubiquen, peligro, Dibujen, recuadro, situación, peligro, evitarlo",
+  "indicadores": "• Reconoce las situaciones de peligro de su entorno cercano en función de evitar accidentes, mediante la aplicación de normas de seguridad, autorregulación y cumplimiento de normas propuestas por la comunidad escolar."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9ba8"
+  },
+  "pagina": 52,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Mi historia personal y familiar Ayuda a esta familia a llegar a su casa. Sigue el camino sin levantar el lápiz de la página. Inventa un camino diferente para cada familia.",
+  "analisis": "historia, personal, familiar, Ayuda, familia, llegar, casa, camino, levantar, lápiz, página, Inventa, camino, familia",
+  "indicadores": "• Muestra interés al reconocer distintas familias y distintas viviendas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9ba9"
+  },
+  "pagina": 53,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Pide en casa que te cuenten detalles de tu historia personal. Con fotografías o dibujos, narra tu historia.",
+  "analisis": "Pide, casa, cuenten, detalles, historia, personal, fotografías, dibujos, narra, historia",
+  "indicadores": "• Reconoce que tiene una historia personal familiar con el que comparte actividades, y a la que hay que respetar y valorar."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9baa"
+  },
+  "pagina": 54,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Escucha a tu profesor la historia de diferentes familias. Encierra la familia que se parece más a la tuya. Papá y mamá quieren formar una familia donde todos sean felices. Por algunas razones, los niños y niñas quedan al cuidado de los abuelos. A veces la mamá o el papá asumen solos la crianza de sus hijos. Otras veces papá y mamá se han separado y los hijos viven con uno solo de ellos. Papá y mamá han decidido volver a formar una nueva familia. A veces los hijos no nacen del vientre de la mamá, sino que se los adopta para amarlos mucho.",
+  "analisis": "Escucha, profesor, historia, familias, Encierra, familia, Papá, mamá, quieren, formar, familia, felices, razones, niños, niñas, quedan, cuidado, abuelos, mamá, papá, asumen, crianza, hijos, papá, mamá, separado, hijos, viven, Papá, mamá, decidido, volver, formar, familia, hijos, nacen, vientre, mamá, adopta, amarlos",
+  "indicadores": "• Reconoce que tiene una historia personal y familiar con el que comparte actividades, y a la que hay que respetar y valorar."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bab"
+  },
+  "pagina": 55,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Dibuja los miembros de tu familia.",
+  "analisis": "Dibuja, miembros, familia",
+  "indicadores": "• Reconoce que tiene una historia personal. • Registra, expresa y comunica ideas mediante sus propios códigos."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bac"
+  },
+  "pagina": 55,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Escribe en tu propio código algo muy especial de un miembro de tu familia, lee tu frase y pinta un círculo por cada palabra que hayas escrito.",
+  "analisis": "Escribe, código, especial, miembro, familia, frase, pinta, círculo, palabra, hayas, escrito",
+  "indicadores": "• Reconoce que tiene una historia personal. • Registra, expresa y comunica ideas mediante sus propios códigos."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bad"
+  },
+  "pagina": 56,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Responde. ¿Cuántos abuelos tienes? ¿Cuántos hermanos tienes?",
+  "analisis": "Responde, abuelos, tienes, hermanos, tienes",
+  "indicadores": "• Reconoce que tiene una historia personal y familiar con el que comparte actividades, y a la que hay que respetar y valorar."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bae"
+  },
+  "pagina": 56,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Explica con tus propias palabras quién es un tío o tía. Dibuja a alguno de tus tíos.",
+  "analisis": "Explica, palabras, Dibuja, tíos",
+  "indicadores": "• Reconoce que tiene una historia personal y familiar con el que comparte actividades, y a la que hay que respetar y valorar."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9baf"
+  },
+  "pagina": 56,
+  "N_Actividad": 3,
+  "titulo": "Actividades",
+  "actividades": "Los hijos de tus tíos son tus primos. ¿Te gusta jugar con alguno de ellos? Dibújate o pega una foto en la que comparten su juego preferido.",
+  "analisis": "hijos, tíos, primos, gusta, jugar, Dibújate, pega, foto, comparten, juego, preferido",
+  "indicadores": "• Reconoce que tiene una historia personal y familiar con el que comparte actividades, y a la que hay que respetar y valorar."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bb0"
+  },
+  "pagina": 57,
+  "N_Actividad": 1,
+  "titulo": "hoy tenemos fiesta",
+  "actividades": "Observa las ilustraciones. Formula una frase que la describa y pinta el número de palabras que pronuncies en tu frase.",
+  "analisis": "Observa, ilustraciones, Formula, frase, describa, pinta, número, palabras, pronuncies, frase",
+  "indicadores": "• Reconoce que tiene una historia personal, familiar y que forma parte de una comunidad y de un núcleo familiar con el que comparte actividades de recreación y celebración. • Registra, expresa y comunica ideas según su propio código, explora la formación de palabras y oraciones usando la conciencia lingüística (semántica, léxica y sintáctica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bb1"
+  },
+  "pagina": 58,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Dibuja a las personas de tu familia que te aman y narra qué actividades realizan juntos, comenten vivencias que hayan compartido con ellos y realicen un mural para la clase.",
+  "analisis": "Dibuja, personas, familia, aman, narra, actividades, realizan, juntos, comenten, vivencias, hayan, compartido, realicen, mural, clase",
+  "indicadores": "• Reconoce que tiene una historia personal y familiar con el que comparte actividades, y a la que hay que respetar y valorar."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bb2"
+  },
+  "pagina": 59,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Elaboren entre todos una lista de tareas domésticas. Conversen sobre quién las realiza: ¿Quién limpia la casa? ¿Quién prepara la comida? ¿Y las camas? ¿Quién pone la mesa? ¿Quién lava los platos? ¿Quién lava la ropa?... Y nosotros, ¿ayudamos en las tareas de la casa? ¿Cómo? Comenten en clase respecto a algún momento que hayan ayudado en casa. Tarea ¿Quién la realiza?",
+  "analisis": "Elaboren, lista, tareas, domésticas, Conversen, realiza, limpia, casa, prepara, comida, camas, pone, mesa, lava, platos, lava, ropa, ayudamos, tareas, casa, Comenten, clase, hayan, ayudado, casa, Tarea, realiza",
+  "indicadores": "• Reconoce sus derechos y responsabilidades y asume compromisos en familia. • Desarrolla la expresión oral en contextos cotidianos usando la conciencia lingüística (semántica, léxica y sintáctica)"
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bb3"
+  },
+  "pagina": 59,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "¿Qué tareas puedes realizar en casa? Dibújalas. Observa la ilustración y formula una oración. Pinta un círculo por cada palabra que expreses.",
+  "analisis": "tareas, puedes, casa, Dibújalas, Observa, ilustración, formula, oración, Pinta, círculo, palabra, expreses",
+  "indicadores": "• Reconoce sus derechos y responsabilidades y asume compromisos en familia. • Desarrolla la expresión oral en contextos cotidianos usando la conciencia lingüística (semántica, léxica y sintáctica)"
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bb4"
+  },
+  "pagina": 60,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Nociones de tiempo Une con una línea los siguientes elementos según los utilices en la mañana, la tarde o la noche.",
+  "analisis": "Nociones, línea, siguientes, elementos, utilices, mañana, noche",
+  "indicadores": "• Emplea unidades de tiempo para ordenar secuencias temporales que describan actividades significativas y cotidianas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bb5"
+  },
+  "pagina": 61,
+  "N_Actividad": 1,
+  "titulo": "GREETINGS",
+  "actividades": "Sing a song. Good morning, good morning, good morning and how are you? I am fine, thank you. I am fine, thank you. And I hope that you are too! Canción infantil",
+  "analisis": "Sing, song, Good, morning, good, morning, good, morning, fine, thank, fine, thank, hope, that, Canción, infantil",
+  "indicadores": "• Use comon values of giving, saying hello, asking nicely and sharing (good morning, thanks, pass me the… please, here is a… for you)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bb6"
+  },
+  "pagina": 61,
+  "N_Actividad": 2,
+  "titulo": "GREETINGS",
+  "actividades": "Listen and repeat. Pass me the pencil. Here you are.",
+  "analisis": "Listen, repeat, Pass, pencil, Here",
+  "indicadores": "• Use comon values of giving, saying hello, asking nicely and sharing (good morning, thanks, pass me the… please, here is a… for you)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bb7"
+  },
+  "pagina": 62,
+  "N_Actividad": 1,
+  "titulo": "Sentimos calor, sentimos frío Con ayuda de tu profesor lee las siguientes expresiones.",
+  "actividades": "arrarray Tengo calor. Este helado me refrescará. achachay Tengo frío. Esta sopa me va a calentar.",
+  "analisis": "arrarray, calor, helado, refrescará, achachay, frío, sopa, calentar",
+  "indicadores": "• Distingue palabras y expresiones coloquiales de su localidad, e indaga sobre sus significados. • Discrimina temperaturas entre objetos del entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bb8"
+  },
+  "pagina": 62,
+  "N_Actividad": 2,
+  "titulo": "Sentimos calor, sentimos frío Con ayuda de tu profesor lee las siguientes expresiones.",
+  "actividades": "Comenta con el profesor por qué se ingieren alimentos calientes cuando se tiene frío y alimentos fríos cuando se tiene calor. Pide en casa que te cuenten cómo se llama el instrumento con el que podemos medir la temperatura del cuerpo. Dibújalo.",
+  "analisis": "Comenta, profesor, ingieren, alimentos, calientes, frío, alimentos, fríos, calor, Pide, casa, cuenten, llama, instrumento, medir, temperatura, cuerpo, Dibújalo",
+  "indicadores": "• Distingue palabras y expresiones coloquiales de su localidad, e indaga sobre sus significados. • Discrimina temperaturas entre objetos del entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bb9"
+  },
+  "pagina": 63,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Recorta y pega de revistas en desuso imágenes del entorno que representen situaciones de calor o frío.",
+  "analisis": "Recorta, pega, revistas, desuso, imágenes, entorno, representen, situaciones, calor, frío",
+  "indicadores": "• Clasifica elementos del entorno y los agrupa considerando su temperatura."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bba"
+  },
+  "pagina": 65,
+  "N_Actividad": 1,
+  "titulo": "vivimos en una casa",
+  "actividades": "Dibuja el lugar que más te agrada de tu casa.",
+  "analisis": "Dibuja, agrada, casa",
+  "indicadores": "• Reconoce la organización y dependencias de la vivienda identificando la tecnología en esos espacios."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bbb"
+  },
+  "pagina": 65,
+  "N_Actividad": 2,
+  "titulo": "vivimos en una casa",
+  "actividades": "Rodea y nombra los objetos que pertenecen a cada habitación. Luego, marca con una ✗ a aquellos que creas están mal ubicados.",
+  "analisis": "Rodea, nombra, objetos, pertenecen, habitación, marca, creas, ubicados",
+  "indicadores": "• Reconoce la organización y dependencias de la vivienda identificando la tecnología en esos espacios."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bbc"
+  },
+  "pagina": 66,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "he boy needs to fina a route to the different rooms of the house. Draw lines using colored pencils and help the boy arrive to those rooms. Tell you teacher how you did it.",
+  "analisis": "needs, fina, route, different, rooms, house, Draw, lines, using, colored, pencils, help, arrive, those, rooms, Tell, teacher",
+  "indicadores": "• Understand basic words about the house."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bbd"
+  },
+  "pagina": 67,
+  "N_Actividad": 1,
+  "titulo": "A jugar con los colores",
+  "actividades": "Pega papelitos de color blanco y negro en la cebra según correspondan sus colores.",
+  "analisis": "Pega, papelitos, color, blanco, negro, cebra, correspondan, colores",
+  "indicadores": "• Compara y distingue objetos según su color."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bbe"
+  },
+  "pagina": 67,
+  "N_Actividad": 2,
+  "titulo": "A jugar con los colores",
+  "actividades": "¿Conoces algún otro animal que sea de color blanco y negro? Trae ilustraciones y pega en la cartelera de la clase.",
+  "analisis": "Conoces, animal, color, blanco, negro, Trae, ilustraciones, pega, cartelera, clase",
+  "indicadores": "• Compara y distingue objetos según su color."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bbf"
+  },
+  "pagina": 69,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Observa en tu entorno inmediato, dibuja y pinta elementos del color que se te indica.",
+  "analisis": "Observa, entorno, inmediato, dibuja, pinta, elementos, color, indica",
+  "indicadores": "• Compara y distingue objetos según su color."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bc0"
+  },
+  "pagina": 70,
+  "N_Actividad": 1,
+  "titulo": "Nociones de izquierda y derecha",
+  "actividades": "Dibuja las colas de todos los animales. Pinta de un color a aquellos animales que miran hacia la derecha y de otro, los que miran hacia la izquierda.",
+  "analisis": "Dibuja, colas, animales, Pinta, color, animales, miran, derecha, miran, izquierda",
+  "indicadores": "• Describe la posición y la ubicación de los objetos (izquierda/derecha)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bc1"
+  },
+  "pagina": 71,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Pinta las camiones que van a la derecha.",
+  "analisis": "Pinta, camiones, derecha",
+  "indicadores": "• Describe la posición y la ubicación de los objetos (izquierda/derecha)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bc2"
+  },
+  "pagina": 72,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Observa la lámina, identifica los pájaros que van hacia la derecha y enciérralos. Pinta de morado, anaranjado y verde los que van hacia la izquierda.",
+  "analisis": "Observa, lámina, identifica, pájaros, derecha, enciérralos, Pinta, morado, anaranjado, verde, izquierda",
+  "indicadores": "• Describe la posición y la ubicación de los objetos (izquierda/derecha)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bc3"
+  },
+  "pagina": 73,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Responde: ¿Con qué mano sostiene el jardinero la regadera? Encierra el objeto que sostiene con la mano izquierda. Pinta las flores.",
+  "analisis": "Responde, mano, sostiene, jardinero, regadera, Encierra, objeto, sostiene, mano, izquierda, Pinta, flores",
+  "indicadores": "• Describe la posición y la ubicación de los objetos (izquierda/derecha) en los demás."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bc4"
+  },
+  "pagina": 74,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Cuerpos geométricos Descubre qué cuerpo geométrico esconde cada niño o niña. Píntalos del mismo color.",
+  "analisis": "Cuerpos, geométricos, Descubre, cuerpo, geométrico, esconde, niño, niña, Píntalos, color",
+  "indicadores": "• Encuentra y reconoce objetos que tienen la forma de cuerpos geométricos."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bc5"
+  },
+  "pagina": 75,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Observa la ilustración y encuentra tres figuras que tengan formas de cuerpos geométricos.",
+  "analisis": "Observa, ilustración, figuras, tengan, formas, cuerpos, geométricos",
+  "indicadores": "• Encuentra y reconoce objetos que tienen la forma de cuerpos geométricos."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bc6"
+  },
+  "pagina": 76,
+  "N_Actividad": 1,
+  "titulo": "Construyo patrones",
+  "actividades": "Utilizando los siguientes cuerpos geométricos, construye tres diferentes patrones. Cada cuerpo geométrico debe tener diferente color; y dos de ellos, diferente tamaño.",
+  "analisis": "Utilizando, siguientes, cuerpos, geométricos, construye, patrones, cuerpo, geométrico, color, tamaño",
+  "indicadores": "• Construye patrones."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bc7"
+  },
+  "pagina": 77,
+  "N_Actividad": 1,
+  "titulo": "Números ordinales",
+  "actividades": "Ayuda a ubicar a los paracaidistas de acuerdo con su orden de llegada. Únelos con una línea.",
+  "analisis": "Ayuda, ubicar, paracaidistas, orden, llegada, Únelos, línea",
+  "indicadores": "• Establece relaciones de orden con números ordinales hasta el quinto."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bc8"
+  },
+  "pagina": 77,
+  "N_Actividad": 2,
+  "titulo": "Números ordinales",
+  "actividades": "Pinta de color morado la primera y la quinta casa.",
+  "analisis": "Pinta, color, morado, quinta, casa",
+  "indicadores": "• Establece relaciones de orden con números ordinales hasta el quinto."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bc9"
+  },
+  "pagina": 78,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Jugando con los números Traza el número seis con tu dedo índice, luego rellénalo con plastilina. Escribe el número seis.",
+  "analisis": "Jugando, números, Traza, número, dedo, índice, rellénalo, plastilina, Escribe, número",
+  "indicadores": "• Identifica cantidades y las asocia con los numerales del al . • Cuenta colecciones de objetos en situaciones cotidianas del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bca"
+  },
+  "pagina": 79,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Aprende el número siete, sigue su forma y, con tu dedo índice untado de témpera de tu color favorito, realiza el trazo. Escribe el número siete.",
+  "analisis": "Aprende, número, forma, dedo, índice, untado, témpera, color, favorito, realiza, trazo, Escribe, número",
+  "indicadores": "• Identifica cantidades y las asocia con los numerales del al . • Cuenta colecciones de objetos en situaciones cotidianas del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bcb"
+  },
+  "pagina": 80,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Decora a tu gusto el número ocho. Cuenta los pasteles y aprende el poema. En la casa de Pinocho En la casa de Pinocho todos cuentan hasta el ocho: pin uno, pin dos, pin tres pin cuatro, pin cinco, pin seis, pin siete, pin ocho. Ronda infantil",
+  "analisis": "Decora, gusto, número, pasteles, aprende, poema, casa, Pinocho, casa, Pinocho, cuentan, Ronda, infantil",
+  "indicadores": "• Identifica cantidades y las asocia con los numerales del al . • Cuenta colecciones de objetos en situaciones cotidianas del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bcc"
+  },
+  "pagina": 81,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Traza el número nueve con tu dedo. Decóralo con papel trozado y practica su escritura.",
+  "analisis": "Traza, número, nueve, dedo, Decóralo, papel, trozado, practica, escritura",
+  "indicadores": "• Identifica cantidades y las asocia con los numerales del al . • Cuenta colecciones de objetos en situaciones cotidianas del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bcd"
+  },
+  "pagina": 82,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Aprende el número diez. Trázalo con tu dedo índice y aplica la técnica de estampado con masmelo.",
+  "analisis": "Aprende, número, diez, Trázalo, dedo, índice, aplica, técnica, estampado, masmelo",
+  "indicadores": "• Identifica cantidades y las asocia con los numerales del al . • Cuenta colecciones de objetos en situaciones cotidianas del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bce"
+  },
+  "pagina": 83,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Decora el número cero con papel trozado de varios colores.",
+  "analisis": "Decora, número, cero, papel, trozado, colores",
+  "indicadores": "• Identifica cantidades y las asocia con los numerales del al . • Cuenta colecciones de objetos en situaciones cotidianas del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bcf"
+  },
+  "pagina": 85,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Cuenta cuántos hay en cada fila y comparte con tus compañeros. Escribe en orden los números que faltan.",
+  "analisis": "fila, comparte, compañeros, Escribe, orden, números, faltan",
+  "indicadores": "• Identifica cantidades y las asocia con los numerales del al . • Cuenta colecciones de objetos en situaciones cotidianas del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bd0"
+  },
+  "pagina": 86,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Observa la moneda de cinco centavos. Colorea tantas monedas de un centavo que sumen cinco centavos juntas.",
+  "analisis": "Observa, moneda, centavos, Colorea, tantas, monedas, centavo, sumen, centavos, juntas",
+  "indicadores": "• Cuenta y reconoce las monedas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bd1"
+  },
+  "pagina": 86,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Busca dos modos de representar ocho centavos con monedas de uno y cinco centavos.",
+  "analisis": "Busca, modos, representar, centavos, monedas, centavos",
+  "indicadores": "• Cuenta y reconoce las monedas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bd2"
+  },
+  "pagina": 86,
+  "N_Actividad": 3,
+  "titulo": "Actividades",
+  "actividades": "Observa la moneda de diez centavos.",
+  "analisis": "Observa, moneda, diez, centavos",
+  "indicadores": "• Cuenta y reconoce las monedas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bd3"
+  },
+  "pagina": 86,
+  "N_Actividad": 4,
+  "titulo": "Actividades",
+  "actividades": "Utiliza tu ingenio para la cantidad de diez centavos con monedas de cinco y un centavo.",
+  "analisis": "Utiliza, ingenio, cantidad, diez, centavos, monedas, centavo",
+  "indicadores": "• Cuenta y reconoce las monedas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bd4"
+  },
+  "pagina": 87,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Utiliza monedas para realizar las siguientes compras. Un chicle:",
+  "analisis": "Utiliza, monedas, siguientes, compras, chicle",
+  "indicadores": "• Cuenta y reconoce las monedas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bd5"
+  },
+  "pagina": 87,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "centavos Un caramelo:",
+  "analisis": "centavos, caramelo",
+  "indicadores": "• Cuenta y reconoce las monedas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bd6"
+  },
+  "pagina": 87,
+  "N_Actividad": 3,
+  "titulo": "Actividades",
+  "actividades": "centavos Un chupete:",
+  "analisis": "centavos, chupete",
+  "indicadores": "• Cuenta y reconoce las monedas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bd7"
+  },
+  "pagina": 87,
+  "N_Actividad": 4,
+  "titulo": "Actividades",
+  "actividades": "centavos Un chocolate:",
+  "analisis": "centavos, chocolate",
+  "indicadores": "• Cuenta y reconoce las monedas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bd8"
+  },
+  "pagina": 87,
+  "N_Actividad": 5,
+  "titulo": "Actividades",
+  "actividades": "centavos",
+  "analisis": "centavos",
+  "indicadores": "• Cuenta y reconoce las monedas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bd9"
+  },
+  "pagina": 88,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Dibuja tantos elementos como te indique el número.",
+  "analisis": "Dibuja, tantos, elementos, indique, número",
+  "indicadores": "• Identifica cantidades y las asocia con los numerales del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bda"
+  },
+  "pagina": 89,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Une los puntos en forma ascendente y encontrarás algo que te gusta mucho.",
+  "analisis": "puntos, forma, ascendente, encontrarás, gusta",
+  "indicadores": "• Establece relaciones de orden y escribe secuencias numéricas ascendentes y descendentes del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bdb"
+  },
+  "pagina": 89,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Une los puntos de manera descendente y encontrarás a alguien que te quiere mucho.",
+  "analisis": "puntos, descendente, encontrarás, alguien",
+  "indicadores": "• Establece relaciones de orden y escribe secuencias numéricas ascendentes y descendentes del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bdc"
+  },
+  "pagina": 90,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Lee los números en forma ascendente y escríbelos en forma descendente.",
+  "analisis": "números, forma, ascendente, escríbelos, forma, descendente",
+  "indicadores": "• Establece relaciones de orden y escribe secuencias numéricas ascendentes y descendentes del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bdd"
+  },
+  "pagina": 90,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Practica usando tus conocimientos de inglés.",
+  "analisis": "Practica, usando, conocimientos, inglés",
+  "indicadores": "• Establece relaciones de orden y escribe secuencias numéricas ascendentes y descendentes del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bde"
+  },
+  "pagina": 91,
+  "N_Actividad": 1,
+  "titulo": "the numbers",
+  "actividades": "Sing a song. Ten little monkeys jumping on the bed. One fell off and broke his head. Mama called the doctor and the doctor said: «No more monkeys jumping on the bed!». ... One little monkey jumping on the bed. One fell off and broke his head. Mama called the doctor and the doctor said, «No more monkeys jumping on the bed!». Mama monkey said: «All you little monkeys go right to bed!» Canción infantil",
+  "analisis": "Sing, song, little, monkeys, jumping, fell, broke, head, Mama, called, doctor, doctor, said, more, monkeys, jumping, little, monkey, jumping, fell, broke, head, Mama, called, doctor, doctor, said, more, monkeys, jumping, Mama, monkey, said, little, monkeys, right, Canción, infantil",
+  "indicadores": "• Sing a song enunciating some of the words learned with rythmn, etc. • Move and sing a song using the vocabulary learned."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bdf"
+  },
+  "pagina": 92,
+  "N_Actividad": 1,
+  "titulo": "Sonido /m/ Pinta los dibujos que tengan en sus nombre el sonido /m/.",
+  "actividades": "Repite la rima. Debes alargar el sonido /m/. Miau, miau, maúlla el gato. Miau, miau, muy enfadado, porque quiere que le midan un moñito morado. Canción infantil",
+  "analisis": "Repite, rima, Debes, alargar, sonido, /m/., Miau, miau, maúlla, gato, Miau, miau, enfadado, midan, moñito, morado, Canción, infantil",
+  "indicadores": "• Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica, sintáctica y semántica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9be0"
+  },
+  "pagina": 92,
+  "N_Actividad": 2,
+  "titulo": "Sonido /m/ Pinta los dibujos que tengan en sus nombre el sonido /m/.",
+  "actividades": "Pregunta a algún compañero o compañera si su nombre contiene el sonido /m/. Repítelo varias veces.",
+  "analisis": "Pregunta, compañero, compañera, nombre, contiene, sonido, /m/., Repítelo",
+  "indicadores": "• Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica, sintáctica y semántica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9be1"
+  },
+  "pagina": 93,
+  "N_Actividad": 1,
+  "titulo": "Sonido /p/",
+  "actividades": "Nombra los miembros de tu familia. Señala la persona que tiene más edad. Une la sombra de la ventana con la persona a quien pertenece.",
+  "analisis": "Nombra, miembros, familia, Señala, persona, edad, sombra, ventana, persona, pertenece",
+  "indicadores": "• Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica, sintáctica y semántica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9be2"
+  },
+  "pagina": 93,
+  "N_Actividad": 2,
+  "titulo": "Sonido /p/",
+  "actividades": "Aprende este trabalenguas. Cuando pronuncies el sonido /p/ siente con tu mano cómo sale el aire de tu boca. Paquito compró copitas; como pocas copitas compró, pocas copitas pagó. Trabalenguas",
+  "analisis": "Aprende, trabalenguas, pronuncies, sonido, siente, mano, sale, aire, boca, Paquito, compró, copitas, copitas, compró, copitas, pagó, Trabalenguas",
+  "indicadores": "• Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica, sintáctica y semántica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9be3"
+  },
+  "pagina": 94,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Sonido /t/ Imita el sonido que hace el niño para expresar cómo suena una trompeta. Pinta los círculos según el número de veces que hayas pronunciado el sonido /t/.",
+  "analisis": "Sonido, Imita, sonido, niño, expresar, suena, trompeta, Pinta, círculos, número, hayas, pronunciado, sonido, /t/.",
+  "indicadores": "• Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica, sintáctica y semántica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9be4"
+  },
+  "pagina": 94,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Marca con una ✗ las palabras que empiecen con el sonido /t/.",
+  "analisis": "Marca, palabras, empiecen, sonido, /t/.",
+  "indicadores": "• Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica, sintáctica y semántica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9be5"
+  },
+  "pagina": 95,
+  "N_Actividad": 1,
+  "titulo": "Sonido /s/",
+  "actividades": "Imita el sonido que hace la niña para expresar que quiere que hagan silencio: SSSS. Pinta los círculos según el número de veces que hayas pronunciado el sonido /s/.",
+  "analisis": "Imita, sonido, niña, expresar, hagan, silencio, SSSS, Pinta, círculos, número, hayas, pronunciado, sonido, /s/.",
+  "indicadores": "• Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica, sintáctica y semántica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9be6"
+  },
+  "pagina": 95,
+  "N_Actividad": 2,
+  "titulo": "Sonido /s/",
+  "actividades": "Recorta y pega dibujos de palabras que empiecen por el sonido /s/.",
+  "analisis": "Recorta, pega, dibujos, palabras, empiecen, sonido, /s/.",
+  "indicadores": "• Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica, sintáctica y semántica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9be7"
+  },
+  "pagina": 96,
+  "N_Actividad": 1,
+  "titulo": "Sonido /f/ Imita el sonido que hace el niño cuando va a apagar un fósforo. Pinta los cubos según el número de veces que hayas pronunciado el sonido. Discriminación entre sonidos. Marca con una ✗ las palabras que no tengan sonido /f/.",
+  "actividades": "Une estas ilustraciones con una línea y forma oraciones.",
+  "analisis": "ilustraciones, línea, forma, oraciones",
+  "indicadores": "• Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica, sintáctica y semántica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9be8"
+  },
+  "pagina": 97,
+  "N_Actividad": 1,
+  "titulo": "Sonido /B/",
+  "actividades": "Recorta y pega palabras que inicien con el sonido /b/.",
+  "analisis": "Recorta, pega, palabras, inicien, sonido, /b/.",
+  "indicadores": "• Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica, sintáctica y semántica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9be9"
+  },
+  "pagina": 99,
+  "N_Actividad": 1,
+  "titulo": "Derechos y obligaciones en familia Tienes derecho a que tu familia te cuide y proteja. También tienes obligación de responder a ese cariño y cuidado ayudando y demostrándoles tu afecto.",
+  "actividades": "Marca con una ✗ aquello que no se debe hacer y colorea lo que sí.",
+  "analisis": "Marca, colorea",
+  "indicadores": "• Reconoce sus derechos y responsabilidades y la importancia de vivirlos en familia."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bea"
+  },
+  "pagina": 99,
+  "N_Actividad": 2,
+  "titulo": "Derechos y obligaciones en familia Tienes derecho a que tu familia te cuide y proteja. También tienes obligación de responder a ese cariño y cuidado ayudando y demostrándoles tu afecto.",
+  "actividades": "Escribe o dibuja un compromiso para mejorar tu comportamiento en familia.",
+  "analisis": "Escribe, dibuja, compromiso, mejorar, comportamiento, familia",
+  "indicadores": "• Reconoce sus derechos y responsabilidades y la importancia de vivirlos en familia."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9beb"
+  },
+  "pagina": 100,
+  "N_Actividad": 1,
+  "titulo": "seguridad en familia",
+  "actividades": "Recorre tu casa con un adulto y ubica situaciones de riesgo. Dibújalas y, junto a cada una, dibuja cómo la puedes evitar.",
+  "analisis": "Recorre, casa, adulto, ubica, situaciones, riesgo, Dibújalas, dibuja, puedes, evitar",
+  "indicadores": "• Reconoce las situaciones de riesgo de su entorno cercano, en función de evitar accidentes."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bec"
+  },
+  "pagina": 102,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Motricidad Sigue la muestra y ayuda a los monstruos a llegar al otro lado.",
+  "analisis": "Motricidad, muestra, ayuda, monstruos, llegar",
+  "indicadores": "• Realiza trazos y garabatos para fortalecer su motricidad fina."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bed"
+  },
+  "pagina": 103,
+  "N_Actividad": 1,
+  "titulo": "el paisaje de tu alrededor",
+  "actividades": "Observa y pinta estos medios naturales. Encierra en un círculo los elementos de la naturaleza. Responde: ¿Quién ha construido los elementos que quedaron fuera de los círculos?",
+  "analisis": "Observa, pinta, medios, naturales, Encierra, círculo, elementos, naturaleza, Responde, construido, elementos, quedaron, círculos",
+  "indicadores": "• Diferencia entre seres inertes y seres con vida de su entorno. • Reconoce el paisaje de su alrededor."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bee"
+  },
+  "pagina": 104,
+  "N_Actividad": 1,
+  "titulo": "Ciclo vital",
+  "actividades": "Observa las imágenes y numéralas en orden de acuerdo con el ciclo de la vida.",
+  "analisis": "Observa, imágenes, numéralas, orden, ciclo, vida",
+  "indicadores": "• Identifica las características (crecer, reproducirse, responder a estímulos, necesidades)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bef"
+  },
+  "pagina": 105,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Observa la ilustración e indaga la diferencia en cuanto al nacimiento de estos animalitos.",
+  "analisis": "Observa, ilustración, indaga, diferencia, nacimiento, animalitos",
+  "indicadores": "• Identifica las características (crecer, reproducirse, responder a estímulos, necesidades)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bf0"
+  },
+  "pagina": 105,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Busca imágenes de otros animales que tengan la misma forma de nacimiento y pégalas en el recuadro.",
+  "analisis": "Busca, imágenes, animales, tengan, forma, nacimiento, pégalas, recuadro",
+  "indicadores": "• Identifica las características (crecer, reproducirse, responder a estímulos, necesidades)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bf1"
+  },
+  "pagina": 106,
+  "N_Actividad": 1,
+  "titulo": "plantas de la localidad De los animales y las plantas obtenemos alimentos y materiales para elaborar nuestros vestidos y calzado. Las plantas nos alimentan y, además, limpian el aire.",
+  "actividades": "Observa la ilustración y responde qué utilidades o beneficios nos dan las plantas y los animales.",
+  "analisis": "Observa, ilustración, responde, utilidades, beneficios, plantas, animales",
+  "indicadores": "• Discrimina, desde su propia experiencia, la importancia de las plantas y animales de su entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bf2"
+  },
+  "pagina": 106,
+  "N_Actividad": 2,
+  "titulo": "plantas de la localidad De los animales y las plantas obtenemos alimentos y materiales para elaborar nuestros vestidos y calzado. Las plantas nos alimentan y, además, limpian el aire.",
+  "actividades": "Recorta y pega en una cartulina animales y plantas de tu localidad. Elabora frases sobre el cuidado que necesitan las plantas y animales.",
+  "analisis": "Recorta, pega, cartulina, animales, plantas, localidad, Elabora, frases, cuidado, necesitan, plantas, animales",
+  "indicadores": "• Discrimina, desde su propia experiencia, la importancia de las plantas y animales de su entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bf3"
+  },
+  "pagina": 107,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Observa qué hacen estos animales y nómbralos en inglés. Imita la acción que realizan. frog bird fish dog, cat smile fly swim run",
+  "analisis": "Observa, animales, nómbralos, inglés, Imita, acción, realizan, frog, bird, fish, smile, swim",
+  "indicadores": "• Discrimina, desde su propia expreriencia, la importancia de las plantas y animales de su entorno. • Repeat basic vocabulary related to animals and do actions when hearing those animals’ names."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bf4"
+  },
+  "pagina": 108,
+  "N_Actividad": 1,
+  "titulo": "los animales son seres vivos Hay animales grandes y pequeños ; algunos viven en el agua y otros en la tierra , algunos vuelan , otros caminan y otros se arrastran . Algunos tienen pelo ,otros plumas y otros escamas .",
+  "actividades": "Crea tu propio animal y ponle un nombre. Escribe en tu propio código.",
+  "analisis": "Crea, animal, ponle, nombre, Escribe, código",
+  "indicadores": "• Discrimina, desde su propia experiencia la importancia de las plantas y animales de su entorno. • Acompaña el lenguaje oral en situaciones de expresión creativa."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bf5"
+  },
+  "pagina": 108,
+  "N_Actividad": 2,
+  "titulo": "los animales son seres vivos Hay animales grandes y pequeños ; algunos viven en el agua y otros en la tierra , algunos vuelan , otros caminan y otros se arrastran . Algunos tienen pelo ,otros plumas y otros escamas .",
+  "actividades": "¿Qué hacen estos animales? Cuenta una historia sobre ellos.",
+  "analisis": "animales, historia",
+  "indicadores": "• Discrimina, desde su propia experiencia la importancia de las plantas y animales de su entorno. • Acompaña el lenguaje oral en situaciones de expresión creativa."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bf6"
+  },
+  "pagina": 109,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Clasifica los siguientes animalitos de acuerdo con su forma de movilizarse. Encierra en un círculo verde los que vuelan, azul si reptan y rojo si caminan.",
+  "analisis": "Clasifica, siguientes, animalitos, forma, movilizarse, Encierra, círculo, verde, vuelan, azul, reptan, rojo, caminan",
+  "indicadores": "• Construye series utilizando elementos del entorno. • Discrimina, desde su propia experiencia, la importancia de las plantas y animales de su entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bf7"
+  },
+  "pagina": 109,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Completa el siguiente patrón con el elemento de la naturaleza que corresponde.",
+  "analisis": "Completa, patrón, elemento, naturaleza, corresponde",
+  "indicadores": "• Construye series utilizando elementos del entorno. • Discrimina, desde su propia experiencia, la importancia de las plantas y animales de su entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bf8"
+  },
+  "pagina": 110,
+  "N_Actividad": 1,
+  "titulo": "Hay algunas plantas y animales que pueden resultar peligrosos si los tocas o los molestas.",
+  "actividades": "Nómbralos y marca con una ✗ a los animales que pueden resultar peligrosos.",
+  "analisis": "Nómbralos, marca, animales, resultar, peligrosos",
+  "indicadores": "• Discrimina, desde su propia expreriencia, la importancia de las plantas y animales de su entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bf9"
+  },
+  "pagina": 110,
+  "N_Actividad": 2,
+  "titulo": "Hay algunas plantas y animales que pueden resultar peligrosos si los tocas o los molestas.",
+  "actividades": "Si caminas por este bosque, ¿qué planta puede ser peligrosa?",
+  "analisis": "caminas, bosque, planta, peligrosa",
+  "indicadores": "• Discrimina, desde su propia expreriencia, la importancia de las plantas y animales de su entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bfa"
+  },
+  "pagina": 111,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Recorta y arma el rompecabezas. Pégalo en la siguiente página.",
+  "analisis": "Recorta, arma, rompecabezas, Pégalo, página",
+  "indicadores": "• Discrimina, desde su propia expreriencia, la importancia de las plantas y animales de su entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bfb"
+  },
+  "pagina": 115,
+  "N_Actividad": 1,
+  "titulo": "Cuidados de la naturaleza",
+  "actividades": "Observa la lámina, marca con una ✗ algunas acciones que dañan el medioambiente. Conversa respecto a cómo evitarlas.",
+  "analisis": "Observa, lámina, marca, acciones, dañan, medioambiente, Conversa, evitarlas",
+  "indicadores": "• Identifica causas y consecuencias de la contaminación. • Expone comportamientos de respeto y cuidado hacia el hábitat y los seres vivos de su entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bfc"
+  },
+  "pagina": 116,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Cuidado de la naturaleza. Colorea las situaciones adecuadas.",
+  "analisis": "Cuidado, naturaleza, Colorea, situaciones, adecuadas",
+  "indicadores": "• Expone comportamientos de respeto y cuidado hacia el hábitat y los seres vivos de su entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bfd"
+  },
+  "pagina": 116,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "En grupo comenten cómo se debe cuidar la naturaleza.",
+  "analisis": "grupo, comenten, cuidar, naturaleza",
+  "indicadores": "• Expone comportamientos de respeto y cuidado hacia el hábitat y los seres vivos de su entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bfe"
+  },
+  "pagina": 116,
+  "N_Actividad": 3,
+  "titulo": "Actividades",
+  "actividades": "Resuelve estas situaciones: Imagina que estás de paseo en los siguientes espacios. ¿Qué hacer?",
+  "analisis": "Resuelve, situaciones, Imagina, estás, paseo, siguientes, espacios",
+  "indicadores": "• Expone comportamientos de respeto y cuidado hacia el hábitat y los seres vivos de su entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9bff"
+  },
+  "pagina": 117,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Diseña un cartel que informe sobre tu mascota perdida y que deseas recuperar. Escribe con tu propio código o dibuja.",
+  "analisis": "Diseña, cartel, informe, mascota, perdida, deseas, recuperar, Escribe, código, dibuja",
+  "indicadores": "• Expone comportamientos de respeto y cuidado hacia el hábitat y los seres vivos de su entorno. • Registra, expresa y comunica ideas mediante sus propios códigos, selecciona diferentes recursos y materiales para sus producciones escritas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c00"
+  },
+  "pagina": 118,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Con ayuda de tu profesor identifica y menciona ejemplos de elementos que puedes desechar en cada uno de los recipientes de color. Plástico Vidrio Papel Infecciosos Orgánicos",
+  "analisis": "ayuda, profesor, identifica, menciona, ejemplos, elementos, puedes, desechar, recipientes, color, Plástico, Vidrio, Papel, Infecciosos, Orgánicos",
+  "indicadores": "• Expone comportamientos de respeto y cuidado hacia el hábitat y los seres vivos de su entorno."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c01"
+  },
+  "pagina": 119,
+  "N_Actividad": 1,
+  "titulo": "las palabras tienen sonidos",
+  "actividades": "Observa los dibujos de cada columna. Encierra y une aquellos cuyos nombres rimen. Pinta los que están relacionados con la naturaleza.",
+  "analisis": "Observa, dibujos, columna, Encierra, cuyos, nombres, rimen, Pinta, relacionados, naturaleza",
+  "indicadores": "• Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica, semántica y sintáctica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c02"
+  },
+  "pagina": 120,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Dibuja o pega ilustraciones de palabras que empiecen igual que las que dirá tu profesor.",
+  "analisis": "Dibuja, pega, ilustraciones, palabras, empiecen, dirá, profesor",
+  "indicadores": "• Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica, semántica y sintáctica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c03"
+  },
+  "pagina": 121,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "las personas trabajanRecorta las ilustraciones y pégalas en la siguiente página según la profesión que corresponda.",
+  "analisis": "personas, trabajanRecorta, ilustraciones, pégalas, página, profesión, corresponda",
+  "indicadores": "• Reconoce las principales ocupaciones que existen en la comunidad a la que perteneces."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c04"
+  },
+  "pagina": 125,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Visiten un lugar de trabajo cercano: taller, fábrica, oficina… Observen en qué consiste, qué utilizan, cuántos hombres y mujeres hay, etc. Apliquen a su papá y a su mamá una pequeña encuesta: ¿Cuál es tu trabajo? ¿En qué consiste? ¿Te gusta?",
+  "analisis": "Visiten, cercano, taller, fábrica, oficina, Observen, consiste, utilizan, hombres, mujeres, etc., Apliquen, papá, mamá, pequeña, encuesta, consiste, gusta",
+  "indicadores": "• Recolecta y representa información del entorno en pictogramas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c05"
+  },
+  "pagina": 125,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Dibujen el trabajo de su papá y de su mamá. mamá papá",
+  "analisis": "Dibujen, papá, mamá, mamá, papá",
+  "indicadores": "• Recolecta y representa información del entorno en pictogramas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c06"
+  },
+  "pagina": 125,
+  "N_Actividad": 3,
+  "titulo": "Actividades",
+  "actividades": "Armen en clase un sociodrama con las profesiones que más te hayan llamado la atención.",
+  "analisis": "Armen, clase, sociodrama, profesiones, hayan, llamado, atención",
+  "indicadores": "• Recolecta y representa información del entorno en pictogramas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c07"
+  },
+  "pagina": 126,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Aprende y juega la siguiente ronda. Juego Hacen así: así los policías. Sobre el puente de Aviñón todos bailan y yo también. Hacen así: así los enfermeros. Sobre el puente de Aviñón todos bailan y yo también. Hacen así: así las bomberas. Sobre el puente de Aviñón todos bailan y yo también. Hacen así: así los jardineros. Sobre el puente de Aviñón todos bailan y yo también. Hacen así: así me gusta a mí. Ronda infantil Canta una frase del juego y añade una profesión. Pinta un círculo por cada palabra que expreses. Repite de forma lenta y rápida los nombres de las profesiones y descubre su sonido final.",
+  "analisis": "Aprende, juega, ronda, Juego, policías, puente, Aviñón, bailan, enfermeros, puente, Aviñón, bailan, bomberas, puente, Aviñón, bailan, jardineros, puente, Aviñón, bailan, gusta, Ronda, infantil, Canta, frase, juego, añade, profesión, Pinta, círculo, palabra, expreses, Repite, forma, lenta, rápida, nombres, profesiones, descubre, sonido",
+  "indicadores": "• Reconoce la utilidad de las principales ocupaciones y profesiones que existen en la comunidad a la que pertenece. • Desarrolla gusto por la escucha de textos literarios y representa pasajes de los textos escuchados. • Desarrolla la expresión oral en contextos cotidianos usando la conciencia lingüística, le acompañan recursos audiovisuales en situaciones de expresión creativa, y adapta el tono de voz, los gestos, la entonación y el vocabulario, según el contexto y la intención comunicativa."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c08"
+  },
+  "pagina": 127,
+  "N_Actividad": 1,
+  "titulo": "los días de la semana",
+  "actividades": "Completa cada día de la semana dibujando alguna actividad que hiciste y te gustó durante la misma.",
+  "analisis": "Completa, semana, dibujando, actividad, hiciste, gustó",
+  "indicadores": "• Emplea unidades de tiempo para ordenar secuencias temporales que describan actividades significativas y cotidianas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c09"
+  },
+  "pagina": 128,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Conversa con tu profesor y dibuja sobre lo que hiciste ayer, lo que haces hoy y lo que harás mañana.",
+  "analisis": "Conversa, profesor, dibuja, hiciste, harás, mañana",
+  "indicadores": "• Emplea unidades de tiempo para ordenar secuencias temporales que describan actividades significativas y cotidianas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c0a"
+  },
+  "pagina": 129,
+  "N_Actividad": 1,
+  "titulo": "las personas nos comunicamos",
+  "actividades": "Comenta sobre la utilidad que presta cada uno de estos elementos. M st",
+  "analisis": "Comenta, utilidad, presta, elementos",
+  "indicadores": "• Reconoce la función que cumplen los medios de comunicación."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c0b"
+  },
+  "pagina": 130,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Colorea y explica en clase: ¿Cómo nos pueden ayudar estos dispositivos tecnológicos?",
+  "analisis": "Colorea, explica, clase, ayudar, dispositivos, tecnológicos",
+  "indicadores": "• Reconoce la utilidad de los medios de comunicación."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c0c"
+  },
+  "pagina": 130,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Con ayuda de tu profesor construye un teléfono con vasos plásticos e hilo. Escribe usando tu propio código el mensaje que enviarás a un compañero.",
+  "analisis": "ayuda, profesor, construye, teléfono, vasos, plásticos, hilo, Escribe, usando, código, mensaje, enviarás, compañero",
+  "indicadores": "• Reconoce la utilidad de los medios de comunicación."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c0d"
+  },
+  "pagina": 131,
+  "N_Actividad": 1,
+  "titulo": "los medios de transporte",
+  "actividades": "Observa y describe los medios de transporte. Píntalos.",
+  "analisis": "Observa, describe, medios, transporte, Píntalos",
+  "indicadores": "• Reconoce la función que cumplen los medios de transporte."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c0e"
+  },
+  "pagina": 131,
+  "N_Actividad": 2,
+  "titulo": "los medios de transporte",
+  "actividades": "Observa y describe los medios de transporte. Píntalos. Había una vez un barquito chiquitito, (bis) que no sabía, que no sabía, que no sabía navegar, pasaron un, dos, tres, cuatro, cinco, seis semanas, y aquel barquito y aquel barquito y aquel barquito navegó. Y si esta historia parece corta, volveremos, volveremos a empezar. Canción infantil",
+  "analisis": "Observa, describe, medios, transporte, Píntalos, barquito, chiquitito, sabía, sabía, sabía, navegar, pasaron, semanas, barquito, barquito, barquito, navegó, historia, corta, volveremos, volveremos, empezar, Canción, infantil",
+  "indicadores": "• Reconoce la función que cumplen los medios de transporte."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c0f"
+  },
+  "pagina": 132,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Une con líneas el medio de transporte y su vía.",
+  "analisis": "líneas, transporte",
+  "indicadores": "• Reconoce la función que cumplen los medios de transporte."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c10"
+  },
+  "pagina": 133,
+  "N_Actividad": 1,
+  "titulo": "Medidas de longitud",
+  "actividades": "Compara la longitud de las cuerdas. Responde: ¿Son todas iguales? Marca con una ✗ la cuerda más corta y pinta con rojo la cuerda más larga. Bate que bate el chocolate. Uno, dos y tres, saltamos una y otra vez. Ronda infantil",
+  "analisis": "Compara, longitud, cuerdas, Responde, iguales, Marca, cuerda, corta, pinta, rojo, cuerda, larga, Bate, bate, chocolate, saltamos, Ronda, infantil",
+  "indicadores": "• Compara longitudes."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c11"
+  },
+  "pagina": 134,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Utilizando tus manos, mide el contorno de tu mesa y pinta tantas manos como las que midas.",
+  "analisis": "Utilizando, manos, mide, contorno, mesa, pinta, tantas, manos, midas",
+  "indicadores": "• Utiliza unidades no convencionales para medir."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c12"
+  },
+  "pagina": 134,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Utilizando tu lápiz, mide el contorno de tu libro y pinta tantos lápices como los que midas.",
+  "analisis": "Utilizando, lápiz, mide, contorno, libro, pinta, tantos, lápices, midas",
+  "indicadores": "• Utiliza unidades no convencionales para medir."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c13"
+  },
+  "pagina": 134,
+  "N_Actividad": 3,
+  "titulo": "Actividades",
+  "actividades": "Utilizando tus pies, mide el contorno de tu pupitre y pinta tantos pies como los que midas.",
+  "analisis": "Utilizando, pies, mide, contorno, pupitre, pinta, tantos, pies, midas",
+  "indicadores": "• Utiliza unidades no convencionales para medir."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c14"
+  },
+  "pagina": 135,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Aprende a hacer un avión de papel.",
+  "analisis": "Aprende, avión, papel",
+  "indicadores": "• Utiliza unidades de medida no convencionales para indicar la longitud de objetos del entorno y dar soluciones a situaciones de la vida cotidiana."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c15"
+  },
+  "pagina": 135,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Lánzalo y mide la distancia que recorre. Compara con las mediciones, en la misma unidad de medida, de tus compañeros y establezcan quien ganó.",
+  "analisis": "Lánzalo, mide, distancia, recorre, Compara, mediciones, unidad, medida, compañeros, establezcan, ganó",
+  "indicadores": "• Utiliza unidades de medida no convencionales para indicar la longitud de objetos del entorno y dar soluciones a situaciones de la vida cotidiana."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c16"
+  },
+  "pagina": 136,
+  "N_Actividad": 1,
+  "titulo": "aprendemos a sumar",
+  "actividades": "Repasa los números del",
+  "analisis": "Repasa, números",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la adición o sustracción con números del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c17"
+  },
+  "pagina": 136,
+  "N_Actividad": 2,
+  "titulo": "aprendemos a sumar",
+  "actividades": "y anota su número correspondiente.",
+  "analisis": "anota, número, correspondiente",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la adición o sustracción con números del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c18"
+  },
+  "pagina": 137,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "¿Cuántas frutas más colocaron en la canasta azul? Colorea solo las que no estaban.",
+  "analisis": "frutas, colocaron, canasta, azul, Colorea",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la adición o sustracción con números del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c19"
+  },
+  "pagina": 137,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Dibuja lo sombreros que faltan para que a cada ratón le corresponda uno.",
+  "analisis": "Dibuja, sombreros, faltan, ratón, corresponda",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la adición o sustracción con números del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c1a"
+  },
+  "pagina": 138,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Observa y escribe el resultado.",
+  "analisis": "Observa, escribe, resultado",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la adición o sustracción con números del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c1b"
+  },
+  "pagina": 139,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Cuenta y escribe la respuesta. En una finca había seis vacas. La vaca Primorosa tuvo tres terneritos. ¿Cuántos animales hay ahora en la finca? + En la granja, la gallina Cristalina puso cinco huevos y su prima, la gallina Copetona, puso cuatro. ¿Cuántos huevos hay en total? +",
+  "analisis": "escribe, respuesta, finca, vacas, vaca, Primorosa, terneritos, animales, finca, granja, gallina, Cristalina, puso, huevos, prima, gallina, Copetona, puso, huevos",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la adición o sustracción con números del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c1c"
+  },
+  "pagina": 140,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Observa y escribe el resultado.",
+  "analisis": "Observa, escribe, resultado",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la adición o sustracción con números del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c1d"
+  },
+  "pagina": 141,
+  "N_Actividad": 1,
+  "titulo": "aprendemos a restar",
+  "actividades": "¿Cuántos objetos deberíamos quitar de la mesa amarilla para que tengas los mismos que en la mesa verde? Márcalos con una ✗.",
+  "analisis": "objetos, deberíamos, quitar, mesa, amarilla, tengas, mesa, verde, Márcalos",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la adición o sustracción con números del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c1e"
+  },
+  "pagina": 141,
+  "N_Actividad": 2,
+  "titulo": "aprendemos a restar",
+  "actividades": "¿Cuántos pajaritos deberíamos quitar para que cada uno pueda ir a un árbol? Márcalos con una ✗S.",
+  "analisis": "pajaritos, deberíamos, quitar, árbol, Márcalos",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la adición o sustracción con números del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c1f"
+  },
+  "pagina": 141,
+  "N_Actividad": 3,
+  "titulo": "aprendemos a restar",
+  "actividades": "Con la ayuda de tu profesor inventa una situación similar.",
+  "analisis": "ayuda, profesor, inventa, situación, similar",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la adición o sustracción con números del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c20"
+  },
+  "pagina": 142,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Escribe los resultados correspondientes.",
+  "analisis": "Escribe, resultados, correspondientes",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la adición o sustracción con números del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c21"
+  },
+  "pagina": 143,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Cuenta y escribe la respuesta. En un árbol se encuentran nueve pájaros. Si vuelan tres, ¿cuántos pájaros quedan en el árbol? Diez niños asisten a una fiesta infantil, ¿cuántos bonetes faltan para que cada niño tenga uno?",
+  "analisis": "escribe, respuesta, árbol, encuentran, nueve, pájaros, vuelan, pájaros, quedan, árbol, Diez, niños, asisten, fiesta, infantil, bonetes, faltan, niño",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la adición o sustracción con números del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c22"
+  },
+  "pagina": 144,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Escribe los resultados correspondientes.",
+  "analisis": "Escribe, resultados, correspondientes",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la adición o sustracción con números del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c23"
+  },
+  "pagina": 145,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Completa la tabla.",
+  "analisis": "Completa, tabla",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la adición o sustracción con números del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c24"
+  },
+  "pagina": 145,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Pinta la resta correcta.",
+  "analisis": "Pinta, resta, correcta",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la adición o sustracción con números del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c25"
+  },
+  "pagina": 146,
+  "N_Actividad": 1,
+  "titulo": "buscamos nuestra seguridad",
+  "actividades": "Observa lo que realizan los ratones cuando van por las calles. Marca con un ✓ lo que se debe hacer y con una ✗, lo que no se debe hacer.",
+  "analisis": "Observa, realizan, ratones, calles, Marca",
+  "indicadores": "• Distingue situaciones de peligro en su entorno cercano, en función de evitar accidentes."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c26"
+  },
+  "pagina": 147,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Observa las señales de tránsito y dibújalas donde corresponda. Explica su significado y cuándo las puedes utilizar.",
+  "analisis": "Observa, señales, tránsito, dibújalas, corresponda, Explica, significado, puedes, utilizar",
+  "indicadores": "• Distingue situaciones de peligro en su entorno cercano, en función de evitar accidentes."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c27"
+  },
+  "pagina": 148,
+  "N_Actividad": 1,
+  "titulo": "derechos y responsabilidades Así como aprendimos que tenemos derechos también los niños y niñas tenemos responsabilidades.",
+  "actividades": "Pinta las ilustraciones y comenta en clase cómo se vive esa responsabilidad en la escuela y en casa. Respetar a la Patria y sus símbolos. Cultivar los valores de respeto, solidaridad, tolerancia y justicia. Actuar con honestidad y responsabilidad en el hogar. Respetar a los papás, profesores y a todos quienes son responsables de su cuidado y educación. Cumplir sus responsabilidades relacionadas a la educación. Respetar y contribuir al cuidado del medioambiente y de los recursos naturales.",
+  "analisis": "Pinta, ilustraciones, comenta, clase, vive, responsabilidad, escuela, casa, Respetar, Patria, símbolos, Cultivar, valores, respeto, solidaridad, tolerancia, justicia, Actuar, honestidad, responsabilidad, hogar, Respetar, papás, profesores, responsables, cuidado, educación, Cumplir, responsabilidades, relacionadas, educación, Respetar, contribuir, cuidado, medioambiente, recursos, naturales",
+  "indicadores": "• Practica normas de respeto consigo mismo y con los demás."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c28"
+  },
+  "pagina": 149,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Recorta y pega fotografías que demuestren el cumplimiento del derecho de los niños a la salud.",
+  "analisis": "Recorta, pega, fotografías, demuestren, cumplimiento, derecho, niños, salud",
+  "indicadores": "Completar Actividad"
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c29"
+  },
+  "pagina": 152,
+  "N_Actividad": 1,
+  "titulo": "El país que el sol descubrió",
+  "actividades": "Completa los trazos de los diferentes caminos para unir a las personas con sus lugares de origen. Conversa con tu profesor para que te cuente detalles de cada uno de ellos.",
+  "analisis": "Completa, trazos, caminos, unir, personas, lugares, origen, Conversa, profesor, cuente, detalles",
+  "indicadores": "• Identifica características específicas de personas y las asocia con otras."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c2a"
+  },
+  "pagina": 153,
+  "N_Actividad": 1,
+  "titulo": "Paisajes de mi país",
+  "actividades": "Observa las imágenes y crea frases. Pinta los círculos de acuerdo con el número de palabras de la oración que oíste.",
+  "analisis": "Observa, imágenes, crea, frases, Pinta, círculos, número, palabras, oración, oíste",
+  "indicadores": "• Identifica el número de palabras que escucha. • Desarrolla la expresión oral en contextos cotidianos usando la conciencia lingüística (semántica, léxica y sintáctica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c2b"
+  },
+  "pagina": 154,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Pinta cada una de las regiones naturales del Ecuador con un color distinto. Nómbralas sus nombres en voz alta. Luego, separa cada uno de los sonidos. Por ejemplo: /c/, /o/, /s/, /t/, /a/.",
+  "analisis": "Pinta, regiones, naturales, Ecuador, color, distinto, Nómbralas, nombres, alta, separa, sonidos, /a/.",
+  "indicadores": "• Desarrolla la expresión oral en contextos cotidianos."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c2c"
+  },
+  "pagina": 154,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Con un grupo de compañeros y compañeras escojan una región del país que no sea la que habitan y compárenla con la región en la que viven. Describan oralmente. Los animales que hay. Las plantas que hay. El clima habitual. La forma de divertirse de los niños y niñas de esa localidad.",
+  "analisis": "grupo, compañeros, compañeras, escojan, región, país, habitan, compárenla, región, viven, Describan, oralmente, animales, plantas, clima, habitual, forma, divertirse, niños, niñas, localidad",
+  "indicadores": "• Desarrolla la expresión oral en contextos cotidianos."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c2d"
+  },
+  "pagina": 155,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Observa las imágenes y escribe frases sobre el país en tu propio código. Léelas en clase. z",
+  "analisis": "Observa, imágenes, escribe, frases, país, código, Léelas, clase",
+  "indicadores": "• Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica, sintáctica y semántica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c2e"
+  },
+  "pagina": 156,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Observa la ilustración y pinta la Bandera del Ecuador. Comenta en clase el respeto que debemos tener los ecuatorianos y ecuatorianas hacia los símbolos patrios.",
+  "analisis": "Observa, ilustración, pinta, Bandera, Ecuador, Comenta, clase, respeto, debemos, ecuatorianos, ecuatorianas, símbolos, patrios",
+  "indicadores": "• Dialoga manifestando respeto hacia los símbolos patrios."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c2f"
+  },
+  "pagina": 157,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Sigue el modelo y pinta el Escudo Nacional del Ecuador.",
+  "analisis": "modelo, pinta, Escudo, Nacional, Ecuador",
+  "indicadores": "• Dialoga manifestando respeto hacia los símbolos patrios."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c30"
+  },
+  "pagina": 158,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Aprende y canta el coro del Himno Nacional del Ecuador. ¡Salve, oh Patria, mil veces! ¡Oh Patria! ¡Gloria a ti! ¡Gloria a ti! ¡Gloria a ti! ¡Gloria a ti! Ya tu pecho, tu pecho rebosa gozo y paz, ya tu pecho rebosa, y tu frente, tu frente radiosa más que el sol contemplamos lucir. Y tu frente, tu frente radiosa más que el sol contemplamos lucir. Juan León Mera",
+  "analisis": "Aprende, canta, coro, Himno, Nacional, Ecuador, Salve, Patria, Patria, Gloria, Gloria, Gloria, Gloria, pecho, pecho, rebosa, gozo, pecho, rebosa, frente, frente, radiosa, contemplamos, lucir, frente, frente, radiosa, contemplamos, lucir, Juan, León, Mera",
+  "indicadores": "• Manifiesta respeto a los símbolos patrios. • Desarrolla la expresión oral en contextos cotidianos usando la conciencia lingüística; y adapta el tono de voz, los gestos, la entonación y el vocabulario, según el contexto."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c31"
+  },
+  "pagina": 158,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Describe la actitud que deben tener los niños cuando cantan el Himno Nacional. Aprende el coro del Himno Nacional en quichua. Conversa con tu profesor sobre las distintas nacionalidades que hay en el país. Ñuka llakta kanta alli nini. Sumakmi. Sumakmi. Kanpak shunku ukupi kushikuy, kanpak ñawi intita yallinmi, waranka, warankata kushikuy kanka sumak allpami kanki.",
+  "analisis": "Describe, actitud, niños, cantan, Himno, Nacional, Aprende, coro, Himno, Nacional, quichua, Conversa, profesor, distintas, nacionalidades, país, Ñuka, llakta, kanta, nini, Sumakmi, Sumakmi, Kanpak, shunku, ukupi, kushikuy, kanpak, ñawi, intita, yallinmi, waranka, warankata, kushikuy, kanka, sumak, allpami, kanki",
+  "indicadores": "• Manifiesta respeto a los símbolos patrios. • Desarrolla la expresión oral en contextos cotidianos usando la conciencia lingüística; y adapta el tono de voz, los gestos, la entonación y el vocabulario, según el contexto."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c32"
+  },
+  "pagina": 159,
+  "N_Actividad": 1,
+  "titulo": "tradiciones y costumbres del país",
+  "actividades": "¿Cómo se celebran las fiestas patrias en el lugar donde vives? Dibuja o pega ilustraciones.",
+  "analisis": "celebran, fiestas, patrias, vives, Dibuja, pega, ilustraciones",
+  "indicadores": "• Identifica manifestaciones culturales de la localidad."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c33"
+  },
+  "pagina": 159,
+  "N_Actividad": 2,
+  "titulo": "tradiciones y costumbres del país",
+  "actividades": "Aprende la canción. Con amor, hoy yo quiero cantar, sí, señor, a mi lindo Ecuador. Con amor, siempre debes decir, por donde quiera que tú estés: «Ecuatoriano soy». Rubén Barba",
+  "analisis": "Aprende, canción, amor, quiero, cantar, señor, lindo, Ecuador, amor, debes, quiera, estés, Ecuatoriano, Rubén, Barba",
+  "indicadores": "• Identifica manifestaciones culturales de la localidad."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c34"
+  },
+  "pagina": 160,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Decora a tu gusto la ilustración de los animales de Galápagos. Escribe con tu propio código frases sobre ellas.",
+  "analisis": "Decora, gusto, ilustración, animales, Galápagos, Escribe, código, frases",
+  "indicadores": "• Elabora significados de diversos materiales impresos del entorno, a partir de diferenciar entre imagen y texto escrito."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c35"
+  },
+  "pagina": 161,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "¿Cómo armarías un plato típico de tu localidad? Recorta y pega las ilustraciones de los alimentos de la siguiente página.",
+  "analisis": "armarías, plato, típico, localidad, Recorta, pega, ilustraciones, alimentos, página",
+  "indicadores": "• Identifica manifestaciones culturales de la localidad. • Describe tradiciones importantes del país."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c36"
+  },
+  "pagina": 163,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "comida típica",
+  "analisis": "comida, típica",
+  "indicadores": "Completar Actividad"
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c37"
+  },
+  "pagina": 165,
+  "N_Actividad": 1,
+  "titulo": "ecuador multicultural",
+  "actividades": "Aprende la siguientes coplas e imita el habla de los niños de diferentes partes del país, tal como te lo explicará tu profesor. Ere con ere en cigarro, ere con ere en barril. Rápido corren los carros por los rieles del ferrocarril. Canción infantil A orilla de una laguna estaba un sapo en cuclillas, con un cuchillo en la mano haciéndose la patilla. Canción infantil Hermanito de mi vida, me ha picao un alacrán. ¡Bien hecho, pa´ que otro día no vayas a donde están! Canción infantil",
+  "analisis": "Aprende, siguientes, coplas, imita, niños, partes, país, explicará, profesor, cigarro, barril, Rápido, corren, carros, rieles, ferrocarril, Canción, infantil, orilla, laguna, sapo, cuclillas, cuchillo, mano, haciéndose, patilla, Canción, infantil, Hermanito, vida, picao, alacrán, vayas, Canción, infantil",
+  "indicadores": "• Distingue palabras y expresiones coloquiales de su localidad. • Reconoce la entonación y pronunciación de los diferentes dialectos del habla castellana del país e interactúa respetuosamente con sus hablantes."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c38"
+  },
+  "pagina": 165,
+  "N_Actividad": 2,
+  "titulo": "ecuador multicultural",
+  "actividades": "Escucha estos modismos al profesor y explica su significado. Estar saltando en chulla pata. Estar de ñañitos.",
+  "analisis": "Escucha, modismos, profesor, explica, significado, saltando, chulla, pata, ñañitos",
+  "indicadores": "• Distingue palabras y expresiones coloquiales de su localidad. • Reconoce la entonación y pronunciación de los diferentes dialectos del habla castellana del país e interactúa respetuosamente con sus hablantes."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c39"
+  },
+  "pagina": 166,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Memoriza la adivinanza y recítala a un amigo o amiga. Decora a tu gusto el trompo. Visita la biblioteca para que busques más adivinanzas y se las leas o recites a tus compañeros. Con hilo subo, con hilo bajo, si me tiran, me rajo. Para bailar, yo me pongo la capa; para bailar, me la vuelvo a sacar; yo no puedo bailar con la capa, sin la capa no puedo bailar. Adivinanza popular",
+  "analisis": "Memoriza, adivinanza, recítala, amigo, amiga, Decora, gusto, trompo, Visita, biblioteca, busques, adivinanzas, leas, recites, compañeros, hilo, subo, hilo, tiran, rajo, bailar, pongo, capa, bailar, vuelvo, sacar, bailar, capa, capa, bailar, Adivinanza, popular",
+  "indicadores": "• Identifica algunas de las manifestaciones culturales de la localidad."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c3a"
+  },
+  "pagina": 166,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Marca con una ✗ los juegos tradicionales que conoces o has jugado.",
+  "analisis": "Marca, juegos, tradicionales, conoces, jugado",
+  "indicadores": "• Identifica algunas de las manifestaciones culturales de la localidad."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c3b"
+  },
+  "pagina": 167,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Nombra a estos juegos. Separa con aplausos los sonidos de la palabra y pinta un círculo por cada sonido.",
+  "analisis": "Nombra, juegos, Separa, aplausos, sonidos, palabra, pinta, círculo, sonido",
+  "indicadores": "• Construye significados mediante el establecimiento de conexiones entre el contenido del texto y la experiencia personal. • Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica y semántica)."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c3c"
+  },
+  "pagina": 168,
+  "N_Actividad": 1,
+  "titulo": "¿What do you want to EAT?",
+  "actividades": "Listen and repeat. a hamburger juice some pizza an apple a hot-dog some milk orange",
+  "analisis": "Listen, repeat, hamburger, juice, some, pizza, apple, hot-dog, some, milk, orange",
+  "indicadores": "• Understand familiar food words, and simple instructions about their own surroundings."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c3d"
+  },
+  "pagina": 168,
+  "N_Actividad": 2,
+  "titulo": "¿What do you want to EAT?",
+  "actividades": "Listen and answer: ¿What are you eating or drinking? I am eating... I am drinking",
+  "analisis": "Listen, answer, What, eating, drinking, eating, drinking",
+  "indicadores": "• Understand familiar food words, and simple instructions about their own surroundings."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c3e"
+  },
+  "pagina": 169,
+  "N_Actividad": 1,
+  "titulo": "propiedades físicas de los objetos",
+  "actividades": "Escucha a tu profesor y comparte ejemplos similares. Con la vista , podemos ver el color o la transparencia. Con el tacto , podemos tocar si son lisos o rugosos, calientes o fríos, si pierden su forma al apretarlos.",
+  "analisis": "Escucha, profesor, comparte, ejemplos, similares, vista, color, transparencia, tacto, tocar, lisos, rugosos, calientes, fríos, pierden, forma, apretarlos",
+  "indicadores": "• Distingue en los objetos de uso cotidiano las propiedades físicas de la materia."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c3f"
+  },
+  "pagina": 170,
+  "N_Actividad": 1,
+  "titulo": "¿de qué estan hechos los objetos?",
+  "actividades": "Une los objetos con el material con el que están elaborados según sean de origen mineral, vegetal o animal.",
+  "analisis": "objetos, material, elaborados, origen, mineral, vegetal, animal",
+  "indicadores": "• Distingue objetos de uso cotidiano las propiedades físicas de la materia. • Clasifica objetos de uso cotidiano en función del tipo de materiales naturales y artificiales."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c40"
+  },
+  "pagina": 171,
+  "N_Actividad": 1,
+  "titulo": "movimiento de los objetos",
+  "actividades": "Ordena del",
+  "analisis": "Ordena",
+  "indicadores": "• Relaciona el movimiento de objetos de su entorno inmediato con la fuerza ejercida."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c41"
+  },
+  "pagina": 171,
+  "N_Actividad": 2,
+  "titulo": "movimiento de los objetos",
+  "actividades": "estos baldes de agua según la fuerza que tengas que realizar para moverlos.",
+  "analisis": "baldes, agua, fuerza, tengas, moverlos",
+  "indicadores": "• Relaciona el movimiento de objetos de su entorno inmediato con la fuerza ejercida."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c42"
+  },
+  "pagina": 171,
+  "N_Actividad": 3,
+  "titulo": "movimiento de los objetos",
+  "actividades": "Juega a mover con un imán diferentes objetos. Comprueba que solamente se mueven aquellos que son de metal como los clips, no los de plástico. Dibuja tu experiencia.",
+  "analisis": "Juega, mover, imán, objetos, Comprueba, mueven, metal, clips, plástico, Dibuja, experiencia",
+  "indicadores": "• Relaciona el movimiento de objetos de su entorno inmediato con la fuerza ejercida."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c43"
+  },
+  "pagina": 172,
+  "N_Actividad": 1,
+  "titulo": "la decena",
+  "actividades": "Lee y escribe los números que faltan.",
+  "analisis": "escribe, números, faltan",
+  "indicadores": "• Ordena y escribe secuencias numéricas ascendentes."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c45"
+  },
+  "pagina": 173,
+  "N_Actividad": 2,
+  "titulo": "números del",
+  "actividades": "Pinta de manera distinta a cada grupo de globos.",
+  "analisis": "Pinta, distinta, grupo, globos",
+  "indicadores": "• Cuenta colecciones de objetos hasta el ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c46"
+  },
+  "pagina": 173,
+  "N_Actividad": 3,
+  "titulo": "números del",
+  "actividades": "Dibuja los elementos que faltan para llegar a:",
+  "analisis": "Dibuja, elementos, faltan, llegar",
+  "indicadores": "• Cuenta colecciones de objetos hasta el ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c47"
+  },
+  "pagina": 174,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Une los puntos del",
+  "analisis": "puntos",
+  "indicadores": "• Cuenta en forma ascendente del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c48"
+  },
+  "pagina": 174,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "y forma un paisaje. Píntalo.",
+  "analisis": "forma, paisaje, Píntalo",
+  "indicadores": "• Cuenta en forma ascendente del al ."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c49"
+  },
+  "pagina": 175,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Pinta los dulces que faltan para que a cada niño le corresponda uno de ellos. Juego Formen dos o tres grupos frente a la pizarra. Cuando el profesor diga «¡Ya!», el primer niño escribe un número y corre a colocarse último en la fila; el siguiente seguirá la numeración. Gana el equipo que escriba correctamente la numeración más larga.",
+  "analisis": "Pinta, dulces, faltan, niño, corresponda, Juego, Formen, grupos, frente, pizarra, profesor, diga, niño, escribe, número, corre, colocarse, fila, seguirá, numeración, Gana, equipo, escriba, correctamente, numeración, larga",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la comparación de colecciones de objetos mediante el uso de cuantificadores."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c4a"
+  },
+  "pagina": 176,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Cuenta cuántas monedas tiene cada grupo. ¿Cuántos centavos forman el grupo de monedas? Anótalo.",
+  "analisis": "monedas, grupo, centavos, forman, grupo, monedas, Anótalo",
+  "indicadores": "• Utiliza unidades de medida monetaria para el conteo de cantidades hasta el veinte."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c4b"
+  },
+  "pagina": 176,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Dibuja un grupo de monedas para formar veinte centavos.",
+  "analisis": "Dibuja, grupo, monedas, formar, veinte, centavos",
+  "indicadores": "• Utiliza unidades de medida monetaria para el conteo de cantidades hasta el veinte."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c4d"
+  },
+  "pagina": 177,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Ana tenía tres globos y su mamá le regaló cuatro globos. Ahora ¿cuántos globos tiene Ana? Ana regaló algunos globos a su amigo Miguel y le quedaron cinco globos. Observa con atención la imagen. ¿Cuántos globos le regaló a Miguel?",
+  "analisis": "globos, mamá, regaló, globos, globos, regaló, globos, amigo, Miguel, quedaron, globos, Observa, atención, imagen, globos, regaló, Miguel",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la comparación de colecciones de objetos mediante el uso de cuantificadores, la adición y la sustracción."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c4e"
+  },
+  "pagina": 178,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Resuelve. Santiago tenía una moneda de diez centavos y compró un conejito de chocolate. ¿Cuánto dinero le queda? Dibújalo.",
+  "analisis": "Resuelve, Santiago, moneda, diez, centavos, compró, conejito, chocolate, dinero, queda, Dibújalo",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la comparación de colecciones de objetos mediante el uso de cuantificadores."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c4f"
+  },
+  "pagina": 178,
+  "N_Actividad": 2,
+  "titulo": "Actividades",
+  "actividades": "Dibuja las flores que faltan para que cada mariposa pueda volar sobre una de ellas.",
+  "analisis": "Dibuja, flores, faltan, mariposa, volar",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la comparación de colecciones de objetos mediante el uso de cuantificadores."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c50"
+  },
+  "pagina": 178,
+  "N_Actividad": 3,
+  "titulo": "Actividades",
+  "actividades": "Resuelve oralmente. ¿Cuántos niños y niñas hay en tu clase? ¿Hay más niños o niñas?",
+  "analisis": "Resuelve, oralmente, niños, niñas, clase, niños, niñas",
+  "indicadores": "• Resuelve situaciones cotidianas que requieren de la comparación de colecciones de objetos mediante el uso de cuantificadores."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c51"
+  },
+  "pagina": 179,
+  "N_Actividad": 1,
+  "titulo": "medidas de volumen y superficie",
+  "actividades": "Junto a cada una de las siguientes figuras dibuja una más grande y una más pequeña. Decóralas de acuerdo con el uso que les podrías dar.",
+  "analisis": "siguientes, figuras, dibuja, grande, pequeña, Decóralas, podrías",
+  "indicadores": "• Clasifica objetos del entorno y los agrupa considerando su tamaño, expresa verbalmente los criterios de agrupación."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c52"
+  },
+  "pagina": 180,
+  "N_Actividad": 1,
+  "titulo": "nociones de capacidad",
+  "actividades": "Traza una ✗ junto al envase que está lleno. Enumera el orden en que se han ido llenando los vasos. Dibuja el recipiente cuando esté vacío.",
+  "analisis": "Traza, envase, lleno, Enumera, orden, llenando, vasos, Dibuja, recipiente, esté, vacío",
+  "indicadores": "• Utiliza unidades de medida no convencionales para indicar la capacidad de los objetos."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c53"
+  },
+  "pagina": 181,
+  "N_Actividad": 1,
+  "titulo": "medidas de peso",
+  "actividades": "Recorta y pega algunos elementos que creas se pueden pesar con una balanza como esta.",
+  "analisis": "Recorta, pega, elementos, creas, balanza",
+  "indicadores": "• Clasifica objetos del entorno y los agrupa considerando su peso, expresa verbalmente los criterios de agrupación. • Recolecta y representa información en pictogramas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c54"
+  },
+  "pagina": 181,
+  "N_Actividad": 2,
+  "titulo": "medidas de peso",
+  "actividades": "Construye tu propia balanza y juega a encontrar pesos iguales. Observa la ilustración y usa tu ingenio. Esconde en fundas de papel dos elementos uno más pesado que el otro. Deja que tus compañeros, al levantar las fundas, descubran el más pesado. Construye una tabla en la que indiques los aciertos o los errores que cometen tus compañeros. aciertos errores",
+  "analisis": "Construye, balanza, juega, encontrar, pesos, iguales, Observa, ilustración, ingenio, Esconde, fundas, papel, elementos, pesado, Deja, compañeros, levantar, fundas, descubran, pesado, Construye, tabla, indiques, aciertos, errores, cometen, compañeros, aciertos, errores",
+  "indicadores": "• Clasifica objetos del entorno y los agrupa considerando su peso, expresa verbalmente los criterios de agrupación. • Recolecta y representa información en pictogramas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c55"
+  },
+  "pagina": 182,
+  "N_Actividad": 1,
+  "titulo": "nociones de tiempo",
+  "actividades": "Con ayuda de tu profesor señala el mes de tu cumpleaños. Diseña un cartel con el mismo.",
+  "analisis": "ayuda, profesor, señala, cumpleaños, Diseña, cartel",
+  "indicadores": "• Emplea unidades de tiempo para ordenar secuencias temporales que describan actividades significativas y cotidianas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c56"
+  },
+  "pagina": 182,
+  "N_Actividad": 2,
+  "titulo": "nociones de tiempo",
+  "actividades": "Formen dos equipos con igual número de integrantes. Cada niño debe tener un cartel con el nombre del mes de su nacimiento. Canten la canción Cumpleaños feliz, y cuando el profesor indique, cada grupo debe ubicarse de manera ordenada siguiendo los meses del calendario. Gana el equipo que más rápido se forme.",
+  "analisis": "Formen, equipos, número, integrantes, niño, cartel, nombre, nacimiento, Canten, canción, Cumpleaños, feliz, profesor, indique, grupo, ubicarse, ordenada, siguiendo, meses, calendario, Gana, equipo, rápido, forme",
+  "indicadores": "• Emplea unidades de tiempo para ordenar secuencias temporales que describan actividades significativas y cotidianas."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c57"
+  },
+  "pagina": 183,
+  "N_Actividad": 1,
+  "titulo": "days of the week",
+  "actividades": "Listen and repeat.",
+  "analisis": "Listen, repeat",
+  "indicadores": "• Understand familiar words, and simple instructions about time."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c58"
+  },
+  "pagina": 184,
+  "N_Actividad": 1,
+  "titulo": "cambios en el tiempo atmosférico",
+  "actividades": "Haz un registro del tiempo de esta semana. Dibuja un símbolo para describir el clima de cada día. d o m i n g o jueves lunes martes miércoles viernes sábado Estos son algunos ejemplos de símbolos para describir.",
+  "analisis": "registro, semana, Dibuja, símbolo, describir, clima, jueves, lunes, martes, miércoles, viernes, sábado, ejemplos, símbolos, describir",
+  "indicadores": "• Soluciona problemas mediante la organización y representación de datos estadísticos provenientes de situaciones cotidianas y de la identificación de eventos probables y no probables del entorno. • Explica las características del tiempo atmosférico, sus cambios y efectos en la localidad."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c59"
+  },
+  "pagina": 185,
+  "N_Actividad": 1,
+  "titulo": "En nuestro país hay zonas que son más cálidas y otras que son frías; por ejemplo, los nevados y las playas.",
+  "actividades": "Dibuja el tipo de ropa que necesitas para visitar un sitio muy cálido y otro frío. Cálido Frío",
+  "analisis": "Dibuja, tipo, ropa, necesitas, visitar, sitio, cálido, frío, Cálido, Frío",
+  "indicadores": "• Explica las características del tiempo atmosférico, sus cambios y efectos en la localidad."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c5a"
+  },
+  "pagina": 186,
+  "N_Actividad": 1,
+  "titulo": "Las palabras tienen sonidos",
+  "actividades": "Dibuja un objeto que comience con el sonido inicial del gráfico.",
+  "analisis": "Dibuja, objeto, comience, sonido, inicial, gráfico",
+  "indicadores": "• Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica, sintáctica y semántica). • Registra, expresa y comunica ideas mediante sus propios códigos."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c5b"
+  },
+  "pagina": 186,
+  "N_Actividad": 2,
+  "titulo": "Las palabras tienen sonidos",
+  "actividades": "Escribe con tu propio código para completar la oración. Un __________________________________________________________ con la pelota.",
+  "analisis": "Escribe, código, completar, oración, pelota",
+  "indicadores": "• Explora la formación de palabras y oraciones utilizando la conciencia lingüística (fonológica, léxica, sintáctica y semántica). • Registra, expresa y comunica ideas mediante sus propios códigos."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c5c"
+  },
+  "pagina": 187,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Escucha cada adivinanza que leerá tu profesor. Dibuja la respuesta y conversa sobre la utilidad que presenta cada uno de esos elementos para los seres vivos. Nace en el monte, muere en el mar y nunca regresa a su lugar. Adivinanza popular Sale por la mañana y nunca por la noche; me da su calor y no usa coche. Adivinanza popular Somos muchas hermanas gorditas y blanquitas; vivimos en el cielo y nos movemos con el viento. Adivinanza popular",
+  "analisis": "Escucha, adivinanza, leerá, profesor, Dibuja, respuesta, conversa, utilidad, presenta, elementos, seres, vivos, Nace, monte, muere, regresa, Adivinanza, popular, Sale, mañana, noche, calor, coche, Adivinanza, popular, hermanas, gorditas, blanquitas, vivimos, cielo, movemos, viento, Adivinanza, popular",
+  "indicadores": "• Desarrolla su gusto por la escucha de textos literarios, utiliza sus propios códigos, dibujos y establece relaciones entre textos leídos o escuchados y el entorno personal. El río El Sol Las nubes"
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c5d"
+  },
+  "pagina": 188,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Decora el arcoíris con plastilina de varios colores. Doy al cielo resplandores cuando deja de llover; abanico de colores que nunca podrás coger. El arcoíris",
+  "analisis": "Decora, arcoíris, plastilina, colores, cielo, resplandores, deja, llover, abanico, colores, podrás, coger, arcoíris",
+  "indicadores": "• Desarrolla su gusto por la escucha de textos literarios, utiliza sus propios códigos, dibujos y establece relaciones entre textos leídos o escuchados y el entorno personal."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c5e"
+  },
+  "pagina": 189,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "Con ayuda de una persona adulta aprende el poema para recitarlo junto a tus compañeros de clase. Yo voy a una escuela muy particular. Cuando llueve se moja como las demás. Yo voy a una escuela, muy sensacional. Los maestros son guapos, las maestras son más. Yo voy a una escuela muy sensacional. Si se estudia, se aprende, como en las demás. Cada niño en su pecho va a hacer un palomar donde se encuentre a gusto el pichón de la Paz. Gloria Fuertes. Mi escuela. Así soy yo.",
+  "analisis": "ayuda, persona, adulta, aprende, poema, recitarlo, compañeros, clase, escuela, particular, llueve, moja, escuela, sensacional, maestros, guapos, maestras, escuela, sensacional, estudia, aprende, niño, pecho, palomar, encuentre, gusto, pichón, Gloria, Fuertes, escuela",
+  "indicadores": "• Desarrolla su gusto por la escucha de textos literarios, dibujos y establece relaciones entre textos leídos o escuchados y el entorno personal."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c5f"
+  },
+  "pagina": 190,
+  "N_Actividad": 1,
+  "titulo": "Actividades",
+  "actividades": "E Escucha con atención la leyenda que te contará tu profesor. Dibuja la escena que más te agradó. Formen grupos y armen una representación teatral.",
+  "analisis": "Escucha, atención, leyenda, contará, profesor, Dibuja, escena, agradó, Formen, grupos, armen, representación, teatral",
+  "indicadores": "• Desarrolla su gusto por la escucha de textos literarios, utiliza sus propios códigos, escenificaciones corporales y establece relaciones entre textos leídos o escuchados y el entorno personal."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c60"
+  },
+  "pagina": 191,
+  "N_Actividad": 1,
+  "titulo": "derechos y obligaciones",
+  "actividades": "Escucha lo que lee tu profesor y marca con una ✗ si estás de acuerdo. Comenta en clase cuál debiera ser la actitud correcta. Si alguien te trata mal, debes quedarte callado. Si alguien te hace sentir mal, debes avisar a tu profesor. Si alguien te molesta y eso te pone triste, debes conversar con tus papás. No debes avisar a nadie lo que sientes o te pasa, ya dejarán de molestar.",
+  "analisis": "Escucha, profesor, marca, estás, Comenta, clase, debiera, actitud, correcta, alguien, debes, quedarte, callado, alguien, sentir, debes, avisar, profesor, alguien, molesta, pone, triste, debes, conversar, papás, debes, avisar, sientes, pasa, dejarán, molestar",
+  "indicadores": "• Reconoce sus derechos y obligaciones mediante ejemplos reales."
+},{
+  "_id": {
+    "$oid": "62c5e5d3748e9bd1d0ab9c61"
+  },
+  "pagina": 192,
+  "N_Actividad": 1,
+  "titulo": "seguridad en todo momento",
+  "actividades": "Dibuja los elementos que debe contener la mochila de primeros auxilios en caso de emergencia por un desastre natural. Comenta en clase el uso de cada uno de ellos.",
+  "analisis": "Dibuja, elementos, contener, mochila, auxilios, caso, emergencia, desastre, natural, Comenta, clase",
+  "indicadores": "• Reconoce situaciones de peligro en el entorno cercano en función de evitar accidentes, mediante la aplicación de normas de seguridad, autoregulación y participación en las actividades propuestas por la comunidad."
+}]

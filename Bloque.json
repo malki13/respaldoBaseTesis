@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac07d"
+  },
+  "titulo": "CONOCIMIENTO DE LA LENGUA",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07a"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac07e"
+  },
+  "titulo": "Vida en el hogar y en la comunidad ",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07b"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac07f"
+  },
+  "titulo": "ESCRITURA",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07a"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac080"
+  },
+  "titulo": "MEDIDAS",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac077"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac081"
+  },
+  "titulo": "GEOMETRÍA",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac077"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac082"
+  },
+  "titulo": "Estimulación ",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07b"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac083"
+  },
+  "titulo": "PROBABILIDAD Y ESTADÍSTICA",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac077"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac084"
+  },
+  "titulo": "LENGUAS EXTRANJERAS",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07a"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac085"
+  },
+  "titulo": "OFIMÁTICA Y OTRAS COMPETENCIAS  ",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac078"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac086"
+  },
+  "titulo": "LENGUAJE MUSICAL ",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac078"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac087"
+  },
+  "titulo": "Escuchar, hablar y conversar",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07a"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac088"
+  },
+  "titulo": "Química y Física",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac079"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac089"
+  },
+  "titulo": "LENGUAJE PLÁSTICO ",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac078"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac08a"
+  },
+  "titulo": "PROGRAMACIÓN Y ROBÓTICA ",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac078"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac08b"
+  },
+  "titulo": "GEOGRAFÍA E HISTORÍA ",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac079"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac08c"
+  },
+  "titulo": "Geología y Biología",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac079"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac08d"
+  },
+  "titulo": "ERGONOMÍA, PERIFÉRICOS ",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac078"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac08e"
+  },
+  "titulo": "Socialización , emociones y valores",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07b"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac08f"
+  },
+  "titulo": " LECTURA",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07a"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac090"
+  },
+  "titulo": "Cuidado del Cuerpo ",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07b"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac091"
+  },
+  "titulo": "Descubrimiento del Entorno",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac079"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac092"
+  },
+  "titulo": "NUMERACIÓN",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac077"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac093"
+  },
+  "titulo": " DRAMATIZACIÓN ",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac078"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac094"
+  },
+  "titulo": "Entrenamiento cognitivo",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07b"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac095"
+  },
+  "titulo": "OPERACIONES ",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac077"
+  }
+},{
+  "_id": {
+    "$oid": "62c7b93ee862046e7f0ac096"
+  },
+  "titulo": "Hábitos de estudion ocio y deportes ",
+  "Area": {
+    "$oid": "62c7b93ee862046e7f0ac07b"
+  }
+}]

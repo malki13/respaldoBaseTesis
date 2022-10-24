@@ -1,0 +1,827 @@
+[{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1e7"
+  },
+  "titulo": "A Margarita",
+  "abstract": "Historia que se cuenta a Margarita, sobre una princesa que fue a coger una estrella para su prendedor (broche), en el que también guardaba un verso, una perla, una pluma y una flor.",
+  "url": "http://es.childrenslibrary.org/library/books/d/darmarg_01040021/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1e8"
+  },
+  "titulo": "Apalka",
+  "abstract": "Apalka es una laguna que guarda secretos sobrenaturales y un tesoro. Una leyenda de piratas en la Costa Caribe de Nicaragua.",
+  "url": "http://es.childrenslibrary.org/library/books/c/carapal_01040002/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1e9"
+  },
+  "titulo": "Ataniel, el último dragón volador",
+  "abstract": "Este libro presenta cuatro historias que reflejan el amor de la autora por los animales. Todas las historias tratan de animales y dejan enseñanzas morales a los niños. ",
+  "url": "http://es.childrenslibrary.org/library/books/i/isaatan_00510036/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1ea"
+  },
+  "titulo": "Aventuras del zorro",
+  "abstract": "Este libro presenta siete historias que reflejan el interés del autor por la tradición oral andina. Todas las historias muestran diversas aventuras del ande peruano (zorro, puma, etc.) y brindan enseñanzas morales a los niños.",
+  "url": "http://es.childrenslibrary.org/library/books/y/yauaven_00510012/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1eb"
+  },
+  "titulo": "Batallón Cuchara",
+  "abstract": "En estos creativos cuentos, llenos de personajes fantásticos, divertidos y cariñosos, la autora rescata los valores que se han ido perdiendo en la sociedad como la honestidad, la sinceridad, la valentía, el amor y la autovaloración. ",
+  "url": "http://es.childrenslibrary.org/library/books/v/valbata_00510065/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1ec"
+  },
+  "titulo": "Cabriolas",
+  "abstract": "Según dice Omar Aramayo en el prólogo: «Los animales se convierten en seres humanos o los humanos que se han convertido en animales. No para darnos una moraleja, sino para entregarnos la flor dorada de la alegría.\r\nEn este libro de poesía, el mar, la selva, la sierra y el mundo entero, se hacen un solo río, un solo soplo creador, como ocurre en todas las expresiones artísticas y humanas del Perú actual.»",
+  "url": "http://es.childrenslibrary.org/library/books/d/delcabr_00510062/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1ed"
+  },
+  "titulo": "Cantos del grillo",
+  "abstract": "Poemas con un aliento nostálgico, que celebran la vida cotidiana en el hogar, los juegos de los niños, la lluvia, la hora de dormir o los animales que viven en el jardín.",
+  "url": "http://es.childrenslibrary.org/library/books/c/corcant_01040019/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1ee"
+  },
+  "titulo": "Cinco noches arrechas",
+  "abstract": "Cinco leyendas de horror recreadas por la autora en nuestros tiempos. Una historia para cada noche, en cada cuento un espanto.",
+  "url": "http://es.childrenslibrary.org/library/books/l/lopcinc_01040004/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1ef"
+  },
+  "titulo": "Cuando el desierto canta",
+  "abstract": "Este es un cuento sobre un niño de nueve años que vive en el desierto y descubre algo muy importante.",
+  "url": "http://es.childrenslibrary.org/library/books/s/sancuan_00160020/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1f0"
+  },
+  "titulo": "Cuentos con gatos, brujas y alpargatas",
+  "abstract": "Cinco historias que cubren una variedad de temas, desde gatos hasta brujas. ",
+  "url": "http://es.childrenslibrary.org/library/books/c/cuentos_00160006/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1f1"
+  },
+  "titulo": "Cuentos de Huaralín",
+  "abstract": "El autor presenta las aventuras de un maravilloso duende llamado Huaralín y sus acciones en favor de niños y ancianos, premiando algunas veces, castigando otras.",
+  "url": "http://es.childrenslibrary.org/library/books/p/pebcuen_00510056/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1f2"
+  },
+  "titulo": "Cuentos de aquí nomas",
+  "abstract": "Este libro contiene siete pequeñas historias de cinco diferentes autores Argentinos.",
+  "url": "http://es.childrenslibrary.org/library/books/c/clhqnms_00160005/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1f3"
+  },
+  "titulo": "Cuentos de todo el mundo",
+  "abstract": "Este libro contiene cuentos de todo el mundo tales como Las Mil Y Una Noches, y otros cuentos de autores como los hermanos Grimm, Hans Andersen y Afanasiev.",
+  "url": "http://es.childrenslibrary.org/library/books/p/pjrcuen_00160008/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1f4"
+  },
+  "titulo": "Cuentos divertidos",
+  "abstract": "Este libro tiene seis historias que, de una manera divertida, presentan aventuras de niños y animales.",
+  "url": "http://es.childrenslibrary.org/library/books/t/tabcuen_00510043/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1f5"
+  },
+  "titulo": "Cuentos infantiles",
+  "abstract": "Estos cuentos han sido seleccionados y adaptados especialmente para los niños que están aprendiendo a leer.",
+  "url": "http://es.childrenslibrary.org/library/books/c/cdecuen_00510044/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1f6"
+  },
+  "titulo": "Duendes y otros traviesos",
+  "abstract": "Este libro presenta cuatro aventuras de seres fantásticos y maravillosos (el Duende Miski, la reina Mime, la mariposa Amaranta, el gallo Torotombo, etc.). En cada una de estas historias los niños reciben enseñanzas de valores.",
+  "url": "http://es.childrenslibrary.org/library/books/m/mayduen_00510016/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1f7"
+  },
+  "titulo": "Dõna Clementina queridita, la achicadora",
+  "abstract": "Cuatro historias cómicas en que vecinos de Buenos Aires se ven envueltos en situaciones extrañas.  Incluyen una señora que tiene el poder de achicar y agrandar objetos y personas, un salmón de malos modales que concede deseos, una niña a la que le crece el pelo con gran rapidez, y un hombre obsesionado con abrigar todo.",
+  "url": "http://es.childrenslibrary.org/library/books/m/mntdona_00160007/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1f8"
+  },
+  "titulo": "El Amaru",
+  "abstract": "El autor recrea la historia del amaru, serpiente mítica que habita en los lagos y  en los montes.\n",
+  "url": "http://es.childrenslibrary.org/library/books/s/sanelam_00510087/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1f9"
+  },
+  "titulo": "El Capitán",
+  "abstract": "El Capitán era todavía un niño cuando puso pie en un barco llamado Sebastián. Pasó muchos años en el barco y compartió con el muchas aventuras. Pero podrá el Capitán dirigir su tripulación a través de las aguas más turbulentas?",
+  "url": "http://es.childrenslibrary.org/library/books/s/sntcptn_00160004/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1fa"
+  },
+  "titulo": "El Creador visita Motupe",
+  "abstract": "Este libro narra cómo el Supremo Creador, vestido como un mendigo lleno de harapos, convive en la Tierra entre los seres de su creación recibiendo insultos, maltratos e incomprensiones. ",
+  "url": "http://es.childrenslibrary.org/library/books/d/diaelcr_00510086/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1fb"
+  },
+  "titulo": "El algarrobo magico",
+  "abstract": "Este libro presenta la historia de un algarrobo (árbol del norte del Perú) que comenta el peligro de la tala excesiva de árboles.",
+  "url": "http://es.childrenslibrary.org/library/books/s/sanelal_00510076/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1fc"
+  },
+  "titulo": "El asno que voló a la luna",
+  "abstract": "El libro tiene tres relatos llenos de imaginación y fantasía que nos dan ejemplos de amor y solidaridad.",
+  "url": "http://es.childrenslibrary.org/library/books/j/jarasno_00510024/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1fd"
+  },
+  "titulo": "El caballito de palo",
+  "abstract": "El caballo que Sebastián acababa de dibujar dio un salto y se escapó de la página. Una divertida historia en la que Sebastián busca su caballito. Al finalizar esta historia te espera una sorpresa.",
+  "url": "http://es.childrenslibrary.org/library/books/m/monelca_01040001/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1fe"
+  },
+  "titulo": "El cóndor",
+  "abstract": "El cuento narra la acción que efectúa la mamá-cóndor para dar de comer a su hijo.",
+  "url": "http://es.childrenslibrary.org/library/books/g/galcond_00510057/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d1ff"
+  },
+  "titulo": "El descubrimiento de Ameríca",
+  "abstract": "Este libro narra con un lenguaje sencillo y directo cómo se efectuó el descubrimiento del Nuevo Mundo.",
+  "url": "http://es.childrenslibrary.org/library/books/d/deodesc_00510041/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d200"
+  },
+  "titulo": "El espantapájaros y la casita de libros",
+  "abstract": "El autor presenta la historia de un espantapájaros viejo y feo a quien nadie quería. Sin embargo, tenía un corazón bueno y sencillo, y amaba la paz, la alegría y los buenos libros. ",
+  "url": "http://es.childrenslibrary.org/library/books/j/jarespa_00510071/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d201"
+  },
+  "titulo": "El genio de la quebrada",
+  "abstract": "El autor presenta la historia de un espantapájaros viejo y feo a quien nadie quería. Sin embargo, tenía un corazón bueno y sencillo, y amaba la paz, la alegría y los buenos libros. ",
+  "url": "http://es.childrenslibrary.org/library/books/v/veggeni_00510031/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d202"
+  },
+  "titulo": "El globo de Maria",
+  "abstract": "Ésta es la historia de Maria y de su globo.",
+  "url": "http://es.childrenslibrary.org/library/books/s/sanglob_00160021/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d203"
+  },
+  "titulo": "El grillo arpista",
+  "abstract": "Es la historia de GriGri, un grillo que anhelaba ser músico como todos sus hermsnos. ",
+  "url": "http://es.childrenslibrary.org/library/books/s/sanelgr_00510075/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d204"
+  },
+  "titulo": "El loro pelado y otros cuentos de la selva",
+  "abstract": "Este libro tiene cuatro historias que reflejan la pasión del autor por los animales de Sur America. Todas las historias tratan de animales y dejan una enseñanza educativa para los niños. ",
+  "url": "http://es.childrenslibrary.org/library/books/q/qrgllrp_00160001/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d205"
+  },
+  "titulo": "El niño montaña",
+  "abstract": "Este libro tiene cinco historias que reflejan el amor del autor por los elementos de la naturaleza. Todas las historias tratan de la lucha del ser humano contra la naturaleza y dejan enseñanzas educativas para los niños.",
+  "url": "http://es.childrenslibrary.org/library/books/s/sotelni_00510005/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d206"
+  },
+  "titulo": "El niño radio y otros cuentos",
+  "abstract": "En la primer historia, un niño va al dentista de su pueblo y al salir empiezan a sucederle cosas muy extrañas y divertidas.\r\n\r\nLa segunda, nos cuenta de cinco camellos que deben cruzar el desierto para entregar una carga, el viaje les dejará enseñanzas muy importantes para la vida.\r\n \r\nEn la tercer historia, dos pandillas o maras están por enfrentarse y sus líderes terminan enfrentando una situación llena de misterio que transformará las vidas de todos.",
+  "url": "http://es.childrenslibrary.org/library/books/m/moynino_01040016/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d207"
+  },
+  "titulo": "El perro invisible",
+  "abstract": "Un cuento para toda la familia, poblado de personajes como el perro Carbón, la lorita doña Piringüeta, la lapa Leperina, el pavo real Don Timoteo, el espejo parlante y la negra noche. Estos personajes tejen una historia maravillosa.",
+  "url": "http://es.childrenslibrary.org/library/books/r/ramelpe_01040003/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d208"
+  },
+  "titulo": "El sol es un techo altísimo",
+  "abstract": "El Sol Es Un Techo Altisimo es un cuento de una nina muda cuya unica coneccion al mundo externo es su ninera y un hermano hyperactivo.  Su unico companero es una paloma con una ala quebrado que vive en un arbol fuera de su ventana.  Elia, la nina, es atormentada cada vez que sale de su casa.  Este cuento es de uno de esas excursiones fuera de la casa donde descubre su voz, pero solo despues de una tragedia.",
+  "url": "http://es.childrenslibrary.org/library/books/s/strsols_00160017/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d209"
+  },
+  "titulo": "El sueño de Margarita",
+  "abstract": "Este cuento presenta la vida cotidiana de una niña campesina y su ilusión por conocer la ciudad.",
+  "url": "http://es.childrenslibrary.org/library/books/c/cacsuen_00510045/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d20a"
+  },
+  "titulo": "El tesoro de Kitakaiteri",
+  "abstract": "Se trata de un conjunto de leyendas y relatos de los asháninkas, una etnía de la amazonía peruana. En esos cuentos el autor se ha identificado con los habitantes, sus costumbres, tradición y cultura.",
+  "url": "http://es.childrenslibrary.org/library/books/r/rosteso_00510023/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d20b"
+  },
+  "titulo": "El trotamundos",
+  "abstract": "Los ocho relatos de este libro se basan en tradiciones y leyendas trasmitidas de manera oral. Sus historias, que emplean el símbolo del agua, expresan el origen y el destino de los personajes.",
+  "url": "http://es.childrenslibrary.org/library/books/r/rostrot_00510058/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d20c"
+  },
+  "titulo": "El vuelo del pajarito de dulce",
+  "abstract": "En casa de la pequeña Esmeralda, se elaboran dulces de melcocha desde hace más de cien años. Ella quiere demostrar que puede ayudar en la venta de los dulces y esto la lleva a vivir una aventura en la que descubrirá el poder de la imaginación. ",
+  "url": "http://es.childrenslibrary.org/library/books/r/reyelvu_01040014/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d20d"
+  },
+  "titulo": "En la costa",
+  "abstract": "A lo largo de estas páginas se describe la vida sencilla de una familia que vive en un valle de la costa peruana.",
+  "url": "http://es.childrenslibrary.org/library/books/t/tabenla_00510046/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d20e"
+  },
+  "titulo": "En las punas",
+  "abstract": "Este libro destaca el modo de vida de una familia en la puna peruana.",
+  "url": "http://es.childrenslibrary.org/library/books/g/galenla_00510050/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d20f"
+  },
+  "titulo": "Florecilla Silvestre y el payasito Elarhú",
+  "abstract": "El cuento presenta la tierna amistad entre el Payasito Elarhú y una flor silvestre.",
+  "url": "http://es.childrenslibrary.org/library/books/r/rojflor_00510027/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d210"
+  },
+  "titulo": "Fosforín",
+  "abstract": "Este cuento narra la historia de un fósforo que demuestra con mucho entusiamo su utilidad.   ",
+  "url": "http://es.childrenslibrary.org/library/books/r/rojfosf_00510028/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d211"
+  },
+  "titulo": "Fábulas peruanas",
+  "abstract": "Los autores han escrito lo siguiente: \"Consideramos que la mitología es importante porque (...) a través de estas narraciones maravillosas se conoce la idiosincracia de un pueblo, sus costumbres y creencias que más tarde se convierten en normas y valores\". ",
+  "url": "http://es.childrenslibrary.org/library/books/a/atafabu_00510018/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d212"
+  },
+  "titulo": "Garabato y sus amigos",
+  "abstract": "Garabato es un patito muy juguetón que comparte cuatro aventuras con sus amigos, otros animalitos: Renato, el gato, Cayo, el gran gallo, Rina, la gallina, Rabito, el perrito y un bello caracol. Estas rimas reflejan los sentimientos más profundos de la amistad y el compañerismo.",
+  "url": "http://es.childrenslibrary.org/library/books/f/flogara_00510038/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d213"
+  },
+  "titulo": "Gonzalo el Cocodrilo / Historia de dos sapos",
+  "abstract": "Este cuento habla de un cocodrilo que no puede tener amigos, nadie se atreve a acercarse porque siempre está con ganas de comerse a alguien.",
+  "url": "http://es.childrenslibrary.org/library/books/m/mongonz_01040023/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d214"
+  },
+  "titulo": "Gotitas de cariño y miel",
+  "abstract": "Elvira Ordóñez, prologuista del libro, dice lo siguiente: «La autora busca transmitir en cada fase una enseñanza, una fantasía, un suceso divertido o proyectar una luz que defina inquietudes incipientes y así va vertiendo apreciaciones constructivas y señalando un sendero hacia comportamientos positivos.» ",
+  "url": "http://es.childrenslibrary.org/library/books/v/valgoti_00510068/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d215"
+  },
+  "titulo": "Historia con alpargatas, pavadas y carcajadas",
+  "abstract": "Este es un cuento tradicional Latinoamericano sobre una familia muy especial. ",
+  "url": "http://es.childrenslibrary.org/library/books/l/lgohstr_00160019/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d216"
+  },
+  "titulo": "Historia del muy bandido igualado rebelde astuto pícaro y siempre bailador Güegüense",
+  "abstract": "El Güegúense es una obra de teatro bailado hecho teatro que se escribió en Nicaragua en el siglo XVII. Desde entonces, se presenta y se baila en muchas fiestas populares.  Es una obra llena de humor y sátira contra el sistema colonial de la época.",
+  "url": "http://es.childrenslibrary.org/library/books/v/vighist_01040006/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d217"
+  },
+  "titulo": "Intik'a",
+  "abstract": "Es un relato mágico en el que los hombres, los pájaros y los dioses dialogan constituyendo un documento que expresa el pensamiento mítico del ande del sur peruano.",
+  "url": "http://es.childrenslibrary.org/library/books/j/jarinti_00510025/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d218"
+  },
+  "titulo": "Juancito siemprevaliente",
+  "abstract": "Juan era un niño que vivía en el terreno montañoso de Peru.  Juan amaba a la naturaleza.  Un día, caminó y caminó hasta que por fin encontró el mar para mirar que vienen y se van las olas.  Otro día cuando estaba en la montañas empezó a llover.  Se mojó completamente, pero entendía la lay de la naturaleza:  la lluvia es importante para nuestra tierra.  Este libro es de las adventuras que tiene Juan en el terreno montañoso.",
+  "url": "http://es.childrenslibrary.org/library/books/f/flojuan_00510006/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d219"
+  },
+  "titulo": "Kutí",
+  "abstract": "Este cuento relata la historia de la princesa Kutí, una niña que quería tener la luna entre sus manos. ",
+  "url": "http://es.childrenslibrary.org/library/books/j/jarkuti_00510084/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d21a"
+  },
+  "titulo": "La alforja del jorobado",
+  "abstract": "Ccoru José era un jorobado que amó a los ninos y la vida.  Él caminó siempre con su perro. Cuando tenían hambre Ccoru José puso su mano en su alforja. Él compartió siempre el alimento con su perro. Él habló con las plantas, los pájaros, y los animales como si lo entendieran.",
+  "url": "http://es.childrenslibrary.org/library/books/c/ceralfo_00510008/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d21b"
+  },
+  "titulo": "La bruja de la Habana vieja",
+  "abstract": "Esta es la historia de una bruja que se llama Porfiria que vivía en la vieja Habana, Cuba. Hacía muchas maldades hasta que conoció a su sobrina-nieta y le enterneció el corazón.",
+  "url": "http://es.childrenslibrary.org/library/books/r/rosbruj_00550032/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d21c"
+  },
+  "titulo": "La caña de azúcar",
+  "abstract": "Este cuento vincula a los niños con todas las etapas de la agricultura: sembrío, abono, riego, cosecha e industrialización de la caña de azúcar.",
+  "url": "http://es.childrenslibrary.org/library/books/c/canaazu_00510048/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d21d"
+  },
+  "titulo": "La creación del mundo",
+  "abstract": "En este relato el autor recrea el relato bíblico de la creación del mundo. ",
+  "url": "http://es.childrenslibrary.org/library/books/g/galcrea_00510083/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d21e"
+  },
+  "titulo": "La escuela de las hadas",
+  "abstract": "Este cómico libro trata de las aventuras de Cordelia y sus amigas en la escuela de hadas del mago Merlín.",
+  "url": "http://es.childrenslibrary.org/library/books/r/rxllscl_00160003/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d21f"
+  },
+  "titulo": "La espada mágica de Don Rodrigo",
+  "abstract": "La obra narra el robo de una espada mágica y la manera como es recuperada. ",
+  "url": "http://es.childrenslibrary.org/library/books/d/davespa_00510059/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d220"
+  },
+  "titulo": "La hormiguita que quería ser escritora",
+  "abstract": "Se trata de un cuento tierno, lleno de aventuras, en las que la protagonista, una graciosa hormiga, se enfrenta a retos increíbles luchando con astucia, perserverancia y constancia hasta lograr su propósito: ser escritora.",
+  "url": "http://es.childrenslibrary.org/library/books/j/jarhorm_00510011/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d221"
+  },
+  "titulo": "La llamita coja",
+  "abstract": "El cuento presenta las muestras recíprocas de amistad entre una pareja de esposos y una llama (camélido sudamericano). ",
+  "url": "http://es.childrenslibrary.org/library/books/g/galllam_00510049/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d222"
+  },
+  "titulo": "La luz prometida",
+  "abstract": "En estos cuentos, el autor no sólo presenta el alma del habitante de los pueblos aledaños a Lima, sino también su forma de hablar y sus costumbres.",
+  "url": "http://es.childrenslibrary.org/library/books/o/ortluzp_00510010/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d223"
+  },
+  "titulo": "La niña y su hermanito",
+  "abstract": "El cuento narra la manera como una niña evita que su hermanito se exponga a los peligros de la selva.",
+  "url": "http://es.childrenslibrary.org/library/books/w/wipnina_00510051/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d224"
+  },
+  "titulo": "La noche de los Sprunkos",
+  "abstract": "El libro presenta las aventuras de los Sprunkos, personajes a quienes se les considera como \"los seres más simpáticos, más buenos y más felices de todo el mundo\".  Asimismo, la obra recrea el descubrimiento de América.",
+  "url": "http://es.childrenslibrary.org/library/books/v/vegnoch_00510030/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d225"
+  },
+  "titulo": "La nube rosa",
+  "abstract": "Este texto narra la historia de una bella nube de color rosa que de un momento a otro desaparece causando desconcierto en la población.",
+  "url": "http://es.childrenslibrary.org/library/books/d/davnube_00510060/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d226"
+  },
+  "titulo": "La risa y la sonrisa del frejol",
+  "abstract": "Este texto presenta las aventuras de un frejol, una pajita y un carboncillo que salen al mundo en busca de aventuras.",
+  "url": "http://es.childrenslibrary.org/library/books/s/sanlari_00510077/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d227"
+  },
+  "titulo": "La torre de cubos",
+  "abstract": "La Torre de Cubos es una colección de cuentos cortos para el lector nuevo.",
+  "url": "http://es.childrenslibrary.org/library/books/t/torrede_00160018/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d228"
+  },
+  "titulo": "La waytacha",
+  "abstract": "La Waytacha (que significa \"Florcita\") es una niña que vive en los Andes y emigra a la capital con sus padres como tantas familias provincianas. ",
+  "url": "http://es.childrenslibrary.org/library/books/n/nunwayt_00510057/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d229"
+  },
+  "titulo": "Las vizcachas y otros cuentos",
+  "abstract": "Este libro presenta las humanas y simpáticas vivencias de la vida de una familia. Estas vivencias transcurren en una región de la sierra del sur del Perú.",
+  "url": "http://es.childrenslibrary.org/library/books/b/barvizc_00510053/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d22a"
+  },
+  "titulo": "Las vocales traviesas",
+  "abstract": "Este libro presenta la historia de un niño llamado Miguelito que por travieso pierde todas las vocales.",
+  "url": "http://es.childrenslibrary.org/library/books/s/sanlasv_00510079/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d22b"
+  },
+  "titulo": "Leyendas peruanas para niños",
+  "abstract": "Este libro presenta tres historias referidas, respectivamente, a la ayuda de los animales al hombre, los sentimientos amorosos de un zorro y la fundación de la ciudad del Cusco.",
+  "url": "http://es.childrenslibrary.org/library/books/r/rosleye_00510022/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d22c"
+  },
+  "titulo": "León dormido",
+  "abstract": "Las cuatro leyendas de este libro, que tienen como protagonistas a elementos de la naturaleza, brindan enseñanzas morales a los lectores.  ",
+  "url": "http://es.childrenslibrary.org/library/books/i/isaleon_00510035/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d22d"
+  },
+  "titulo": "Los cuatro Hermanos Ayar",
+  "abstract": "El libro presenta la historia de cuatro hermanos (Ayar Manco, Ayar Cachi, Ayar Uchu y Ayar Auca) que, acompañados de sus respectivas esposas, salieron del cerro Tamputoco e iniciaron un lento andar por punas, quebradas y cordilleras, con el propósito de encontrar un lugar apropiado para establecerse. Se trata de otro mito sobre el origen del Tahuantinsuyo.",
+  "url": "http://es.childrenslibrary.org/library/books/s/sanlosc_00510085/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d22e"
+  },
+  "titulo": "Los dientes de Joaquín",
+  "abstract": "Una divertidísima historia de amor que lleva a Joaquín a buscar frenéticamente un diente por todo el mundo, para al final darse cuenta de que la vida a veces nos hace bromas inesperadas.  ",
+  "url": "http://es.childrenslibrary.org/library/books/v/viglosd_01040005/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d22f"
+  },
+  "titulo": "Los gatos sabios",
+  "abstract": "La autora narra cómo dos gatos inteligentes (Omar y Silverio) construyen una nave espacial y recorren el universo compartiendo muchas aventuras con dos hermanitos.",
+  "url": "http://es.childrenslibrary.org/library/books/r/rojlosg_00510004/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d230"
+  },
+  "titulo": "Los soldaditos de plomo de Marcelino",
+  "abstract": "Es la historia de unos soldaditos de plomo que cobran vida y buscan a su dueño desaparecido. ",
+  "url": "http://es.childrenslibrary.org/library/books/d/davsold_00510061/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d231"
+  },
+  "titulo": "Los tesoros del sacerdote",
+  "abstract": "Esta es la historia de un sacerdote que viaja de aldea en aldea, siempre cargando un baúl. Todos piensan que en el baúl él lleva artículos preciosos pero pronto descubren que lo que lleva son objetos muy comunes, como una peonza con la que jugaba el sacerdote cuando era niño. La gente tiene dificultad entendiendo porqué estos objetos son tan importantes para él, y entonces el padre les enseña una valiosa lección acerca del valor de las cosas comunes. ",
+  "url": "http://es.childrenslibrary.org/library/books/c/cerlost_00510002/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d232"
+  },
+  "titulo": "Manchas y manchitas",
+  "abstract": "Cecilia Granadino ha escrito: «Sus historias son inteligentes y sabias, llenas de un espíritu que aunque de tono pedagógico goza de imaginación, ternura, alegría y un regocijo como muy pocos en la literatura latinoamericana.» ",
+  "url": "http://es.childrenslibrary.org/library/books/v/valmanc_00510064/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d233"
+  },
+  "titulo": "Me gusta jugar con los libros",
+  "abstract": "Este es un breve cuento que relata por qué a una niña le gustan jugar con los libros.",
+  "url": "http://es.childrenslibrary.org/library/books/s/sanjuga_00160022/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d234"
+  },
+  "titulo": "Me gusta leer",
+  "abstract": "Este es un breve cuento que relata por qué a una niña le gustan leer.",
+  "url": "http://es.childrenslibrary.org/library/books/s/sanleer_00160023/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d235"
+  },
+  "titulo": "Me gustan las bibliotecas",
+  "abstract": "Este es un breve cuento que relata por qué a un niño le gustan las bibliotecas.",
+  "url": "http://es.childrenslibrary.org/library/books/s/sanbibl_00160024/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d236"
+  },
+  "titulo": "Me gustan las librerías",
+  "abstract": "Este es un breve cuento que relata por qué a un niño le gustan las librerías.",
+  "url": "http://es.childrenslibrary.org/library/books/s/sanlibr_00160025/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d237"
+  },
+  "titulo": "Me gustan los cuentos antes de dormir",
+  "abstract": "Este es un breve cuento que relata por qué a una niña le gustan los cuentos antes de dormir.",
+  "url": "http://es.childrenslibrary.org/library/books/s/sandorm_00160026/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d238"
+  },
+  "titulo": "Me gustan los libros de cuentos",
+  "abstract": "Este es un breve cuento que relata por qué a un niño le gustan los libros de cuentos.",
+  "url": "http://es.childrenslibrary.org/library/books/s/sancuen_00160027/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d239"
+  },
+  "titulo": "Mi boca",
+  "abstract": "Cuántas cosas puedo hacer con mi boca?",
+  "url": "http://es.childrenslibrary.org/library/books/r/reymibo_01040011/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d23a"
+  },
+  "titulo": "Mi nariz",
+  "abstract": "Porqué es importante mi nariz?",
+  "url": "http://es.childrenslibrary.org/library/books/r/reymina_01040012/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d23b"
+  },
+  "titulo": "Mis manos",
+  "abstract": "Puedo guardar recuerdos en mis manos?",
+  "url": "http://es.childrenslibrary.org/library/books/r/reymism_01040009/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d23c"
+  },
+  "titulo": "Mis ojos",
+  "abstract": "Para que me sirven mis ojos?",
+  "url": "http://es.childrenslibrary.org/library/books/r/reymiso_01040013/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d23d"
+  },
+  "titulo": "Mis oídos",
+  "abstract": "Nuestros oídos son como puertas?",
+  "url": "http://es.childrenslibrary.org/library/books/r/reymiso_01040010/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d23e"
+  },
+  "titulo": "Montaña en flor",
+  "abstract": "Montaña en Flor es el nombre que Pashkin le ha dado a su mejor amigo: un hermoso árbol en medio de la selva. El está seguro que esa amistad durará para siempre, pero no sabe lo que le espera cuando pase de niño a hombre.",
+  "url": "http://es.childrenslibrary.org/library/books/b/barmont_01040007/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d23f"
+  },
+  "titulo": "Muki, el torito",
+  "abstract": "Muki es un toro que evita la violencia y ayuda a las otras personas.",
+  "url": "http://es.childrenslibrary.org/library/books/f/flomuki_00510003/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d240"
+  },
+  "titulo": "Niños del Tahuantinsuyo",
+  "abstract": "Esta obra presenta cuatro historias que muestran los sentimientos de diversos niños del Tahuantinsuyo frente a la llegada de los españoles.",
+  "url": "http://es.childrenslibrary.org/library/books/e/espnino_00510034/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d241"
+  },
+  "titulo": "Nuestra agua",
+  "abstract": "La autora toma temas y argumentos míticos del acervo cultural de nuestro pasado para recrearlos en sus cuentos. El elemento principal de estos cuentos es el agua, origen y crecimiento de la vida.",
+  "url": "http://es.childrenslibrary.org/library/books/h/haynues_00510037/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d242"
+  },
+  "titulo": "Paco y el espejo",
+  "abstract": "Este cuento recordará a los niños que la limpieza, amiga del agua y el jabón, es muy importante para la salud porque les permitirá crecer sanos y fuertes. ",
+  "url": "http://es.childrenslibrary.org/library/books/a/alvpaco_00510058/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d243"
+  },
+  "titulo": "Palma para niños y jóvenes",
+  "abstract": "Jesús Cabel ha realizado una adecuada selección de tradiciones dedicadas a niños y jóvenes que contienen lo más representativo de la prosa de Ricardo Palma, el máximo representante de la literatura peruana del Siglo XIX.",
+  "url": "http://es.childrenslibrary.org/library/books/p/palpalm_00510015/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d244"
+  },
+  "titulo": "Pasakón",
+  "abstract": "La obra narra la historia de Pasakón, un Sprunko simpático, trabajador y con mucha imaginación que, usando las ropas de un niño de campo, va a la ciudad en la que recibe maltratos, abusos y explotación.",
+  "url": "http://es.childrenslibrary.org/library/books/v/vegpasa_00510029/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d245"
+  },
+  "titulo": "Perulina la brujita buena y su escoba mágica",
+  "abstract": "Es la historia de Perulina, la niña bruja, que gracias a la ayuda de su escoba mágica decide ser una brujita buena, comprensiva y cariñosa. Luego de comunicar su deseo a sus padres, decide recorrer la provincia de Ica para realizar buenas acciones en favor de los habitantes y la naturaleza.",
+  "url": "http://es.childrenslibrary.org/library/books/t/telperu_00510014/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d246"
+  },
+  "titulo": "Poemas de una niña",
+  "abstract": "La obra nos muestra un conjunto de poemas escritos por una niña sobre sus pensamientos, su visión del mundo, y sentimientos, y lo que le rodea.",
+  "url": "http://es.childrenslibrary.org/library/books/t/terpoem_01040020/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d247"
+  },
+  "titulo": "Prodeo y... el pececito dorado",
+  "abstract": "Este libro presenta cómo los habitantes de un pueblo pesquero adquieren progreso y felicidad gracias a una iniciativa: atrapar al Pecesito Dorado, que les impulsa a realizar trabajos de importancia y obras de gran interés.",
+  "url": "http://es.childrenslibrary.org/library/books/t/telprod_00510013/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d248"
+  },
+  "titulo": "Raspadilla de limón",
+  "abstract": "Es la historia de un niño que viaja de la costa a la sierra peruana para reencontrarse con su padre.",
+  "url": "http://es.childrenslibrary.org/library/books/r/rosrasp_00510007/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d249"
+  },
+  "titulo": "Rayito y la princesa del médano",
+  "abstract": "El autor de este libro escribe: «Quise rememorar esa fraterna amistad que bañó mi infancia, mostrando un pasaje de la vida de aquellos animales con quienes me tocó compartir mis años de infante».",
+  "url": "http://es.childrenslibrary.org/library/books/c/colrayi_00510040/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d24a"
+  },
+  "titulo": "Reina del viento",
+  "abstract": "Este libro contiene cuarenta y tres leyendas, fruto de las investigaciones del autor en el área de la literatura oral quechua y castellana del departamento de Ancash. ",
+  "url": "http://es.childrenslibrary.org/library/books/y/yaurein_00510032/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d24b"
+  },
+  "titulo": "Ronron y Dientefino el ratón",
+  "abstract": "Este libro nos enseña la importancia del buen cuidado de los dientes.",
+  "url": "http://es.childrenslibrary.org/library/books/s/sanronr_00510078/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d24c"
+  },
+  "titulo": "Sapos",
+  "abstract": "El libro trata de una familia de 8 sapitos muy particulares, los sapitos González. También señala las diferencias entre sapos y ranas.",
+  "url": "http://es.childrenslibrary.org/library/books/g/gomsapo_01040022/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d24d"
+  },
+  "titulo": "Tachín Tachín",
+  "abstract": "Graciela Briceño, prologuista del libro, escribe: «Entre las virtudes de este libro encuentro la deliciosa manera de transmitir vivencias y las actitudes de generosa ayuda que irradian los relatos de Maritza Valle, ella intuye esa inmensa soledad en la que se debate gran parte de los seres humanos en este momento.» ",
+  "url": "http://es.childrenslibrary.org/library/books/v/valtach_00510063/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d24e"
+  },
+  "titulo": "Tairon el horrible",
+  "abstract": "El horrible Tyrone es un dinosaurio grande y con dientes que atemoriza al pequeño Boland hasta que Boland aparece con una idea creativa para enfrentar la intimidaciòn.",
+  "url": "http://es.childrenslibrary.org/library/books/w/wiltair_00940017/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d24f"
+  },
+  "titulo": "Tairon el super tramposo",
+  "abstract": "El grande y malvado Tyrone, el dinosaurio gana todos los juegos de la Isla del Pantano trampeando hasta que frustra su propio intento de hacer trampa en la bùsqueda del tesoro.",
+  "url": "http://es.childrenslibrary.org/library/books/w/wiltair_00940005/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d250"
+  },
+  "titulo": "Tairon en apuros",
+  "abstract": "El maestro de Bonifacio le dice que le lleve algunos libros a la casa de Tairon. El Tairon de Bonifacio es un gran Tyrannesaurus Rex que se regodea en intimidar a Bonifacio. Entonces, Bonifacio conoce por què es tan bravucòn.",
+  "url": "http://es.childrenslibrary.org/library/books/w/wiltair_00940019/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d251"
+  },
+  "titulo": "Tiempo de picaros",
+  "abstract": "Esta es una colección de cuentos en los cuales los débiles y astutos sobreviven los ataques de los tontos y más fuertes.  También contiene algunos cuentos clásicos de astucia.",
+  "url": "http://es.childrenslibrary.org/library/books/p/pjrtiem_00160009/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d252"
+  },
+  "titulo": "Uchuchullko",
+  "abstract": "Este cuento nos presenta las aventuras de Uchuchullko, personaje mitológico encargado de proteger la vida silvestre. ",
+  "url": "http://es.childrenslibrary.org/library/books/b/baruchu_00510001/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d253"
+  },
+  "titulo": "Un milagro de San Martín de Porras",
+  "abstract": "El libro presenta un milagro del santo peruano Martín de Porras: hacer comer en un solo plato a perro, gato y ratones.",
+  "url": "http://es.childrenslibrary.org/library/books/p/palmila_00510054/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d254"
+  },
+  "titulo": "Un naufragio inesperado",
+  "abstract": "Utilizando sencillos elementos de la cotidianeidad doméstica, el autor hace navegar a los lectores en una divertida aventura en el mar. Esta historia es una celebración de las travesuras y de la imaginación con que niños y niñas crean un mundo libre de sanciones y censuras en el que pueden vivir plenamente.",
+  "url": "http://es.childrenslibrary.org/library/books/s/salnauf_01040015/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d255"
+  },
+  "titulo": "Un pleito",
+  "abstract": "Dos gatos malandrines que se roban un queso de bola y no se ponen de acuerdo en como repartir el botín, recurren al juez para que les ayude a resolver el conflicto.  Escrita en el siglo XVI, esta fábula rimada tiene mucho que decir a los lectores del siglo XXI. ",
+  "url": "http://es.childrenslibrary.org/library/books/s/sanplei_01040017/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d256"
+  },
+  "titulo": "Una aventura con los animales",
+  "abstract": "Su objetivo es sensibilizar a los chicos en pro de una armonía con la naturaleza.",
+  "url": "http://es.childrenslibrary.org/library/books/a/alvaven_00510057/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d257"
+  },
+  "titulo": "Uno para cada uno",
+  "abstract": "Los diecisiete cuentos breves que presenta el libro muestran un conjunto de fábulas, relatos en el estilo clásico de los cuentos de hadas, que enseñan de manera divertida un conjunto de valores. ",
+  "url": "http://es.childrenslibrary.org/library/books/v/valunop_00510066/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d258"
+  },
+  "titulo": "Valdelomar para niños y jóvenes",
+  "abstract": "La obra de Abraham Valdelomar, uno de los clásicos de la literatura peruana, tiene elementos de fantasía, calor familiar y amor a la tierra, que están destinados a los niños y a los jóvenes.",
+  "url": "http://es.childrenslibrary.org/library/books/v/valvald_00510042/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d259"
+  },
+  "titulo": "Yo en movimiento",
+  "abstract": "Cuántas sorpresas me pueden dar mi cuerpo y mi mente?",
+  "url": "http://es.childrenslibrary.org/library/books/r/reyyoen_01040008/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d25a"
+  },
+  "titulo": "¡Gol de Federico!",
+  "abstract": "Cuando tres zorros hambrientos deciden hacer un estofado de conejo entre todos los conejitos de una fiesta, Ralph los salva con el mejor puntapié a la pelota de fútbol que haya realizado jamàs.",
+  "url": "http://es.childrenslibrary.org/library/books/w/wilgold_00940080/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d25b"
+  },
+  "titulo": "¡Qué desastre!",
+  "abstract": "Franklin es el ùnico cerdo limpio de la familia. Tiene temor de invitar a sus amigos a la casa. Luego de pintar un hermoso cuadro, su familia limpia la casa y a sî misma, brindando un âmbito perfecto para su cuadro.",
+  "url": "http://es.childrenslibrary.org/library/books/w/wilqued_00940035/book/index.html"
+},{
+  "_id": {
+    "$oid": "62c08d0d5e0e49deb6b7d25c"
+  },
+  "titulo": "¿Para qué quiere el ratón mi diente?",
+  "abstract": "Cuando a Alfredo se le cae su primer diente, su madre le habla del ratón de los dientes. Alfredo se pregunta ¿Para qué quiere el ratón mi diente? Después de escuchar las más ocurrentes respuestas se lleva una gran sorpresa.",
+  "url": "http://es.childrenslibrary.org/library/books/c/campara_01040018/book/index.html"
+}]
